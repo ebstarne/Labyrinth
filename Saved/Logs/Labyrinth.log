@@ -2192,3 +2192,1007 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.26-18.38.37:358][832]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Cthulhu_roar__Godzilla_vs_Cthulhu_movie_...
 [2019.10.26-18.38.46:376][886]LogEditorViewport: Clicking Background
 [2019.10.26-18.39.05:192][127]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.44.04:503][933]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-18.44.16:457][236]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.44.17:874][404]Cmd: DUPLICATE
+[2019.10.26-18.44.17:874][404]Cmd: ACTOR DUPLICATE
+[2019.10.26-18.44.56:776][957]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.45.00:664][418]Cmd: DUPLICATE
+[2019.10.26-18.45.00:664][418]Cmd: ACTOR DUPLICATE
+[2019.10.26-18.45.18:135][447]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x925)
+[2019.10.26-18.45.19:288][580]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.45.20:401][711]Cmd: DUPLICATE
+[2019.10.26-18.45.20:401][711]Cmd: ACTOR DUPLICATE
+[2019.10.26-18.45.44:698][584]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x867)
+[2019.10.26-18.45.46:658][814]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.45.47:931][964]Cmd: DUPLICATE
+[2019.10.26-18.45.47:931][964]Cmd: ACTOR DUPLICATE
+[2019.10.26-18.46.07:963][319]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x931)
+[2019.10.26-18.46.15:024][157]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.46.16:325][311]Cmd: DUPLICATE
+[2019.10.26-18.46.16:325][311]Cmd: ACTOR DUPLICATE
+[2019.10.26-18.46.35:547][553]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x936)
+[2019.10.26-18.46.36:562][673]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.46.37:566][791]Cmd: DUPLICATE
+[2019.10.26-18.46.37:566][791]Cmd: ACTOR DUPLICATE
+[2019.10.26-18.47.11:619][824]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.47.12:947][981]Cmd: DUPLICATE
+[2019.10.26-18.47.12:948][981]Cmd: ACTOR DUPLICATE
+[2019.10.26-18.47.43:567][581]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.48.02:711][862]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.48.06:491][295]Cmd: DUPLICATE
+[2019.10.26-18.48.06:491][295]Cmd: ACTOR DUPLICATE
+[2019.10.26-18.48.11:281][837]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.48.36:010][ 93]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-18.48.45:926][256]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.48.50:082][752]Cmd: DUPLICATE
+[2019.10.26-18.48.50:082][752]Cmd: ACTOR DUPLICATE
+[2019.10.26-18.49.11:860][315]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x947)
+[2019.10.26-18.49.12:921][439]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.49.14:224][592]Cmd: DUPLICATE
+[2019.10.26-18.49.14:224][592]Cmd: ACTOR DUPLICATE
+[2019.10.26-18.49.31:519][625]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.49.40:866][742]Cmd: DUPLICATE
+[2019.10.26-18.49.40:866][742]Cmd: ACTOR DUPLICATE
+[2019.10.26-18.49.49:214][706]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x883)
+[2019.10.26-18.49.49:948][789]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x954)
+[2019.10.26-18.50.01:797][175]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x950)
+[2019.10.26-18.50.04:032][437]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.50.05:197][574]Cmd: DUPLICATE
+[2019.10.26-18.50.05:197][574]Cmd: ACTOR DUPLICATE
+[2019.10.26-18.50.27:571][221]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.50.29:328][429]Cmd: DUPLICATE
+[2019.10.26-18.50.29:328][429]Cmd: ACTOR DUPLICATE
+[2019.10.26-18.50.36:210][240]Cmd: DELETE
+[2019.10.26-18.50.36:210][240]Cmd: ACTOR DELETE
+[2019.10.26-18.50.36:231][240]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.26-18.50.36:231][240]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.26-18.50.36:231][240]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.26-18.50.36:231][240]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.26-18.50.36:261][240]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2019.10.26-18.50.36:262][240]LogEditorActor: Deleted 4 Actors (0.051 secs)
+[2019.10.26-18.50.37:270][360]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.50.37:699][411]Cmd: DELETE
+[2019.10.26-18.50.37:699][411]Cmd: ACTOR DELETE
+[2019.10.26-18.50.37:732][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2019.10.26-18.50.37:732][411]LogEditorActor: Deleted 0 Actors (0.033 secs)
+[2019.10.26-18.50.56:519][659]Cmd: DUPLICATE
+[2019.10.26-18.50.56:519][659]Cmd: ACTOR DUPLICATE
+[2019.10.26-18.51.30:092][520]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x957)
+[2019.10.26-18.51.35:926][212]Cmd: DELETE
+[2019.10.26-18.51.35:926][212]Cmd: ACTOR DELETE
+[2019.10.26-18.51.35:946][212]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.26-18.51.35:947][212]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.26-18.51.35:947][212]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.26-18.51.35:947][212]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.26-18.51.35:975][212]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2019.10.26-18.51.35:975][212]LogEditorActor: Deleted 4 Actors (0.049 secs)
+[2019.10.26-18.51.37:014][335]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x961)
+[2019.10.26-18.51.39:620][641]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.51.40:841][785]Cmd: DUPLICATE
+[2019.10.26-18.51.40:841][785]Cmd: ACTOR DUPLICATE
+[2019.10.26-18.52.10:928][338]LogEditorViewport: Clicking Background
+[2019.10.26-18.52.18:436][235]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x953)
+[2019.10.26-18.52.22:051][662]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.52.24:111][907]Cmd: DUPLICATE
+[2019.10.26-18.52.24:111][907]Cmd: ACTOR DUPLICATE
+[2019.10.26-18.52.26:188][148]Cmd: DELETE
+[2019.10.26-18.52.26:188][148]Cmd: ACTOR DELETE
+[2019.10.26-18.52.26:221][148]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2019.10.26-18.52.26:221][148]LogEditorActor: Deleted 0 Actors (0.033 secs)
+[2019.10.26-18.52.46:559][540]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.52.52:195][212]Cmd: DUPLICATE
+[2019.10.26-18.52.52:195][212]Cmd: ACTOR DUPLICATE
+[2019.10.26-18.53.19:437][396]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.53.26:423][228]Cmd: DUPLICATE
+[2019.10.26-18.53.26:423][228]Cmd: ACTOR DUPLICATE
+[2019.10.26-18.54.01:790][375]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.54.10:585][422]Cmd: DUPLICATE
+[2019.10.26-18.54.10:585][422]Cmd: ACTOR DUPLICATE
+[2019.10.26-18.54.34:212][197]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.54.37:452][582]Cmd: DUPLICATE
+[2019.10.26-18.54.37:452][582]Cmd: ACTOR DUPLICATE
+[2019.10.26-18.54.59:859][187]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x960)
+[2019.10.26-18.55.01:575][388]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.55.02:795][531]Cmd: DUPLICATE
+[2019.10.26-18.55.02:795][531]Cmd: ACTOR DUPLICATE
+[2019.10.26-18.55.05:960][896]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.55.43:908][370]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.55.48:892][965]Cmd: DUPLICATE
+[2019.10.26-18.55.48:892][965]Cmd: ACTOR DUPLICATE
+[2019.10.26-18.56.28:754][635]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.56.32:136][ 39]Cmd: DUPLICATE
+[2019.10.26-18.56.32:136][ 39]Cmd: ACTOR DUPLICATE
+[2019.10.26-18.57.12:560][834]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x984)
+[2019.10.26-18.57.13:852][987]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.57.17:921][472]Cmd: DUPLICATE
+[2019.10.26-18.57.17:921][472]Cmd: ACTOR DUPLICATE
+[2019.10.26-18.57.48:909][130]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.57.49:972][255]Cmd: DUPLICATE
+[2019.10.26-18.57.49:972][255]Cmd: ACTOR DUPLICATE
+[2019.10.26-18.58.11:265][755]LogEditorViewport: Clicking Background
+[2019.10.26-18.58.22:127][ 48]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.58.28:923][861]Cmd: DUPLICATE
+[2019.10.26-18.58.28:923][861]Cmd: ACTOR DUPLICATE
+[2019.10.26-18.58.49:090][183]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.58.51:495][470]Cmd: DUPLICATE
+[2019.10.26-18.58.51:495][470]Cmd: ACTOR DUPLICATE
+[2019.10.26-18.59.14:248][ 59]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x993)
+[2019.10.26-18.59.15:900][252]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.59.17:585][452]Cmd: DUPLICATE
+[2019.10.26-18.59.17:585][452]Cmd: ACTOR DUPLICATE
+[2019.10.26-18.59.35:044][503]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x999)
+[2019.10.26-18.59.36:750][703]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.59.37:734][819]Cmd: DUPLICATE
+[2019.10.26-18.59.37:734][819]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.00.03:522][875]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1000)
+[2019.10.26-19.00.09:014][528]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.00.10:072][651]Cmd: DUPLICATE
+[2019.10.26-19.00.10:072][651]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.00.24:853][378]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1003)
+[2019.10.26-19.00.26:803][607]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.00.27:790][723]Cmd: DUPLICATE
+[2019.10.26-19.00.27:790][723]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.00.49:138][239]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.01.01:331][697]Cmd: DUPLICATE
+[2019.10.26-19.01.01:331][697]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.01.35:907][747]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1015)
+[2019.10.26-19.01.36:810][853]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.01.37:691][956]Cmd: DUPLICATE
+[2019.10.26-19.01.37:691][956]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.01.52:161][661]LogEditorViewport: Clicking Background
+[2019.10.26-19.02.09:659][748]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.02.19:300][895]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1015)
+[2019.10.26-19.02.20:819][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.02.24:874][555]Cmd: DUPLICATE
+[2019.10.26-19.02.24:874][555]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.02.38:930][207]Cmd: TRANSACTION UNDO
+[2019.10.26-19.02.38:930][207]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.26-19.02.41:703][513]Cmd: TRANSACTION UNDO
+[2019.10.26-19.02.41:703][513]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.26-19.02.45:949][ 11]Cmd: TRANSACTION UNDO
+[2019.10.26-19.02.45:949][ 11]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.26-19.02.48:272][283]Cmd: TRANSACTION UNDO
+[2019.10.26-19.02.48:272][283]LogEditorTransaction: Undo Duplicate Actors
+[2019.10.26-19.02.50:873][591]Cmd: TRANSACTION UNDO
+[2019.10.26-19.02.50:873][591]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.26-19.02.55:124][ 90]Cmd: TRANSACTION UNDO
+[2019.10.26-19.02.55:124][ 90]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.26-19.02.58:184][445]Cmd: TRANSACTION UNDO
+[2019.10.26-19.02.58:184][445]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.26-19.03.00:923][767]Cmd: TRANSACTION UNDO
+[2019.10.26-19.03.00:923][767]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.26-19.03.03:721][ 96]Cmd: TRANSACTION UNDO
+[2019.10.26-19.03.03:722][ 96]LogEditorTransaction: Undo Marquee Select
+[2019.10.26-19.03.10:853][944]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1015)
+[2019.10.26-19.03.12:067][ 85]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.03.13:252][225]Cmd: DUPLICATE
+[2019.10.26-19.03.13:253][225]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.03.19:501][952]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1019)
+[2019.10.26-19.03.20:455][ 61]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.03.21:199][148]Cmd: DUPLICATE
+[2019.10.26-19.03.21:199][148]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.03.38:807][228]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1007)
+[2019.10.26-19.03.40:100][377]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.03.41:005][483]Cmd: DUPLICATE
+[2019.10.26-19.03.41:005][483]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.03.51:125][640]LogEditorViewport: Clicking Background
+[2019.10.26-19.03.57:205][367]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1028)
+[2019.10.26-19.03.59:160][596]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.04.01:849][915]Cmd: DUPLICATE
+[2019.10.26-19.04.01:849][915]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.04.10:785][935]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.04.19:944][ 25]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x961)
+[2019.10.26-19.04.21:281][180]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.04.22:232][292]Cmd: DUPLICATE
+[2019.10.26-19.04.22:232][292]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.04.51:682][761]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x983)
+[2019.10.26-19.04.52:747][883]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.04.53:689][994]Cmd: DUPLICATE
+[2019.10.26-19.04.53:689][994]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.05.21:473][269]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1034)
+[2019.10.26-19.05.23:004][447]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.05.33:499][695]Cmd: DUPLICATE
+[2019.10.26-19.05.33:499][695]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.05.53:758][ 80]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.06.01:056][945]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x979)
+[2019.10.26-19.06.02:797][148]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.06.03:732][258]Cmd: DUPLICATE
+[2019.10.26-19.06.03:732][258]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.07.06:522][709]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.07.36:651][310]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-19.07.36:689][310]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2019.10.26-19.07.38:224][310]LogSavePackage: Moving 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/Labyrinth_Auto4425E19DF401F330E0A09BF8A294D3682.tmp' to 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/Autosaves/Game/HorrorEngine/Maps/Labyrinth_Auto4.umap'
+[2019.10.26-19.07.38:243][310]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/HorrorEngine/Maps/Labyrinth' took 1.584
+[2019.10.26-19.07.38:244][310]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.584
+[2019.10.26-19.07.44:163][ 14]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.07.51:622][904]Cmd: DUPLICATE
+[2019.10.26-19.07.51:622][904]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.08.22:382][487]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x999)
+[2019.10.26-19.08.24:742][765]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.08.25:871][898]Cmd: DUPLICATE
+[2019.10.26-19.08.25:871][898]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.08.47:055][396]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.09.00:274][975]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x928)
+[2019.10.26-19.09.02:128][192]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.09.03:036][298]Cmd: DUPLICATE
+[2019.10.26-19.09.03:036][298]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.09.58:987][907]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1050)
+[2019.10.26-19.10.06:015][742]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1015)
+[2019.10.26-19.10.13:658][650]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1019)
+[2019.10.26-19.10.14:958][801]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.10.15:909][913]Cmd: DUPLICATE
+[2019.10.26-19.10.15:909][913]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.10.40:843][861]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1015)
+[2019.10.26-19.10.41:856][978]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.10.43:042][118]Cmd: DUPLICATE
+[2019.10.26-19.10.43:042][118]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.11.16:081][ 24]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1052)
+[2019.10.26-19.11.17:189][152]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.11.18:123][260]Cmd: DUPLICATE
+[2019.10.26-19.11.18:123][260]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.11.38:882][711]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1057)
+[2019.10.26-19.11.42:078][ 89]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.11.43:748][287]Cmd: DUPLICATE
+[2019.10.26-19.11.43:748][287]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.12.48:470][894]LogEditorViewport: Clicking Background
+[2019.10.26-19.13.02:604][585]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1008)
+[2019.10.26-19.13.07:162][ 98]LogEditorViewport: Clicking Background
+[2019.10.26-19.13.08:118][205]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-19.13.18:856][473]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-19.13.37:400][675]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1061)
+[2019.10.26-19.13.39:175][882]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.13.39:961][974]Cmd: DUPLICATE
+[2019.10.26-19.13.39:961][974]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.13.58:389][140]LogEditorViewport: Clicking Background
+[2019.10.26-19.13.58:809][189]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1061)
+[2019.10.26-19.14.02:077][576]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.14.02:873][669]Cmd: DUPLICATE
+[2019.10.26-19.14.02:874][669]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.14.23:837][152]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1064)
+[2019.10.26-19.14.25:703][371]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.14.26:572][473]Cmd: DUPLICATE
+[2019.10.26-19.14.26:572][473]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.14.59:009][750]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-19.15.04:800][415]Cmd: TRANSACTION UNDO
+[2019.10.26-19.15.04:800][415]LogEditorTransaction: Undo Move Actors
+[2019.10.26-19.15.07:965][784]LogEditorViewport: Clicking Background
+[2019.10.26-19.15.11:903][253]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1033)
+[2019.10.26-19.15.13:163][398]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.15.14:056][503]Cmd: DUPLICATE
+[2019.10.26-19.15.14:056][503]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.15.54:501][321]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1025)
+[2019.10.26-19.15.58:492][794]Cmd: DELETE
+[2019.10.26-19.15.58:492][794]Cmd: ACTOR DELETE
+[2019.10.26-19.15.58:514][794]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.26-19.15.58:514][794]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.26-19.15.58:514][794]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.26-19.15.58:548][794]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2019.10.26-19.15.58:548][794]LogEditorActor: Deleted 3 Actors (0.056 secs)
+[2019.10.26-19.16.00:573][ 35]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x955)
+[2019.10.26-19.16.01:978][198]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.16.03:023][321]Cmd: DUPLICATE
+[2019.10.26-19.16.03:023][321]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.16.09:747][ 98]LogEditorViewport: Clicking Background
+[2019.10.26-19.16.11:578][316]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1075)
+[2019.10.26-19.16.59:449][986]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x958)
+[2019.10.26-19.17.00:792][141]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x893)
+[2019.10.26-19.17.03:046][405]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.17.04:089][528]Cmd: DUPLICATE
+[2019.10.26-19.17.04:089][528]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.17.35:889][312]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1023)
+[2019.10.26-19.17.37:400][488]LogEditorViewport: Clicking Background
+[2019.10.26-19.17.44:635][353]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1074)
+[2019.10.26-19.17.54:024][445]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1077)
+[2019.10.26-19.18.15:721][996]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1020)
+[2019.10.26-19.18.32:086][946]LogEditorViewport: Clicking Background
+[2019.10.26-19.18.33:066][ 61]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1023)
+[2019.10.26-19.18.47:423][776]Cmd: DELETE
+[2019.10.26-19.18.47:423][776]Cmd: ACTOR DELETE
+[2019.10.26-19.18.47:444][776]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.26-19.18.47:444][776]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.26-19.18.47:444][776]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.26-19.18.47:474][776]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2019.10.26-19.18.47:475][776]LogEditorActor: Deleted 3 Actors (0.051 secs)
+[2019.10.26-19.18.49:512][ 18]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1020)
+[2019.10.26-19.18.51:498][250]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.18.52:806][405]Cmd: DUPLICATE
+[2019.10.26-19.18.52:806][405]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.19.04:578][783]LogEditorViewport: Clicking Background
+[2019.10.26-19.19.39:694][985]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1072)
+[2019.10.26-19.20.16:863][380]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1067)
+[2019.10.26-19.20.20:619][824]LogEditorViewport: Clicking Background
+[2019.10.26-19.20.23:302][144]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1067)
+[2019.10.26-19.20.30:092][953]LogEditorViewport: Clicking Background
+[2019.10.26-19.20.31:034][ 64]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1021)
+[2019.10.26-19.20.33:115][308]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1067)
+[2019.10.26-19.20.35:362][572]LogEditorViewport: Clicking Background
+[2019.10.26-19.20.45:217][751]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1051)
+[2019.10.26-19.20.50:222][344]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1055)
+[2019.10.26-19.20.54:711][877]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1057)
+[2019.10.26-19.20.59:360][428]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1059)
+[2019.10.26-19.21.02:043][743]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1061)
+[2019.10.26-19.21.12:296][931]LogEditorViewport: Clicking Background
+[2019.10.26-19.21.51:546][628]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1064)
+[2019.10.26-19.21.53:413][846]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.21.54:647][992]Cmd: DUPLICATE
+[2019.10.26-19.21.54:647][992]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.22.18:683][824]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1067)
+[2019.10.26-19.22.20:541][ 36]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.22.21:286][117]Cmd: DUPLICATE
+[2019.10.26-19.22.21:286][117]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.22.45:262][907]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.22.53:561][899]Cmd: DUPLICATE
+[2019.10.26-19.22.53:561][899]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.23.09:172][725]LogEditorViewport: Clicking Background
+[2019.10.26-19.23.21:799][235]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.23.41:472][591]Cmd: DUPLICATE
+[2019.10.26-19.23.41:472][591]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.24.12:601][260]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1067)
+[2019.10.26-19.24.13:958][417]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.24.14:937][532]Cmd: DUPLICATE
+[2019.10.26-19.24.14:938][532]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.24.56:223][378]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1076)
+[2019.10.26-19.24.57:846][567]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.24.59:833][804]Cmd: DELETE
+[2019.10.26-19.24.59:833][804]Cmd: ACTOR DELETE
+[2019.10.26-19.24.59:874][804]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2019.10.26-19.24.59:874][804]LogEditorActor: Deleted 0 Actors (0.041 secs)
+[2019.10.26-19.25.02:143][ 67]Cmd: DUPLICATE
+[2019.10.26-19.25.02:143][ 67]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.25.19:680][110]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.25.23:345][547]Cmd: DUPLICATE
+[2019.10.26-19.25.23:345][547]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.25.47:735][387]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1052)
+[2019.10.26-19.25.49:164][551]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.25.50:570][717]Cmd: DUPLICATE
+[2019.10.26-19.25.50:570][717]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.26.09:907][983]LogEditorViewport: Clicking Background
+[2019.10.26-19.26.29:197][250]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1057)
+[2019.10.26-19.26.31:923][572]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.26.33:424][749]Cmd: DUPLICATE
+[2019.10.26-19.26.33:424][749]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.27.00:400][932]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1076)
+[2019.10.26-19.27.01:854][101]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.27.03:129][252]Cmd: DUPLICATE
+[2019.10.26-19.27.03:129][252]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.27.22:000][455]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1064)
+[2019.10.26-19.27.23:742][658]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.27.24:576][756]Cmd: DUPLICATE
+[2019.10.26-19.27.24:576][756]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.27.28:872][254]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1111)
+[2019.10.26-19.27.50:595][768]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1104)
+[2019.10.26-19.27.52:425][983]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.27.53:493][109]Cmd: DUPLICATE
+[2019.10.26-19.27.53:493][109]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.28.22:401][540]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1052)
+[2019.10.26-19.28.24:055][733]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.28.24:964][840]Cmd: DUPLICATE
+[2019.10.26-19.28.24:964][840]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.29.03:367][299]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1085)
+[2019.10.26-19.29.05:239][518]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.29.06:048][613]Cmd: DUPLICATE
+[2019.10.26-19.29.06:048][613]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.29.33:585][863]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x796)
+[2019.10.26-19.29.34:713][993]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.29.35:751][115]Cmd: DUPLICATE
+[2019.10.26-19.29.35:751][115]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.29.55:831][480]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1122)
+[2019.10.26-19.29.57:250][647]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.29.58:119][749]Cmd: DUPLICATE
+[2019.10.26-19.29.58:119][749]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.30.15:212][756]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.30.16:139][865]Cmd: DUPLICATE
+[2019.10.26-19.30.16:140][865]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.30.45:145][266]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1083)
+[2019.10.26-19.30.46:568][430]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.30.47:923][590]Cmd: DUPLICATE
+[2019.10.26-19.30.47:923][590]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.31.08:794][ 35]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1110)
+[2019.10.26-19.31.10:265][205]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.31.11:178][311]Cmd: DUPLICATE
+[2019.10.26-19.31.11:178][311]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.31.25:244][963]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x948)
+[2019.10.26-19.31.27:383][214]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.31.28:189][308]Cmd: DUPLICATE
+[2019.10.26-19.31.28:189][308]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.31.50:702][943]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1127)
+[2019.10.26-19.31.52:061][101]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1123)
+[2019.10.26-19.31.54:421][379]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.31.55:307][483]Cmd: DUPLICATE
+[2019.10.26-19.31.55:307][483]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.32.31:976][836]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1129)
+[2019.10.26-19.32.33:165][973]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.32.34:152][ 89]Cmd: DUPLICATE
+[2019.10.26-19.32.34:152][ 89]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.32.46:340][518]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1138)
+[2019.10.26-19.32.47:433][644]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.32.48:308][746]Cmd: DUPLICATE
+[2019.10.26-19.32.48:308][746]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.33.47:107][736]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-19.33.48:549][907]LogEditorViewport: Clicking Background
+[2019.10.26-19.33.55:091][686]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x933)
+[2019.10.26-19.33.59:617][220]LogEditorViewport: Clicking Background
+[2019.10.26-19.34.06:092][991]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1101)
+[2019.10.26-19.34.07:330][134]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.34.08:192][235]Cmd: DUPLICATE
+[2019.10.26-19.34.08:192][235]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.35.03:865][829]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1132)
+[2019.10.26-19.35.04:610][913]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1076)
+[2019.10.26-19.35.06:302][111]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.35.07:162][212]Cmd: DUPLICATE
+[2019.10.26-19.35.07:162][212]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.35.23:094][ 59]LogEditorViewport: Clicking Background
+[2019.10.26-19.35.24:322][203]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-19.35.29:434][811]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-19.35.43:272][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.36.01:933][687]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1119)
+[2019.10.26-19.36.04:109][941]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.36.04:925][ 37]Cmd: DUPLICATE
+[2019.10.26-19.36.04:925][ 37]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.36.15:836][315]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.36.15:961][330]Cmd: MODE GRID=0
+[2019.10.26-19.36.18:795][664]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.36.18:912][678]Cmd: MODE GRID=1
+[2019.10.26-19.36.33:321][393]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.36.39:588][138]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.36.45:562][843]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.36.50:531][432]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.36.54:607][915]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.36.59:609][506]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.37.06:343][297]Cmd: TRANSACTION UNDO
+[2019.10.26-19.37.06:343][297]LogEditorTransaction: Undo Move Actors
+[2019.10.26-19.37.06:767][340]Cmd: TRANSACTION UNDO
+[2019.10.26-19.37.06:767][340]LogEditorTransaction: Undo Move Actors
+[2019.10.26-19.37.10:369][758]Cmd: TRANSACTION UNDO
+[2019.10.26-19.37.10:369][758]LogEditorTransaction: Undo Move Actors
+[2019.10.26-19.37.11:044][827]Cmd: TRANSACTION UNDO
+[2019.10.26-19.37.11:044][827]LogEditorTransaction: Undo Move Actors
+[2019.10.26-19.37.11:558][884]Cmd: TRANSACTION UNDO
+[2019.10.26-19.37.11:558][884]LogEditorTransaction: Undo Move Actors
+[2019.10.26-19.37.13:024][ 56]Cmd: TRANSACTION UNDO
+[2019.10.26-19.37.13:024][ 56]LogEditorTransaction: Undo Move Actors
+[2019.10.26-19.37.15:280][321]Cmd: DELETE
+[2019.10.26-19.37.15:280][321]Cmd: ACTOR DELETE
+[2019.10.26-19.37.15:302][321]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.26-19.37.15:303][321]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.26-19.37.15:303][321]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.26-19.37.15:344][321]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2019.10.26-19.37.15:344][321]LogEditorActor: Deleted 3 Actors (0.064 secs)
+[2019.10.26-19.37.28:858][930]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1117)
+[2019.10.26-19.37.31:264][212]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.37.32:840][399]Cmd: DUPLICATE
+[2019.10.26-19.37.32:840][399]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.38.16:184][533]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1154)
+[2019.10.26-19.38.17:314][666]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.38.19:041][873]Cmd: DELETE
+[2019.10.26-19.38.19:041][873]Cmd: ACTOR DELETE
+[2019.10.26-19.38.19:081][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2019.10.26-19.38.19:082][873]LogEditorActor: Deleted 0 Actors (0.040 secs)
+[2019.10.26-19.38.21:067][107]Cmd: DUPLICATE
+[2019.10.26-19.38.21:068][107]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.38.39:370][225]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1152)
+[2019.10.26-19.38.40:759][386]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.38.42:061][539]Cmd: DUPLICATE
+[2019.10.26-19.38.42:061][539]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.38.49:252][384]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1160)
+[2019.10.26-19.39.03:603][881]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.39.07:581][354]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1160)
+[2019.10.26-19.39.33:980][470]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1157)
+[2019.10.26-19.39.38:557][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.40.29:016][ 47]Cmd: DUPLICATE
+[2019.10.26-19.40.29:016][ 47]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.41.51:450][833]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1104)
+[2019.10.26-19.41.52:464][949]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.41.53:241][ 40]Cmd: DUPLICATE
+[2019.10.26-19.41.53:241][ 40]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.42.11:571][168]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1167)
+[2019.10.26-19.42.12:358][260]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.42.13:185][357]Cmd: DUPLICATE
+[2019.10.26-19.42.13:186][357]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.42.40:528][569]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1167)
+[2019.10.26-19.42.44:669][ 61]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.42.45:507][158]Cmd: DUPLICATE
+[2019.10.26-19.42.45:507][158]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.43.02:277][123]LogEditorViewport: Clicking Background
+[2019.10.26-19.43.03:320][246]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1010)
+[2019.10.26-19.43.04:308][359]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.43.05:084][450]Cmd: DUPLICATE
+[2019.10.26-19.43.05:084][450]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.44.25:429][ 10]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1120)
+[2019.10.26-19.44.26:800][169]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.44.27:544][256]Cmd: DUPLICATE
+[2019.10.26-19.44.27:544][256]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.44.59:340][  2]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1181)
+[2019.10.26-19.45.00:069][ 87]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.45.00:822][175]Cmd: DUPLICATE
+[2019.10.26-19.45.00:822][175]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.45.14:793][816]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1138)
+[2019.10.26-19.45.15:975][952]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.45.16:684][ 35]Cmd: DUPLICATE
+[2019.10.26-19.45.16:684][ 35]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.45.42:095][982]LogEditorViewport: Clicking Background
+[2019.10.26-19.45.43:257][120]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1182)
+[2019.10.26-19.45.44:475][260]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.45.45:376][366]Cmd: DUPLICATE
+[2019.10.26-19.45.45:376][366]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.45.58:438][882]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1174)
+[2019.10.26-19.46.00:271][ 97]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.46.01:169][202]Cmd: DUPLICATE
+[2019.10.26-19.46.01:169][202]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.46.28:015][356]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1151)
+[2019.10.26-19.46.28:958][463]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.46.30:030][589]Cmd: DUPLICATE
+[2019.10.26-19.46.30:030][589]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.46.41:874][961]LogEditorViewport: Clicking Background
+[2019.10.26-19.46.59:781][ 95]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1156)
+[2019.10.26-19.47.00:921][226]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.47.02:215][379]Cmd: DUPLICATE
+[2019.10.26-19.47.02:215][379]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.47.18:012][225]LogEditorViewport: Clicking Background
+[2019.10.26-19.47.26:085][188]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1193)
+[2019.10.26-19.47.27:456][347]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.47.28:706][495]Cmd: DUPLICATE
+[2019.10.26-19.47.28:706][495]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.47.48:894][875]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.47.49:790][980]Cmd: DUPLICATE
+[2019.10.26-19.47.49:790][980]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.48.51:294][285]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1135)
+[2019.10.26-19.48.54:507][664]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.48.55:345][762]Cmd: DUPLICATE
+[2019.10.26-19.48.55:345][762]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.49.14:964][ 51]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1142)
+[2019.10.26-19.49.16:104][182]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.49.17:787][382]Cmd: DUPLICATE
+[2019.10.26-19.49.17:787][382]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.49.49:550][ 90]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1200)
+[2019.10.26-19.49.50:828][237]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.49.51:573][324]Cmd: DUPLICATE
+[2019.10.26-19.49.51:573][324]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.50.26:549][417]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1167)
+[2019.10.26-19.50.27:646][543]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.50.28:869][687]Cmd: DUPLICATE
+[2019.10.26-19.50.28:869][687]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.50.59:625][295]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor_400x1218)
+[2019.10.26-19.50.59:645][295]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-19.51.02:631][647]Cmd: DUPLICATE
+[2019.10.26-19.51.02:631][647]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.51.40:360][114]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.51.41:675][269]Cmd: DUPLICATE
+[2019.10.26-19.51.41:675][269]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.52.03:533][849]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.52.04:584][973]Cmd: DUPLICATE
+[2019.10.26-19.52.04:584][973]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.52.35:218][582]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.53.11:577][935]Cmd: DELETE
+[2019.10.26-19.53.11:577][935]Cmd: ACTOR DELETE
+[2019.10.26-19.53.11:626][935]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2019.10.26-19.53.11:626][935]LogEditorActor: Deleted 0 Actors (0.048 secs)
+[2019.10.26-19.53.31:735][341]Cmd: DUPLICATE
+[2019.10.26-19.53.31:735][341]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.53.58:714][433]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1196)
+[2019.10.26-19.54.00:976][698]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.54.18:916][845]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1195)
+[2019.10.26-19.54.20:202][995]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.54.22:080][218]Cmd: DUPLICATE
+[2019.10.26-19.54.22:080][218]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.54.39:482][250]LogEditorViewport: Clicking Background
+[2019.10.26-19.54.40:112][324]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1228)
+[2019.10.26-19.54.41:398][472]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.54.42:751][632]Cmd: DUPLICATE
+[2019.10.26-19.54.42:751][632]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.55.06:199][395]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1185)
+[2019.10.26-19.55.07:293][521]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.55.08:379][649]Cmd: DUPLICATE
+[2019.10.26-19.55.08:379][649]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.55.52:562][827]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.55.53:356][920]Cmd: DUPLICATE
+[2019.10.26-19.55.53:356][920]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.56.13:582][287]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1231)
+[2019.10.26-19.56.15:474][509]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.56.16:256][600]Cmd: DUPLICATE
+[2019.10.26-19.56.16:256][600]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.56.29:558][158]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.56.30:410][258]Cmd: DUPLICATE
+[2019.10.26-19.56.30:410][258]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.57.01:954][966]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.57.04:680][289]Cmd: DUPLICATE
+[2019.10.26-19.57.04:680][289]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.57.49:568][521]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1223)
+[2019.10.26-19.57.49:897][554]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor_400x1223)
+[2019.10.26-19.57.49:916][554]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-19.57.50:762][652]LogEditorViewport: Clicking Background
+[2019.10.26-19.57.51:364][722]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1223)
+[2019.10.26-19.57.52:192][816]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.57.53:176][932]Cmd: DUPLICATE
+[2019.10.26-19.57.53:176][932]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.58.09:328][825]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1249)
+[2019.10.26-19.58.11:141][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.58.11:859][121]Cmd: DUPLICATE
+[2019.10.26-19.58.11:859][121]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.58.31:471][427]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1251)
+[2019.10.26-19.58.33:438][658]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.58.36:107][974]Cmd: DUPLICATE
+[2019.10.26-19.58.36:107][974]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.58.44:316][923]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.58.44:503][938]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2019.10.26-19.58.46:323][938]LogSavePackage: Moving 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/Labyrinth3F2ED0DD4D01F1DC8676C78AEC7B633B.tmp' to 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Content/HorrorEngine/Maps/Labyrinth.umap'
+[2019.10.26-19.58.46:686][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HorrorEngine/Maps/Labyrinth_BuiltData" FILE="C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Content/HorrorEngine/Maps/Labyrinth_BuiltData.uasset" SILENT=true
+[2019.10.26-19.58.47:231][938]LogSavePackage: Moving 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/Labyrinth_BuiltData65256FE346EB3E5BE40D1B8B12C342CA.tmp' to 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Content/HorrorEngine/Maps/Labyrinth_BuiltData.uasset'
+[2019.10.26-19.58.47:837][  6]LogEditorViewport: Clicking Background
+[2019.10.26-19.59.09:649][407]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1232)
+[2019.10.26-19.59.10:740][533]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.59.11:559][628]Cmd: DUPLICATE
+[2019.10.26-19.59.11:559][628]Cmd: ACTOR DUPLICATE
+[2019.10.26-19.59.50:173][189]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1218)
+[2019.10.26-19.59.51:460][338]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-19.59.52:703][485]Cmd: DUPLICATE
+[2019.10.26-19.59.52:703][485]Cmd: ACTOR DUPLICATE
+[2019.10.26-20.00.18:718][563]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-20.00.20:860][817]Cmd: DUPLICATE
+[2019.10.26-20.00.20:860][817]Cmd: ACTOR DUPLICATE
+[2019.10.26-20.00.41:136][208]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1265)
+[2019.10.26-20.00.42:289][342]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-20.00.43:049][431]Cmd: DUPLICATE
+[2019.10.26-20.00.43:049][431]Cmd: ACTOR DUPLICATE
+[2019.10.26-20.00.58:217][218]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1231)
+[2019.10.26-20.00.59:399][354]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-20.01.00:192][447]Cmd: DUPLICATE
+[2019.10.26-20.01.00:192][447]Cmd: ACTOR DUPLICATE
+[2019.10.26-20.01.17:351][474]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-20.01.18:301][586]Cmd: DUPLICATE
+[2019.10.26-20.01.18:301][586]Cmd: ACTOR DUPLICATE
+[2019.10.26-20.01.24:947][359]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-20.01.26:643][560]Cmd: DUPLICATE
+[2019.10.26-20.01.26:643][560]Cmd: ACTOR DUPLICATE
+[2019.10.26-20.01.43:898][570]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-20.01.45:800][796]Cmd: DUPLICATE
+[2019.10.26-20.01.45:800][796]Cmd: ACTOR DUPLICATE
+[2019.10.26-20.01.51:004][407]LogEditorViewport: Clicking Background
+[2019.10.26-20.01.51:834][506]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1279)
+[2019.10.26-20.02.00:137][478]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1282)
+[2019.10.26-20.02.09:067][525]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-20.02.26:140][535]Cmd: DUPLICATE
+[2019.10.26-20.02.26:140][535]Cmd: ACTOR DUPLICATE
+[2019.10.26-20.02.48:153][  3]LogEditorViewport: Clicking Background
+[2019.10.26-20.03.01:709][615]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1267)
+[2019.10.26-20.03.03:696][847]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-20.03.04:770][974]Cmd: DUPLICATE
+[2019.10.26-20.03.04:770][974]Cmd: ACTOR DUPLICATE
+[2019.10.26-20.03.26:975][573]LogEditorViewport: Clicking Background
+[2019.10.26-20.03.27:369][618]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x836)
+[2019.10.26-20.03.28:626][763]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-20.03.29:351][847]Cmd: DUPLICATE
+[2019.10.26-20.03.29:351][847]Cmd: ACTOR DUPLICATE
+[2019.10.26-20.03.59:670][397]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1237)
+[2019.10.26-20.04.00:779][524]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-20.04.01:664][628]Cmd: DUPLICATE
+[2019.10.26-20.04.01:664][628]Cmd: ACTOR DUPLICATE
+[2019.10.26-20.04.41:047][264]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1223)
+[2019.10.26-20.04.42:303][409]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-20.04.43:350][532]Cmd: DUPLICATE
+[2019.10.26-20.04.43:350][532]Cmd: ACTOR DUPLICATE
+[2019.10.26-20.04.49:406][241]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-20.05.12:573][979]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-20.05.13:449][ 82]Cmd: DUPLICATE
+[2019.10.26-20.05.13:449][ 82]Cmd: ACTOR DUPLICATE
+[2019.10.26-20.05.43:699][632]LogEditorViewport: Clicking Background
+[2019.10.26-20.05.58:493][400]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1270)
+[2019.10.26-20.06.01:494][749]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-20.06.02:398][855]Cmd: DUPLICATE
+[2019.10.26-20.06.02:399][855]Cmd: ACTOR DUPLICATE
+[2019.10.26-20.08.04:449][424]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-20.08.08:633][923]Cmd: DUPLICATE
+[2019.10.26-20.08.08:633][923]Cmd: ACTOR DUPLICATE
+[2019.10.26-20.08.27:011][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-20.08.28:787][264]Cmd: DUPLICATE
+[2019.10.26-20.08.28:787][264]Cmd: ACTOR DUPLICATE
+[2019.10.26-20.08.58:700][714]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1305)
+[2019.10.26-20.09.00:351][907]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-20.09.01:088][993]Cmd: DUPLICATE
+[2019.10.26-20.09.01:088][993]Cmd: ACTOR DUPLICATE
+[2019.10.26-20.09.40:022][619]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-20.09.43:927][ 85]Cmd: DUPLICATE
+[2019.10.26-20.09.43:927][ 85]Cmd: ACTOR DUPLICATE
+[2019.10.26-20.10.11:951][386]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-20.10.12:960][505]Cmd: DUPLICATE
+[2019.10.26-20.10.12:960][505]Cmd: ACTOR DUPLICATE
+[2019.10.26-20.10.47:249][533]LogEditorViewport: Clicking Background
+[2019.10.26-20.10.51:290][ 14]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1314)
+[2019.10.26-20.10.53:148][231]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-20.10.53:832][311]Cmd: DUPLICATE
+[2019.10.26-20.10.53:832][311]Cmd: ACTOR DUPLICATE
+[2019.10.26-20.11.09:041][ 87]LogEditorViewport: Clicking Background
+[2019.10.26-20.11.11:605][388]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1273)
+[2019.10.26-20.11.12:648][507]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-20.11.13:632][623]Cmd: DUPLICATE
+[2019.10.26-20.11.13:632][623]Cmd: ACTOR DUPLICATE
+[2019.10.26-20.11.32:537][809]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1319)
+[2019.10.26-20.11.34:290][ 14]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-20.11.35:608][170]Cmd: DUPLICATE
+[2019.10.26-20.11.35:608][170]Cmd: ACTOR DUPLICATE
+[2019.10.26-20.12.00:381][ 91]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1260)
+[2019.10.26-20.12.01:389][206]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-20.12.02:189][300]Cmd: DUPLICATE
+[2019.10.26-20.12.02:189][300]Cmd: ACTOR DUPLICATE
+[2019.10.26-20.12.25:993][ 66]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1323)
+[2019.10.26-20.12.27:427][232]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-20.12.28:719][385]Cmd: DUPLICATE
+[2019.10.26-20.12.28:720][385]Cmd: ACTOR DUPLICATE
+[2019.10.26-20.12.46:935][524]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1326)
+[2019.10.26-20.12.48:151][665]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-20.12.49:098][776]Cmd: DUPLICATE
+[2019.10.26-20.12.49:098][776]Cmd: ACTOR DUPLICATE
+[2019.10.26-20.13.01:315][200]LogEditorViewport: Clicking Background
+[2019.10.26-20.13.07:562][947]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1303)
+[2019.10.26-20.13.08:998][114]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-20.13.09:757][203]Cmd: DUPLICATE
+[2019.10.26-20.13.09:757][203]Cmd: ACTOR DUPLICATE
+[2019.10.26-20.13.34:882][167]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1311)
+[2019.10.26-20.13.36:826][395]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-20.13.38:940][646]Cmd: DUPLICATE
+[2019.10.26-20.13.38:940][646]Cmd: ACTOR DUPLICATE
+[2019.10.26-20.13.54:965][526]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1337)
+[2019.10.26-20.13.56:815][743]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-20.13.58:860][985]Cmd: DUPLICATE
+[2019.10.26-20.13.58:860][985]Cmd: ACTOR DUPLICATE
+[2019.10.26-20.14.10:373][344]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1340)
+[2019.10.26-20.14.12:023][537]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-20.14.15:731][979]Cmd: DUPLICATE
+[2019.10.26-20.14.15:731][979]Cmd: ACTOR DUPLICATE
+[2019.10.26-20.14.35:875][371]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1343)
+[2019.10.26-20.14.37:766][593]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-20.14.41:257][  8]Cmd: DUPLICATE
+[2019.10.26-20.14.41:257][  8]Cmd: ACTOR DUPLICATE
+[2019.10.26-20.14.50:372][ 82]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1346)
+[2019.10.26-20.14.51:774][245]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-20.14.52:617][344]Cmd: DUPLICATE
+[2019.10.26-20.14.52:617][344]Cmd: ACTOR DUPLICATE
+[2019.10.26-20.15.15:025][  3]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1292)
+[2019.10.26-20.15.16:165][134]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-20.15.17:790][327]Cmd: DUPLICATE
+[2019.10.26-20.15.17:790][327]Cmd: ACTOR DUPLICATE
+[2019.10.26-20.15.37:923][697]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1358)
+[2019.10.26-20.15.39:395][870]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-20.15.41:242][ 88]Cmd: DUPLICATE
+[2019.10.26-20.15.41:242][ 88]Cmd: ACTOR DUPLICATE
+[2019.10.26-20.16.12:364][760]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1259)
+[2019.10.26-20.16.13:350][873]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-20.16.14:186][970]Cmd: DUPLICATE
+[2019.10.26-20.16.14:186][970]Cmd: ACTOR DUPLICATE
+[2019.10.26-20.16.47:862][931]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1337)
+[2019.10.26-20.16.49:729][149]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-20.16.53:668][619]Cmd: DUPLICATE
+[2019.10.26-20.16.53:668][619]Cmd: ACTOR DUPLICATE
+[2019.10.26-20.17.09:629][456]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1340)
+[2019.10.26-20.17.11:878][721]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-20.17.13:302][889]Cmd: DUPLICATE
+[2019.10.26-20.17.13:302][889]Cmd: ACTOR DUPLICATE
+[2019.10.26-20.17.33:172][978]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-20.17.38:236][551]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1369)
+[2019.10.26-20.17.52:286][207]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1349)
+[2019.10.26-20.17.54:462][463]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1343)
+[2019.10.26-20.17.58:333][921]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-20.17.59:264][ 30]Cmd: DUPLICATE
+[2019.10.26-20.17.59:264][ 30]Cmd: ACTOR DUPLICATE
+[2019.10.26-20.18.25:955][176]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1364)
+[2019.10.26-20.18.27:233][323]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-20.18.28:075][422]Cmd: DUPLICATE
+[2019.10.26-20.18.28:075][422]Cmd: ACTOR DUPLICATE
+[2019.10.26-20.19.00:157][174]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-20.19.00:933][265]Cmd: DUPLICATE
+[2019.10.26-20.19.00:933][265]Cmd: ACTOR DUPLICATE
+[2019.10.26-20.19.20:498][557]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1323)
+[2019.10.26-20.19.22:752][822]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-20.19.24:647][ 47]Cmd: DUPLICATE
+[2019.10.26-20.19.24:647][ 47]Cmd: ACTOR DUPLICATE
+[2019.10.26-20.19.43:193][215]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1359)
+[2019.10.26-20.19.44:904][414]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-20.19.46:492][602]Cmd: DUPLICATE
+[2019.10.26-20.19.46:492][602]Cmd: ACTOR DUPLICATE
+[2019.10.26-20.20.20:699][639]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1296)
+[2019.10.26-20.20.21:808][766]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-20.20.22:684][869]Cmd: DUPLICATE
+[2019.10.26-20.20.22:684][869]Cmd: ACTOR DUPLICATE
+[2019.10.26-20.21.14:212][895]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1334)
+[2019.10.26-20.21.16:112][118]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-20.21.16:950][216]Cmd: DUPLICATE
+[2019.10.26-20.21.16:950][216]Cmd: ACTOR DUPLICATE
+[2019.10.26-20.21.46:893][746]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1366)
+[2019.10.26-20.21.48:043][879]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-20.21.48:861][975]Cmd: DUPLICATE
+[2019.10.26-20.21.48:861][975]Cmd: ACTOR DUPLICATE
+[2019.10.26-20.22.11:921][613]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1368)
+[2019.10.26-20.22.14:560][924]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-20.22.17:459][269]Cmd: DUPLICATE
+[2019.10.26-20.22.17:459][269]Cmd: ACTOR DUPLICATE
+[2019.10.26-20.22.43:391][267]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1392)
+[2019.10.26-20.22.44:461][390]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-20.22.45:816][550]Cmd: DUPLICATE
+[2019.10.26-20.22.45:816][550]Cmd: ACTOR DUPLICATE
+[2019.10.26-20.22.56:954][849]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1378)
+[2019.10.26-20.22.57:930][961]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-20.22.58:901][ 75]Cmd: DUPLICATE
+[2019.10.26-20.22.58:901][ 75]Cmd: ACTOR DUPLICATE
+[2019.10.26-20.23.25:428][203]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1381)
+[2019.10.26-20.23.26:962][381]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-20.23.27:805][480]Cmd: DUPLICATE
+[2019.10.26-20.23.27:805][480]Cmd: ACTOR DUPLICATE
+[2019.10.26-20.23.43:205][279]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1385)
+[2019.10.26-20.23.44:966][485]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-20.23.49:042][971]Cmd: DUPLICATE
+[2019.10.26-20.23.49:042][971]Cmd: ACTOR DUPLICATE
+[2019.10.26-20.24.22:877][968]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1388)
+[2019.10.26-20.24.24:500][158]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-20.24.27:031][458]Cmd: DUPLICATE
+[2019.10.26-20.24.27:031][458]Cmd: ACTOR DUPLICATE
+[2019.10.26-20.24.53:442][574]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1392)
+[2019.10.26-20.24.55:148][773]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-20.24.56:586][943]Cmd: DUPLICATE
+[2019.10.26-20.24.56:586][943]Cmd: ACTOR DUPLICATE
+[2019.10.26-20.25.10:165][534]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1401)
+[2019.10.26-20.25.12:050][754]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-20.25.15:151][123]Cmd: DUPLICATE
+[2019.10.26-20.25.15:151][123]Cmd: ACTOR DUPLICATE
+[2019.10.26-20.25.32:971][212]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-20.25.35:931][564]Cmd: DUPLICATE
+[2019.10.26-20.25.35:931][564]Cmd: ACTOR DUPLICATE
+[2019.10.26-20.25.36:823][659]LogEditorViewport: Clicking Background
+[2019.10.26-20.25.37:852][781]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1419)
+[2019.10.26-20.25.51:282][343]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1412)
+[2019.10.26-20.25.52:722][511]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-20.25.55:528][845]Cmd: DUPLICATE
+[2019.10.26-20.25.55:528][845]Cmd: ACTOR DUPLICATE
+[2019.10.26-20.26.11:095][677]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-20.26.14:480][ 76]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1363)
+[2019.10.26-20.26.16:175][274]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-20.26.16:974][367]Cmd: DUPLICATE
+[2019.10.26-20.26.16:974][367]Cmd: ACTOR DUPLICATE
+[2019.10.26-20.26.53:166][648]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1139)
+[2019.10.26-20.26.54:204][767]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-20.26.55:064][868]Cmd: DUPLICATE
+[2019.10.26-20.26.55:064][868]Cmd: ACTOR DUPLICATE
+[2019.10.26-20.27.15:470][227]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1428)
+[2019.10.26-20.27.17:239][436]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-20.27.20:332][804]Cmd: DUPLICATE
+[2019.10.26-20.27.20:332][804]Cmd: ACTOR DUPLICATE
+[2019.10.26-20.27.29:213][846]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-20.27.31:095][ 66]LogEditorViewport: Clicking Background
+[2019.10.26-20.27.44:539][439]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-20.28.12:454][728]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-20.28.12:633][742]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2019.10.26-20.28.14:676][742]LogSavePackage: Moving 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/LabyrinthC7F1BE1C4FDB4915A9D5C1A53233229F.tmp' to 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Content/HorrorEngine/Maps/Labyrinth.umap'
+[2019.10.26-20.28.14:735][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HorrorEngine/Maps/Labyrinth_BuiltData" FILE="C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Content/HorrorEngine/Maps/Labyrinth_BuiltData.uasset" SILENT=true
+[2019.10.26-20.28.15:275][742]LogSavePackage: Moving 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/Labyrinth_BuiltData659E8B954B829AA26C8C97A0824CE8D2.tmp' to 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Content/HorrorEngine/Maps/Labyrinth_BuiltData.uasset'
+[2019.10.26-20.28.25:877][  3]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-20.28.25:993][ 17]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.26-20.28.26:003][ 17]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2019.10.26-20.28.26:003][ 17]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.26-20.28.26:003][ 17]PIE: New page: PIE session: Labyrinth (Oct 26, 2019, 12:28:26 PM)
+[2019.10.26-20.28.26:004][ 17]LogPlayLevel: Creating play world package: /Game/HorrorEngine/Maps/UEDPIE_0_Labyrinth
+[2019.10.26-20.28.26:134][ 17]LogPlayLevel: PIE: StaticDuplicateObject took: (0.129384s)
+[2019.10.26-20.28.26:134][ 17]LogAIModule: Creating AISystem for world Labyrinth
+[2019.10.26-20.28.26:135][ 17]LogPlayLevel: PIE: World Init took: (0.000986s)
+[2019.10.26-20.28.26:135][ 17]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HorrorEngine/Maps/Labyrinth.Labyrinth to /Game/HorrorEngine/Maps/UEDPIE_0_Labyrinth.Labyrinth (0.131211s)
+[2019.10.26-20.28.26:164][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2019.10.26-20.28.26:194][ 17]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.26-20.28.26:204][ 17]LogInit: FAudioDevice initialized.
+[2019.10.26-20.28.26:238][ 17]LogLoad: Game class is 'HorrorEngineGameMode_C'
+[2019.10.26-20.28.26:271][ 17]LogWorld: Bringing World /Game/HorrorEngine/Maps/UEDPIE_0_Labyrinth.Labyrinth up for play (max tick rate 0) at 2019.10.26-16.28.26
+[2019.10.26-20.28.26:274][ 17]LogWorld: Bringing up level for play took: 0.033626
+[2019.10.26-20.28.26:287][ 17]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.26-20.28.26:298][ 17]PIE: Play in editor start time for /Game/HorrorEngine/Maps/UEDPIE_0_Labyrinth 0.454
+[2019.10.26-20.28.26:299][ 17]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2019.10.26-20.28.39:213][534]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item50
+	HorrorEvents_C /Game/HorrorEngine/Maps/UEDPIE_0_Labyrinth.Labyrinth:PersistentLevel.HorrorEvents_C_1
+	Function /Game/HorrorEngine/Blueprints/Core/HorrorEvents.HorrorEvents_C:ExecuteUbergraph_HorrorEvents:1252
+[2019.10.26-20.28.39:213][534]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item50". Blueprint:  HorrorEvents Function:  Execute Ubergraph Horror Events Graph:  EventGraph Node:  Open/ On
+[2019.10.26-20.28.39:213][534]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item50
+	HorrorEvents_C /Game/HorrorEngine/Maps/UEDPIE_0_Labyrinth.Labyrinth:PersistentLevel.HorrorEvents_C_1
+	Function /Game/HorrorEngine/Blueprints/Core/HorrorEvents.HorrorEvents_C:ExecuteUbergraph_HorrorEvents:1252
+[2019.10.26-20.28.39:214][534]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item50". Blueprint:  HorrorEvents Function:  Execute Ubergraph Horror Events Graph:  EventGraph Node:  Open/ On
+[2019.10.26-20.33.05:740][440]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2019.10.26-20.33.05:740][440]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-20.33.05:779][440]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.26-20.33.05:779][440]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2019.10.26-20.33.05:816][440]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-20.33.05:831][440]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2019.10.26-20.33.05:841][440]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-20.33.05:894][441]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.10.26-20.33.08:598][700]LogSlate: Window 'Message Log' being destroyed
+[2019.10.26-20.33.08:611][700]LogSlate: Window 'Message Log' being destroyed
+[2019.10.26-20.34.06:557][604]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-20.34.08:453][774]MapCheck: New page: Map Check
+[2019.10.26-20.34.08:459][774]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-20.34.08:463][774]LightingResults: New page: Lighting Build - Oct 26, 2019, 12:34:08 PM
+[2019.10.26-20.34.08:479][774]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.10.26-20.34.08:482][774]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.10.26-20.34.08:482][774]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.10.26-20.34.08:483][774]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.10.26-20.34.08:484][774]LogSwarmInterface: [TryOpenConnection] Local Process ID is 16076
+[2019.10.26-20.34.13:091][774]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.10.26-20.34.13:092][774]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.10.26-20.34.13:092][774]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.10.26-20.34.13:092][774]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.10.26-20.34.13:092][774]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.10.26-20.34.13:092][774]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.10.26-20.34.13:234][774]LogEditorBuildUtils: Build time 0:04
+[2019.10.26-20.34.13:277][775]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2019.10.26-20.34.51:951][258]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-20.36.48:420][857]Job is a success!
+[2019.10.26-20.36.48:446][859]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-20.36.48:578][859]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.058s
+[2019.10.26-20.36.48:578][859]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2019.10.26-20.36.48:578][859]LogVolumetricLightmapImport:      BrickData 720x5x5 = 0.6Mb (trimmed 0.8Mb due to 0.010000 MinBrickError)
+[2019.10.26-20.36.48:578][859]LogVolumetricLightmapImport:      Bricks at Level
+[2019.10.26-20.36.48:578][859]LogVolumetricLightmapImport:          0: 5.6% covering 100.0% of volume
+[2019.10.26-20.36.48:578][859]LogVolumetricLightmapImport:          1: 11.1% covering 3.1% of volume
+[2019.10.26-20.36.48:578][859]LogVolumetricLightmapImport:          2: 83.3% covering 0.4% of volume
+[2019.10.26-20.37.02:286][859]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2019.10.26-20.37.02:286][859]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2019.10.26-20.37.02:286][859]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2019.10.26-20.37.02:287][859]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2019.10.26-20.37.02:287][859]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2019.10.26-20.37.02:287][859]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2019.10.26-20.37.02:287][859]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 1024X1024)
+[2019.10.26-20.37.02:287][859]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 1024X1024)
+[2019.10.26-20.37.02:287][859]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 1024X1024)
+[2019.10.26-20.37.02:287][859]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 1024X1024)
+[2019.10.26-20.37.02:287][859]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 1024X1024)
+[2019.10.26-20.37.02:287][859]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 1024X1024)
+[2019.10.26-20.37.02:287][859]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 1024X1024)
+[2019.10.26-20.37.02:287][859]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 1024X1024)
+[2019.10.26-20.37.02:287][859]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 1024X1024)
+[2019.10.26-20.37.02:287][859]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 1024X1024)
+[2019.10.26-20.37.02:287][859]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 1024X1024)
+[2019.10.26-20.37.02:287][859]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 1024X1024)
+[2019.10.26-20.37.02:287][859]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 1024X1024)
+[2019.10.26-20.37.02:287][859]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 1024X1024)
+[2019.10.26-20.37.02:287][859]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 1024X1024)
+[2019.10.26-20.37.02:287][859]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 1024X1024)
+[2019.10.26-20.37.02:287][859]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 1024X1024)
+[2019.10.26-20.37.02:287][859]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 1024X1024)
+[2019.10.26-20.37.02:287][859]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 1024X1024)
+[2019.10.26-20.37.02:287][859]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 1024X1024)
+[2019.10.26-20.37.02:287][859]LogTexture: Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 1024X1024)
+[2019.10.26-20.37.02:287][859]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 1024X1024)
+[2019.10.26-20.37.02:287][859]LogTexture: Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 1024X1024)
+[2019.10.26-20.37.02:287][859]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (DXT1, 1024X1024)
+[2019.10.26-20.37.02:287][859]LogTexture: Display: Building textures: HQ_Lightmap0_16 (AutoDXT, 1024X1024)
+[2019.10.26-20.37.02:287][859]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (DXT1, 1024X1024)
+[2019.10.26-20.37.02:287][859]LogTexture: Display: Building textures: HQ_Lightmap0_17 (AutoDXT, 1024X1024)
+[2019.10.26-20.37.02:287][859]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (DXT1, 1024X1024)
+[2019.10.26-20.37.02:287][859]LogTexture: Display: Building textures: HQ_Lightmap0_18 (AutoDXT, 1024X1024)
+[2019.10.26-20.37.02:287][859]LogTexture: Display: Building textures: LQ_Lightmap_0_18 (DXT1, 1024X1024)
+[2019.10.26-20.37.02:287][859]LogTexture: Display: Building textures: HQ_Lightmap0_19 (AutoDXT, 1024X1024)
+[2019.10.26-20.37.02:287][859]LogTexture: Display: Building textures: LQ_Lightmap_0_19 (DXT1, 1024X1024)
+[2019.10.26-20.37.02:287][859]LogTexture: Display: Building textures: HQ_Lightmap0_20 (AutoDXT, 1024X1024)
+[2019.10.26-20.37.02:287][859]LogTexture: Display: Building textures: LQ_Lightmap_0_20 (DXT1, 1024X1024)
+[2019.10.26-20.37.02:287][859]LogTexture: Display: Building textures: HQ_Lightmap0_21 (AutoDXT, 64X64)
+[2019.10.26-20.37.02:287][859]LogTexture: Display: Building textures: LQ_Lightmap_0_21 (DXT1, 64X64)
+[2019.10.26-20.37.02:698][859]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 1024X1024)
+[2019.10.26-20.37.02:698][859]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (BGRA8, 1024X1024)
+[2019.10.26-20.37.02:698][859]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (BGRA8, 1024X1024)
+[2019.10.26-20.37.02:901][859]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (BGRA8, 1024X1024)
+[2019.10.26-20.37.02:901][859]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (BGRA8, 1024X1024)
+[2019.10.26-20.37.02:901][859]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (BGRA8, 1024X1024)
+[2019.10.26-20.37.03:101][859]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 1024X1024)
+[2019.10.26-20.37.03:101][859]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (BGRA8, 1024X1024)
+[2019.10.26-20.37.03:101][859]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (BGRA8, 1024X1024)
+[2019.10.26-20.37.03:101][859]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 32X32)
+[2019.10.26-20.37.03:176][859]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (BGRA8, 1024X1024)
+[2019.10.26-20.37.03:199][859]LogStaticLightingSystem: Labyrinth_BuiltData storing lightmap data for 1156 meshes in 36 LightmapResourceClusters (32.1 Meshes per cluster).
+[2019.10.26-20.37.03:273][859]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2019.10.26-20.37.03:275][859]Lightmass on DESKTOP-F9D722G: 2:49 min total, 251 ms importing, 35 ms setup, 12.5 sec photons, 2:36 min processing, 0 ms extra exporting [1156/1156 mappings]. Threads: 10:25 min total, 6:56 min processing.
+[2019.10.26-20.37.03:279][859]LogStaticLightingSystem: Illumination: 2:54 min (12.6 sec encoding lightmaps, 886 ms encoding shadowmaps)
+[2019.10.26-20.37.03:279][859]LogStaticLightingSystem: Lightmap texture memory:  40.0 MB (40.0 MB streaming, 0.0 MB non-streaming), 42 textures
+[2019.10.26-20.37.03:279][859]LogStaticLightingSystem: Shadowmap texture memory: 49.3 MB (49.3 MB streaming, 0.0 MB non-streaming), 11 textures
+[2019.10.26-20.37.04:267][859]DumpUnbuiltLightIteractions
+[2019.10.26-20.37.04:267][859]Lights with unbuilt interactions: 0
+[2019.10.26-20.37.04:267][859]
+[2019.10.26-20.37.04:267][859]Primitives with unbuilt interactions: 0
+[2019.10.26-20.37.04:328][860]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.10.26-20.37.04:328][860]MapCheck: New page: Labyrinth - Oct 26, 2019, 12:37:04 PM
+[2019.10.26-20.37.04:339][860]MapCheck: Warning: Floor_400x1181 Floor_400x1181 is in the same location as Floor_400x1183 
+[2019.10.26-20.37.04:339][860]MapCheck: Warning: Floor_400x1183 Floor_400x1183 is in the same location as Floor_400x1181 
+[2019.10.26-20.37.04:341][860]MapCheck: Map check complete: 0 Error(s), 2 Warning(s), took 13.083ms to complete.
