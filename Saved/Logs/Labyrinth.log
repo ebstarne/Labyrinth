@@ -809,3 +809,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.26-20.29.34:896][863]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
 [2019.10.26-20.29.34:927][863]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
 [2019.10.26-20.29.34:954][863]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2019.10.26-20.38.08:232][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2019.10.26-20.38.09:640][490]LogSavePackage: Moving '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Saved/Overview_Auto12F3B47B34503CB34B6E479839FCEAA35.tmp' to '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Saved/Autosaves/Game/HorrorEngine/Maps/Overview_Auto1.umap'
+[2019.10.26-20.38.09:656][490]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/HorrorEngine/Maps/Overview' took 1.463
+[2019.10.26-20.38.09:656][490]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.463
