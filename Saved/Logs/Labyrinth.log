@@ -1440,3 +1440,623 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2019.10.26-22.17.09:328][588]LogShaderCompilers: Display: Shaders left to compile 590
 [2019.10.26-22.17.09:739][610]LogShaderCompilers: Display: Shaders left to compile 580
 [2019.10.26-22.17.10:704][661]LogShaderCompilers: Display: Shaders left to compile 570
+[2019.10.26-22.17.11:257][690]LogShaderCompilers: Display: Shaders left to compile 560
+[2019.10.26-22.17.12:891][769]LogShaderCompilers: Display: Shaders left to compile 550
+[2019.10.26-22.17.14:067][831]LogShaderCompilers: Display: Shaders left to compile 540
+[2019.10.26-22.17.14:290][843]LogShaderCompilers: Display: Shaders left to compile 530
+[2019.10.26-22.17.14:822][871]LogShaderCompilers: Display: Shaders left to compile 520
+[2019.10.26-22.17.16:783][975]LogShaderCompilers: Display: Shaders left to compile 510
+[2019.10.26-22.17.16:855][979]LogShaderCompilers: Display: Shaders left to compile 500
+[2019.10.26-22.17.17:821][ 31]LogShaderCompilers: Display: Shaders left to compile 490
+[2019.10.26-22.17.18:891][ 89]LogShaderCompilers: Display: Shaders left to compile 480
+[2019.10.26-22.17.19:673][132]LogShaderCompilers: Display: Shaders left to compile 470
+[2019.10.26-22.17.20:858][189]LogShaderCompilers: Display: Shaders left to compile 460
+[2019.10.26-22.17.21:672][233]LogShaderCompilers: Display: Shaders left to compile 450
+[2019.10.26-22.17.21:704][235]LogShaderCompilers: Display: Shaders left to compile 440
+[2019.10.26-22.17.23:868][351]LogShaderCompilers: Display: Shaders left to compile 430
+[2019.10.26-22.17.24:523][385]LogShaderCompilers: Display: Shaders left to compile 420
+[2019.10.26-22.17.24:809][400]LogShaderCompilers: Display: Shaders left to compile 410
+[2019.10.26-22.17.26:024][463]LogShaderCompilers: Display: Shaders left to compile 400
+[2019.10.26-22.17.27:295][531]LogShaderCompilers: Display: Shaders left to compile 390
+[2019.10.26-22.17.27:817][559]LogShaderCompilers: Display: Shaders left to compile 380
+[2019.10.26-22.17.29:063][625]LogShaderCompilers: Display: Shaders left to compile 370
+[2019.10.26-22.17.29:470][646]LogShaderCompilers: Display: Shaders left to compile 360
+[2019.10.26-22.17.30:689][711]LogShaderCompilers: Display: Shaders left to compile 350
+[2019.10.26-22.17.31:259][742]LogShaderCompilers: Display: Shaders left to compile 340
+[2019.10.26-22.17.32:202][793]LogShaderCompilers: Display: Shaders left to compile 330
+[2019.10.26-22.17.32:843][827]LogShaderCompilers: Display: Shaders left to compile 320
+[2019.10.26-22.17.34:296][905]LogShaderCompilers: Display: Shaders left to compile 310
+[2019.10.26-22.17.35:283][959]LogShaderCompilers: Display: Shaders left to compile 300
+[2019.10.26-22.17.35:630][977]LogShaderCompilers: Display: Shaders left to compile 290
+[2019.10.26-22.17.36:211][  8]LogShaderCompilers: Display: Shaders left to compile 280
+[2019.10.26-22.17.38:086][108]LogShaderCompilers: Display: Shaders left to compile 270
+[2019.10.26-22.17.38:159][112]LogShaderCompilers: Display: Shaders left to compile 260
+[2019.10.26-22.17.39:283][172]LogShaderCompilers: Display: Shaders left to compile 250
+[2019.10.26-22.17.40:186][221]LogShaderCompilers: Display: Shaders left to compile 240
+[2019.10.26-22.17.40:908][260]LogShaderCompilers: Display: Shaders left to compile 230
+[2019.10.26-22.17.42:018][319]LogShaderCompilers: Display: Shaders left to compile 220
+[2019.10.26-22.17.42:982][371]LogShaderCompilers: Display: Shaders left to compile 210
+[2019.10.26-22.17.43:182][379]LogShaderCompilers: Display: Shaders left to compile 200
+[2019.10.26-22.17.45:226][486]LogShaderCompilers: Display: Shaders left to compile 190
+[2019.10.26-22.17.45:743][514]LogShaderCompilers: Display: Shaders left to compile 180
+[2019.10.26-22.17.46:085][533]LogShaderCompilers: Display: Shaders left to compile 170
+[2019.10.26-22.17.47:066][586]LogShaderCompilers: Display: Shaders left to compile 160
+[2019.10.26-22.17.48:544][656]LogShaderCompilers: Display: Shaders left to compile 150
+[2019.10.26-22.17.49:131][687]LogShaderCompilers: Display: Shaders left to compile 140
+[2019.10.26-22.17.50:228][746]LogShaderCompilers: Display: Shaders left to compile 130
+[2019.10.26-22.17.50:891][781]LogShaderCompilers: Display: Shaders left to compile 120
+[2019.10.26-22.17.51:922][838]LogShaderCompilers: Display: Shaders left to compile 110
+[2019.10.26-22.17.52:461][864]LogShaderCompilers: Display: Shaders left to compile 100
+[2019.10.26-22.17.53:566][924]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.10.26-22.17.54:005][947]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.10.26-22.17.55:490][ 25]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.10.26-22.17.56:750][ 86]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.10.26-22.17.57:096][104]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.10.26-22.17.58:010][133]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.10.26-22.18.00:550][232]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.10.26-22.18.00:550][232]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.26-22.18.02:019][294]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.26-22.18.23:272][898]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2019.10.26-22.18.25:277][898]LogSavePackage: Moving '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Saved/LabyrinthAC9FB3CB44EBC765A92C23B681ECBFE2.tmp' to '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/HorrorEngine/Maps/Labyrinth.umap'
+[2019.10.26-22.18.25:883][898]LogSavePackage: Moving '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Saved/Labyrinth_BuiltData5AF0A2BB4A5524957E575382E8BFD1A3.tmp' to '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/HorrorEngine/Maps/Labyrinth_BuiltData.uasset'
+[2019.10.26-22.19.17:970][943]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2019.10.26-22.19.23:522][943]LogSlate: Window 'Save Content' being destroyed
+[2019.10.26-22.19.23:572][943]Cmd: SELECT NONE
+[2019.10.26-22.19.23:732][949]Cmd: SELECT NONE
+[2019.10.26-22.19.24:467][993]Cmd: SELECT NONE
+[2019.10.26-22.19.24:797][  4]Cmd: SELECT NONE
+[2019.10.26-22.19.24:973][  8]Cmd: SELECT NONE
+[2019.10.26-22.20.00:210][688]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2019.10.26-22.20.02:259][688]LogSavePackage: Moving '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Saved/LabyrinthED44DE8948F47185485B00AFCE8B7612.tmp' to '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/HorrorEngine/Maps/Labyrinth.umap'
+[2019.10.26-22.20.02:866][688]LogSavePackage: Moving '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Saved/Labyrinth_BuiltData83B810EB413181AC3FB97FABF60F4754.tmp' to '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/HorrorEngine/Maps/Labyrinth_BuiltData.uasset'
+[2019.10.26-22.20.46:883][308]MapCheck: New page: Map Check
+[2019.10.26-22.20.46:898][308]Cmd: MAP REBUILD ALLVISIBLE
+[2019.10.26-22.20.46:899][308]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.10.26-22.20.47:186][308]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2019.10.26-22.20.47:631][308]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-22.20.47:640][308]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-22.20.47:647][308]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-22.20.47:654][308]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-22.20.47:662][308]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-22.20.47:669][308]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-22.20.47:678][308]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-22.20.47:695][308]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-22.20.47:726][308]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-22.20.47:734][308]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-22.20.48:077][308]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-22.20.48:093][308]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-22.20.48:106][308]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-22.20.48:115][308]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-22.20.48:135][308]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-22.20.48:156][308]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-22.20.48:177][308]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-22.20.48:197][308]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-22.20.48:243][308]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-22.20.48:252][308]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-22.20.50:073][308]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.10.26-22.20.50:073][308]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.26-22.20.50:073][308]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.26-22.20.50:073][308]TextureStreamingBuild: Display: Compiling optional shaders took 2.457 seconds.
+[2019.10.26-22.20.50:221][308]LogLevel: Display: Export Material TexCoord Scales took 0.149 seconds.
+[2019.10.26-22.20.50:652][308]TextureStreamingBuild: Display: Build Texture Streaming took 0.430 seconds.
+[2019.10.26-22.20.50:726][308]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2019.10.26-22.20.50:729][308]LightingResults: New page: Lighting Build - Oct 26, 2019, 8:20:50 AM
+[2019.10.26-22.20.50:784][308]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.10.26-22.20.50:852][308]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.10.26-22.20.50:888][308]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.10.26-22.20.51:477][308]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.10.26-22.20.51:477][308]LogSwarmInterface: [TryOpenConnection] Local Process ID is 1240
+[2019.10.26-22.20.58:747][308]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.10.26-22.20.58:749][308]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.10.26-22.20.58:749][308]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.10.26-22.20.58:749][308]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.10.26-22.20.58:749][308]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.10.26-22.20.58:749][308]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.10.26-22.20.58:920][308]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.10.26-22.20.58:920][308]MapCheck: New page: Labyrinth - Oct 26, 2019, 8:20:58 AM
+[2019.10.26-22.20.58:921][308]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2019.10.26-22.20.58:929][308]MapCheck: Warning: Floor_400x1181 Floor_400x1181 is in the same location as Floor_400x1183 
+[2019.10.26-22.20.58:929][308]MapCheck: Warning: Floor_400x1183 Floor_400x1183 is in the same location as Floor_400x1181 
+[2019.10.26-22.20.58:932][308]MapCheck: Map check complete: 1 Error(s), 2 Warning(s), took 11.546ms to complete.
+[2019.10.26-22.20.58:955][308]LogEditorBuildUtils: Build time 0:12
+[2019.10.26-22.20.59:082][309]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2019.10.26-22.21.02:449][461]LogSlate: Window 'Message Log' being destroyed
+[2019.10.26-22.21.02:454][461]LogSlate: Window 'Message Log' being destroyed
+[2019.10.26-22.22.12:099][973]Job is a success!
+[2019.10.26-22.22.12:359][974]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.085s
+[2019.10.26-22.22.12:359][974]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2019.10.26-22.22.12:359][974]LogVolumetricLightmapImport:      BrickData 725x5x5 = 0.6Mb (trimmed 0.7Mb due to 0.010000 MinBrickError)
+[2019.10.26-22.22.12:359][974]LogVolumetricLightmapImport:      Bricks at Level
+[2019.10.26-22.22.12:359][974]LogVolumetricLightmapImport:          0: 5.5% covering 100.0% of volume
+[2019.10.26-22.22.12:359][974]LogVolumetricLightmapImport:          1: 11.0% covering 3.1% of volume
+[2019.10.26-22.22.12:359][974]LogVolumetricLightmapImport:          2: 83.4% covering 0.4% of volume
+[2019.10.26-22.22.20:290][974]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2019.10.26-22.22.20:290][974]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2019.10.26-22.22.20:290][974]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2019.10.26-22.22.20:290][974]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2019.10.26-22.22.20:290][974]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2019.10.26-22.22.20:290][974]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2019.10.26-22.22.20:290][974]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 1024X1024)
+[2019.10.26-22.22.20:290][974]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 1024X1024)
+[2019.10.26-22.22.20:290][974]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 1024X1024)
+[2019.10.26-22.22.20:290][974]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 1024X1024)
+[2019.10.26-22.22.20:290][974]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 1024X1024)
+[2019.10.26-22.22.20:290][974]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 1024X1024)
+[2019.10.26-22.22.20:290][974]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 1024X1024)
+[2019.10.26-22.22.20:290][974]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 1024X1024)
+[2019.10.26-22.22.20:290][974]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 1024X1024)
+[2019.10.26-22.22.20:290][974]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 1024X1024)
+[2019.10.26-22.22.20:290][974]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 1024X1024)
+[2019.10.26-22.22.20:290][974]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 1024X1024)
+[2019.10.26-22.22.20:290][974]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 1024X1024)
+[2019.10.26-22.22.20:290][974]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 1024X1024)
+[2019.10.26-22.22.20:290][974]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 1024X1024)
+[2019.10.26-22.22.20:290][974]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 1024X1024)
+[2019.10.26-22.22.20:290][974]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 1024X1024)
+[2019.10.26-22.22.20:290][974]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 1024X1024)
+[2019.10.26-22.22.20:290][974]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 1024X1024)
+[2019.10.26-22.22.20:290][974]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 1024X1024)
+[2019.10.26-22.22.20:291][974]LogTexture: Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 1024X1024)
+[2019.10.26-22.22.20:291][974]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 1024X1024)
+[2019.10.26-22.22.20:291][974]LogTexture: Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 1024X1024)
+[2019.10.26-22.22.20:291][974]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (DXT1, 1024X1024)
+[2019.10.26-22.22.20:291][974]LogTexture: Display: Building textures: HQ_Lightmap0_16 (AutoDXT, 1024X1024)
+[2019.10.26-22.22.20:291][974]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (DXT1, 1024X1024)
+[2019.10.26-22.22.20:291][974]LogTexture: Display: Building textures: HQ_Lightmap0_17 (AutoDXT, 1024X1024)
+[2019.10.26-22.22.20:291][974]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (DXT1, 1024X1024)
+[2019.10.26-22.22.20:291][974]LogTexture: Display: Building textures: HQ_Lightmap0_18 (AutoDXT, 1024X1024)
+[2019.10.26-22.22.20:291][974]LogTexture: Display: Building textures: LQ_Lightmap_0_18 (DXT1, 1024X1024)
+[2019.10.26-22.22.20:291][974]LogTexture: Display: Building textures: HQ_Lightmap0_19 (AutoDXT, 1024X1024)
+[2019.10.26-22.22.20:291][974]LogTexture: Display: Building textures: LQ_Lightmap_0_19 (DXT1, 1024X1024)
+[2019.10.26-22.22.20:291][974]LogTexture: Display: Building textures: HQ_Lightmap0_20 (AutoDXT, 1024X1024)
+[2019.10.26-22.22.20:291][974]LogTexture: Display: Building textures: LQ_Lightmap_0_20 (DXT1, 1024X1024)
+[2019.10.26-22.22.20:291][974]LogTexture: Display: Building textures: HQ_Lightmap0_21 (AutoDXT, 64X64)
+[2019.10.26-22.22.20:291][974]LogTexture: Display: Building textures: LQ_Lightmap_0_21 (DXT1, 64X64)
+[2019.10.26-22.22.20:692][974]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (BGRA8, 1024X1024)
+[2019.10.26-22.22.20:692][974]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (BGRA8, 1024X1024)
+[2019.10.26-22.22.20:692][974]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 1024X1024)
+[2019.10.26-22.22.20:692][974]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (BGRA8, 1024X1024)
+[2019.10.26-22.22.20:892][974]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (BGRA8, 1024X1024)
+[2019.10.26-22.22.20:892][974]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 32X32)
+[2019.10.26-22.22.20:892][974]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (BGRA8, 1024X1024)
+[2019.10.26-22.22.21:062][974]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 1024X1024)
+[2019.10.26-22.22.21:062][974]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (BGRA8, 1024X1024)
+[2019.10.26-22.22.21:062][974]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (BGRA8, 1024X1024)
+[2019.10.26-22.22.21:062][974]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (BGRA8, 1024X1024)
+[2019.10.26-22.22.21:152][974]Lightmass on DESKTOP-ONIT7JI: 1:21 min total, 260 ms importing, 33 ms setup, 7.57 sec photons, 1:13 min processing, 0 ms extra exporting [1156/1156 mappings]. Threads: 8:34 min total, 6:18 min processing.
+[2019.10.26-22.22.21:155][974]LogStaticLightingSystem: Labyrinth_BuiltData storing lightmap data for 1156 meshes in 37 LightmapResourceClusters (31.2 Meshes per cluster).
+[2019.10.26-22.22.21:224][974]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2019.10.26-22.22.21:230][974]LogStaticLightingSystem: Illumination: 1:30 min (6.65 sec encoding lightmaps, 770 ms encoding shadowmaps)
+[2019.10.26-22.22.21:230][974]LogStaticLightingSystem: Lightmap texture memory:  40.0 MB (40.0 MB streaming, 0.0 MB non-streaming), 42 textures
+[2019.10.26-22.22.21:230][974]LogStaticLightingSystem: Shadowmap texture memory: 49.3 MB (49.3 MB streaming, 0.0 MB non-streaming), 11 textures
+[2019.10.26-22.22.21:812][974]DumpUnbuiltLightIteractions
+[2019.10.26-22.22.21:812][974]Lights with unbuilt interactions: 0
+[2019.10.26-22.22.21:812][974]
+[2019.10.26-22.22.21:813][974]Primitives with unbuilt interactions: 0
+[2019.10.26-22.22.21:948][975]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.10.26-22.22.21:949][975]MapCheck: New page: Labyrinth - Oct 26, 2019, 8:22:21 AM
+[2019.10.26-22.22.21:955][975]MapCheck: Warning: Floor_400x1181 Floor_400x1181 is in the same location as Floor_400x1183 
+[2019.10.26-22.22.21:955][975]MapCheck: Warning: Floor_400x1183 Floor_400x1183 is in the same location as Floor_400x1181 
+[2019.10.26-22.22.21:957][975]MapCheck: Map check complete: 0 Error(s), 2 Warning(s), took 8.211ms to complete.
+[2019.10.26-22.22.28:120][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2019.10.26-22.22.30:217][338]LogSavePackage: Moving '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Saved/Labyrinth9105246F4E92A5E283369D8A69859B16.tmp' to '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/HorrorEngine/Maps/Labyrinth.umap'
+[2019.10.26-22.22.32:476][338]LogSavePackage: Moving '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Saved/Labyrinth_BuiltData2EABE9C24622CB297B279290486732C8.tmp' to '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/HorrorEngine/Maps/Labyrinth_BuiltData.uasset'
+[2019.10.26-22.22.56:944][674]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2019.10.26-22.22.58:324][674]LogSlate: Window 'Save Content' being destroyed
+[2019.10.26-22.22.58:405][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Creatures/lambent_brumak" FILE="../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/lambent_brumak.uasset" SILENT=true
+[2019.10.26-22.22.58:492][674]LogSavePackage: Moving '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Saved/lambent_brumak2AEA21494581A1B4DC242D8B64E70D4A.tmp' to '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/lambent_brumak.uasset'
+[2019.10.26-22.22.58:647][674]LogSavePackage: Moving '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Saved/Lambent_Brumak_01_H_Mouth_D5A55C6B84AD6BEA11F221DBA76DD7EE1.tmp' to '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/Lambent_Brumak_01_H_Mouth_D.uasset'
+[2019.10.26-22.22.58:816][674]LogSavePackage: Moving '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Saved/Lambent_Brumak_01_H_Mouth_N54C35043450B95981183A9B07E42402B.tmp' to '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/Lambent_Brumak_01_H_Mouth_N.uasset'
+[2019.10.26-22.22.58:876][674]LogSavePackage: Moving '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Saved/Lambent_Brumak_01_H_Mouth_Vein_M4716700E4D306D88E7AC25ADAA50E488.tmp' to '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/Lambent_Brumak_01_H_Mouth_Vein_M.uasset'
+[2019.10.26-22.22.59:023][674]LogSavePackage: Moving '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Saved/Lambent_Brumak_02_H_Neck_D16A3AB5A455CB9686C7F0791E5919B46.tmp' to '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/Lambent_Brumak_02_H_Neck_D.uasset'
+[2019.10.26-22.22.59:153][674]LogSavePackage: Moving '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Saved/Lambent_Brumak_02_H_Neck_ND2CD28634FE2903ACA5A4B9A351A92CA.tmp' to '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/Lambent_Brumak_02_H_Neck_N.uasset'
+[2019.10.26-22.22.59:185][674]LogSavePackage: Moving '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Saved/Lambent_Brumak_02_H_Neck_Vein_M6F72C73D4503B729157B5F82B409FBDF.tmp' to '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/Lambent_Brumak_02_H_Neck_Vein_M.uasset'
+[2019.10.26-22.22.59:360][674]LogSavePackage: Moving '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Saved/Lambent_Brumak_03_T_Mouth_D00CCD4F14A22D99D46B689A13E8E9DF5.tmp' to '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/Lambent_Brumak_03_T_Mouth_D.uasset'
+[2019.10.26-22.22.59:480][674]LogSavePackage: Moving '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Saved/Lambent_Brumak_03_T_Mouth_N7F5F062743865230F739E5A999951F36.tmp' to '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/Lambent_Brumak_03_T_Mouth_N.uasset'
+[2019.10.26-22.22.59:551][674]LogSavePackage: Moving '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Saved/Lambent_Brumak_03_T_Mouth_Vein_MD4CB97BF4217BAA8FDFC679B041A3773.tmp' to '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/Lambent_Brumak_03_T_Mouth_Vein_M.uasset'
+[2019.10.26-22.22.59:772][674]LogSavePackage: Moving '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Saved/Lambent_Brumak_04_T_Tent_DEBA0C825412343D961066A82AA5BAECB.tmp' to '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/Lambent_Brumak_04_T_Tent_D.uasset'
+[2019.10.26-22.22.59:883][674]LogSavePackage: Moving '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Saved/Lambent_Brumak_04_T_Tent_N2A71EAE74D3D34B7C30D96B0F269985A.tmp' to '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/Lambent_Brumak_04_T_Tent_N.uasset'
+[2019.10.26-22.22.59:918][674]LogSavePackage: Moving '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Saved/Lambent_Brumak_04_T_Tent_Vein_M614B0D1249BC14571813F9908518192A.tmp' to '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/Lambent_Brumak_04_T_Tent_Vein_M.uasset'
+[2019.10.26-22.23.00:063][674]LogSavePackage: Moving '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Saved/Lambent_Brumak_05_B_Arm_D90FD53DE4AD2C087F530FCAAE6BEAC94.tmp' to '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/Lambent_Brumak_05_B_Arm_D.uasset'
+[2019.10.26-22.23.00:166][674]LogSavePackage: Moving '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Saved/Lambent_Brumak_05_B_Arm_N5125F1974793B4D639B255A3F02259E1.tmp' to '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/Lambent_Brumak_05_B_Arm_N.uasset'
+[2019.10.26-22.23.00:200][674]LogSavePackage: Moving '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Saved/Lambent_Brumak_05_B_Arm_Vein_MECE5E5384A7CC8EA8EEB22AA80197574.tmp' to '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/Lambent_Brumak_05_B_Arm_Vein_M.uasset'
+[2019.10.26-22.23.00:372][674]LogSavePackage: Moving '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Saved/Lambent_Brumak_06_B_Hump_D5171A1AC4918246FD0908481E82C57B0.tmp' to '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/Lambent_Brumak_06_B_Hump_D.uasset'
+[2019.10.26-22.23.00:486][674]LogSavePackage: Moving '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Saved/Lambent_Brumak_06_B_Hump_N29A58A2D4A849F95CB802F83BA2DC390.tmp' to '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/Lambent_Brumak_06_B_Hump_N.uasset'
+[2019.10.26-22.23.00:520][674]LogSavePackage: Moving '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Saved/Lambent_Brumak_06_B_Hump_Vein_M616F9FA24BEAF68E66C9F6A82A40C0BE.tmp' to '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/Lambent_Brumak_06_B_Hump_Vein_M.uasset'
+[2019.10.26-22.23.00:666][674]LogSavePackage: Moving '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Saved/Lambent_Brumak_07_B_Hump2_D1AD92539491B5745539007BE8AAAB6E8.tmp' to '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/Lambent_Brumak_07_B_Hump2_D.uasset'
+[2019.10.26-22.23.00:779][674]LogSavePackage: Moving '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Saved/Lambent_Brumak_07_B_Hump2_ND32E1F0843BFCBD2FF20E7924F739385.tmp' to '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/Lambent_Brumak_07_B_Hump2_N.uasset'
+[2019.10.26-22.23.00:815][674]LogSavePackage: Moving '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Saved/Lambent_Brumak_07_B_Hump2_Vein_MC78906DE42A21B42CCB5CAB5B12B4D07.tmp' to '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/Lambent_Brumak_07_B_Hump2_Vein_M.uasset'
+[2019.10.26-22.23.00:956][674]LogSavePackage: Moving '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Saved/Lambent_Brumak_08_B_Back_DED9FF13E480FD839B025179DA64760D6.tmp' to '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/Lambent_Brumak_08_B_Back_D.uasset'
+[2019.10.26-22.23.01:082][674]LogSavePackage: Moving '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Saved/Lambent_Brumak_08_B_Back_N31A62A954595EB0F367ABB8F340B400B.tmp' to '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/Lambent_Brumak_08_B_Back_N.uasset'
+[2019.10.26-22.23.01:116][674]LogSavePackage: Moving '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Saved/Lambent_Brumak_08_B_Back_Vein_M9091C2DF42B344C66B9B9E9067D3BEE5.tmp' to '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/Lambent_Brumak_08_B_Back_Vein_M.uasset'
+[2019.10.26-22.23.01:262][674]LogSavePackage: Moving '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Saved/Lambent_Brumak_09_B_Back2_DE547BA504A77CAB0C648D997A94A904A.tmp' to '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/Lambent_Brumak_09_B_Back2_D.uasset'
+[2019.10.26-22.23.01:394][674]LogSavePackage: Moving '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Saved/Lambent_Brumak_09_B_Back2_NB059FDA54ECA3B71D4286DAA9D7D911A.tmp' to '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/Lambent_Brumak_09_B_Back2_N.uasset'
+[2019.10.26-22.23.01:482][674]LogSavePackage: Moving '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Saved/Lambent_Brumak_09_B_Back2_Vein_MAC80C95840FFCD981D1588862C1BEC55.tmp' to '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/Lambent_Brumak_09_B_Back2_Vein_M.uasset'
+[2019.10.26-22.23.01:649][674]LogSavePackage: Moving '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Saved/Lambent_Brumak_10_B_Belly_D023BB7AB4B1E95B8AE80F18F5E546005.tmp' to '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/Lambent_Brumak_10_B_Belly_D.uasset'
+[2019.10.26-22.23.01:773][674]LogSavePackage: Moving '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Saved/Lambent_Brumak_10_B_Belly_N3217F69340A2249234BB67AB43B330F1.tmp' to '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/Lambent_Brumak_10_B_Belly_N.uasset'
+[2019.10.26-22.23.01:812][674]LogSavePackage: Moving '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Saved/Lambent_Brumak_10_B_Belly_Vein_M007A5FAE47FCE82AB03BE29B9B8300D5.tmp' to '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/Lambent_Brumak_10_B_Belly_Vein_M.uasset'
+[2019.10.26-22.23.01:998][674]LogSavePackage: Moving '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Saved/Lambent_Brumak_11_B_Hip_DCD08D66146911AF7F60C5ABD3299A8C8.tmp' to '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/Lambent_Brumak_11_B_Hip_D.uasset'
+[2019.10.26-22.23.02:143][674]LogSavePackage: Moving '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Saved/Lambent_Brumak_11_B_Hip_NED17A27F4D83A798891320A7881E5A7D.tmp' to '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/Lambent_Brumak_11_B_Hip_N.uasset'
+[2019.10.26-22.23.02:177][674]LogSavePackage: Moving '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Saved/Lambent_Brumak_11_B_Hip_Vein_ME183C89F45274422BADC01BCB5538F95.tmp' to '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/Lambent_Brumak_11_B_Hip_Vein_M.uasset'
+[2019.10.26-22.23.02:327][674]LogSavePackage: Moving '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Saved/Lambent_Brumak_12_B_LtFoot_D3789F7664A6A574A58ED198C4E59E4FF.tmp' to '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/Lambent_Brumak_12_B_LtFoot_D.uasset'
+[2019.10.26-22.23.02:484][674]LogSavePackage: Moving '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Saved/Lambent_Brumak_12_B_LtFoot_NDD66CFAE48B7E9B3D011BAAF3F87C85E.tmp' to '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/Lambent_Brumak_12_B_LtFoot_N.uasset'
+[2019.10.26-22.23.02:517][674]LogSavePackage: Moving '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Saved/Lambent_Brumak_12_B_LtFoot_Vein_19606D0840211C9621DEDD9CDA90CA93.tmp' to '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/Lambent_Brumak_12_B_LtFoot_Vein_M.uasset'
+[2019.10.26-22.23.02:696][674]LogSavePackage: Moving '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Saved/Lambent_Brumak_13_B_RtFoot_DAB8DEE0440579CD77365558EA185FA8B.tmp' to '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/Lambent_Brumak_13_B_RtFoot_D.uasset'
+[2019.10.26-22.23.02:902][674]LogSavePackage: Moving '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Saved/Lambent_Brumak_13_B_RtFoot_N6412BC924DF7096A7260D78124AAA2EA.tmp' to '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/Lambent_Brumak_13_B_RtFoot_N.uasset'
+[2019.10.26-22.23.02:974][674]LogSavePackage: Moving '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Saved/Lambent_Brumak_13_B_RtFoot_Vein_ADB32CA347DB6A29AAD333A9343FBBDF.tmp' to '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/Lambent_Brumak_13_B_RtFoot_Vein_M.uasset'
+[2019.10.26-22.23.03:132][674]LogSavePackage: Moving '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Saved/Lambent_Brumak_14_B_Tail_DC72359804E9CAA25E26BC1A94588DF49.tmp' to '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/Lambent_Brumak_14_B_Tail_D.uasset'
+[2019.10.26-22.23.03:335][674]LogSavePackage: Moving '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Saved/Lambent_Brumak_14_B_Tail_NBD9617BE416776FDF514EB95BE246B23.tmp' to '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/Lambent_Brumak_14_B_Tail_N.uasset'
+[2019.10.26-22.23.03:503][674]LogSavePackage: Moving '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Saved/lambent_brumak_PhysicsAsset616A10B44B708A8A4F96EA8FBB2611BC.tmp' to '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/lambent_brumak_PhysicsAsset.uasset'
+[2019.10.26-22.23.03:538][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Creatures/lambent_brumak_Skeleton" FILE="../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/lambent_brumak_Skeleton.uasset" SILENT=true
+[2019.10.26-22.23.03:549][674]LogSavePackage: Moving '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Saved/lambent_brumak_Skeleton35A4216E48B763DA6A2D658B802C39B4.tmp' to '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/lambent_brumak_Skeleton.uasset'
+[2019.10.26-22.23.03:580][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Creatures/MI_Lambent_Brumak_01_H" FILE="../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/MI_Lambent_Brumak_01_H.uasset" SILENT=true
+[2019.10.26-22.23.03:602][674]LogSavePackage: Moving '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Saved/MI_Lambent_Brumak_01_H1B65AF8B41346A01F9A165B58C434177.tmp' to '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/MI_Lambent_Brumak_01_H.uasset'
+[2019.10.26-22.23.03:659][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Creatures/MI_Lambent_Brumak_02_H" FILE="../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/MI_Lambent_Brumak_02_H.uasset" SILENT=true
+[2019.10.26-22.23.03:681][674]LogSavePackage: Moving '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Saved/MI_Lambent_Brumak_02_H86007241483E973F809F70AF5EF40235.tmp' to '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/MI_Lambent_Brumak_02_H.uasset'
+[2019.10.26-22.23.03:708][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Creatures/MI_Lambent_Brumak_03_T" FILE="../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/MI_Lambent_Brumak_03_T.uasset" SILENT=true
+[2019.10.26-22.23.03:726][674]LogSavePackage: Moving '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Saved/MI_Lambent_Brumak_03_TEB822C6840B8D01B608941859C5A3216.tmp' to '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/MI_Lambent_Brumak_03_T.uasset'
+[2019.10.26-22.23.03:750][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Creatures/MI_Lambent_Brumak_04_T" FILE="../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/MI_Lambent_Brumak_04_T.uasset" SILENT=true
+[2019.10.26-22.23.03:769][674]LogSavePackage: Moving '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Saved/MI_Lambent_Brumak_04_TA2C507824B1EAA0CD176ABA31DDB1D05.tmp' to '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/MI_Lambent_Brumak_04_T.uasset'
+[2019.10.26-22.23.03:793][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Creatures/MI_Lambent_Brumak_05_B" FILE="../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/MI_Lambent_Brumak_05_B.uasset" SILENT=true
+[2019.10.26-22.23.03:832][674]LogSavePackage: Moving '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Saved/MI_Lambent_Brumak_05_B6249E5984518325E283BD18433C95C6B.tmp' to '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/MI_Lambent_Brumak_05_B.uasset'
+[2019.10.26-22.23.03:871][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Creatures/MI_Lambent_Brumak_06_B" FILE="../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/MI_Lambent_Brumak_06_B.uasset" SILENT=true
+[2019.10.26-22.23.03:910][674]LogSavePackage: Moving '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Saved/MI_Lambent_Brumak_06_BEA1F089E497F41D3B5CA079B1FA08936.tmp' to '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/MI_Lambent_Brumak_06_B.uasset'
+[2019.10.26-22.23.03:945][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Creatures/MI_Lambent_Brumak_07_B" FILE="../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/MI_Lambent_Brumak_07_B.uasset" SILENT=true
+[2019.10.26-22.23.03:963][674]LogSavePackage: Moving '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Saved/MI_Lambent_Brumak_07_BF4FB72C345F851CE43515E8302941972.tmp' to '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/MI_Lambent_Brumak_07_B.uasset'
+[2019.10.26-22.23.03:988][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Creatures/MI_Lambent_Brumak_08_B" FILE="../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/MI_Lambent_Brumak_08_B.uasset" SILENT=true
+[2019.10.26-22.23.04:007][674]LogSavePackage: Moving '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Saved/MI_Lambent_Brumak_08_B2ED1A89249B4AFB0C2E1E890E703F938.tmp' to '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/MI_Lambent_Brumak_08_B.uasset'
+[2019.10.26-22.23.04:057][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Creatures/MI_Lambent_Brumak_09_B" FILE="../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/MI_Lambent_Brumak_09_B.uasset" SILENT=true
+[2019.10.26-22.23.04:098][674]LogSavePackage: Moving '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Saved/MI_Lambent_Brumak_09_B6DB2292048BFB0D9E1418BAF13D3FF95.tmp' to '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/MI_Lambent_Brumak_09_B.uasset'
+[2019.10.26-22.23.04:128][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Creatures/MI_Lambent_Brumak_10_B" FILE="../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/MI_Lambent_Brumak_10_B.uasset" SILENT=true
+[2019.10.26-22.23.04:146][674]LogSavePackage: Moving '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Saved/MI_Lambent_Brumak_10_B7D992B8240AC3D9F7EEC7FB220C9F5A4.tmp' to '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/MI_Lambent_Brumak_10_B.uasset'
+[2019.10.26-22.23.04:171][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Creatures/MI_Lambent_Brumak_11_B" FILE="../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/MI_Lambent_Brumak_11_B.uasset" SILENT=true
+[2019.10.26-22.23.04:188][674]LogSavePackage: Moving '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Saved/MI_Lambent_Brumak_11_B4F4A297947E12B4F87E7D48786AFF1D0.tmp' to '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/MI_Lambent_Brumak_11_B.uasset'
+[2019.10.26-22.23.04:211][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Creatures/MI_Lambent_Brumak_12_B" FILE="../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/MI_Lambent_Brumak_12_B.uasset" SILENT=true
+[2019.10.26-22.23.04:228][674]LogSavePackage: Moving '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Saved/MI_Lambent_Brumak_12_BEA9478BF4E4188AB5D68C084BA1E5657.tmp' to '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/MI_Lambent_Brumak_12_B.uasset'
+[2019.10.26-22.23.04:251][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Creatures/MI_Lambent_Brumak_13_B" FILE="../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/MI_Lambent_Brumak_13_B.uasset" SILENT=true
+[2019.10.26-22.23.04:268][674]LogSavePackage: Moving '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Saved/MI_Lambent_Brumak_13_B866C64D245499F5AACE88EABFB1341AB.tmp' to '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/MI_Lambent_Brumak_13_B.uasset'
+[2019.10.26-22.23.04:291][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Creatures/MI_Lambent_Brumak_14_B" FILE="../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/MI_Lambent_Brumak_14_B.uasset" SILENT=true
+[2019.10.26-22.23.04:310][674]LogSavePackage: Moving '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Saved/MI_Lambent_Brumak_14_B810DD23D4D8CD30AB7A8358ED2258624.tmp' to '../../../../../../Users/Eric/Documents/Unreal Projects/Labyrinth/Content/Creatures/MI_Lambent_Brumak_14_B.uasset'
+[2019.10.26-22.23.04:402][674]LogSlate: Window 'Labyrinth - Unreal Editor' being destroyed
+[2019.10.26-22.23.04:403][674]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.10.26-22.23.04:887][675]Cmd: QUIT_EDITOR
+[2019.10.26-22.23.04:915][675]LogExit: Preparing to exit.
+[2019.10.26-22.23.05:218][675]LogDirectoryWatcher: A directory notification failed for 'C:/Users/Eric/Documents/Unreal Projects/Labyrinth/Content/', and we were unable to create a new request.
+[2019.10.26-22.23.05:286][675]LogExit: Editor shut down
+[2019.10.26-22.23.05:286][675]LogExit: Transaction tracking system shut down
+[2019.10.26-22.23.05:606][675]LogExit: Object subsystem successfully closed.
+[2019.10.26-22.23.05:630][675]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.10.26-22.23.05:637][675]LogD3D11RHI: Shutdown
+[2019.10.26-22.23.05:637][675]LogD3D11RHI: CleanupD3DDevice
+[2019.10.26-22.23.05:638][675]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.10.26-22.23.05:638][675]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.26-22.23.05:638][675]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.10.26-22.23.05:638][675]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.26-22.23.05:638][675]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.10.26-22.23.05:638][675]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.26-22.23.05:641][675]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.10.26-22.23.05:667][675]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (644)
+[2019.10.26-22.23.05:667][675]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (642)
+[2019.10.26-22.23.05:667][675]LogModuleManager: Shutting down and abandoning module SceneOutliner (640)
+[2019.10.26-22.23.05:667][675]LogModuleManager: Shutting down and abandoning module AddContentDialog (638)
+[2019.10.26-22.23.05:668][675]LogModuleManager: Shutting down and abandoning module WidgetCarousel (637)
+[2019.10.26-22.23.05:668][675]LogModuleManager: Shutting down and abandoning module EditorWidgets (634)
+[2019.10.26-22.23.05:668][675]LogModuleManager: Shutting down and abandoning module CollectionManager (632)
+[2019.10.26-22.23.05:668][675]LogModuleManager: Shutting down and abandoning module StatsViewer (630)
+[2019.10.26-22.23.05:668][675]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2019.10.26-22.23.05:668][675]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2019.10.26-22.23.05:668][675]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2019.10.26-22.23.05:668][675]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2019.10.26-22.23.05:668][675]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2019.10.26-22.23.05:668][675]LogModuleManager: Shutting down and abandoning module GeometryMode (618)
+[2019.10.26-22.23.05:668][675]LogModuleManager: Shutting down and abandoning module TextureAlignMode (616)
+[2019.10.26-22.23.05:668][675]LogModuleManager: Shutting down and abandoning module BspMode (614)
+[2019.10.26-22.23.05:668][675]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (612)
+[2019.10.26-22.23.05:668][675]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (610)
+[2019.10.26-22.23.05:668][675]LogModuleManager: Shutting down and abandoning module AutomationWorker (608)
+[2019.10.26-22.23.05:668][675]LogModuleManager: Shutting down and abandoning module OculusMR (606)
+[2019.10.26-22.23.05:668][675]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2019.10.26-22.23.05:668][675]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2019.10.26-22.23.05:668][675]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2019.10.26-22.23.05:669][675]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2019.10.26-22.23.05:669][675]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2019.10.26-22.23.05:669][675]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (594)
+[2019.10.26-22.23.05:669][675]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2019.10.26-22.23.05:669][675]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2019.10.26-22.23.05:669][675]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2019.10.26-22.23.05:669][675]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2019.10.26-22.23.05:669][675]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2019.10.26-22.23.05:669][675]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2019.10.26-22.23.05:669][675]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2019.10.26-22.23.05:669][675]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2019.10.26-22.23.05:669][675]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2019.10.26-22.23.05:669][675]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2019.10.26-22.23.05:669][675]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2019.10.26-22.23.05:669][675]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2019.10.26-22.23.05:669][675]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2019.10.26-22.23.05:669][675]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2019.10.26-22.23.05:669][675]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2019.10.26-22.23.05:669][675]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2019.10.26-22.23.05:669][675]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (560)
+[2019.10.26-22.23.05:669][675]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (558)
+[2019.10.26-22.23.05:669][675]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (556)
+[2019.10.26-22.23.05:669][675]LogModuleManager: Shutting down and abandoning module CharacterAI (554)
+[2019.10.26-22.23.05:669][675]LogModuleManager: Shutting down and abandoning module SmartSnapping (552)
+[2019.10.26-22.23.05:669][675]LogModuleManager: Shutting down and abandoning module SessionServices (550)
+[2019.10.26-22.23.05:669][675]LogModuleManager: Shutting down and abandoning module MeshPaint (548)
+[2019.10.26-22.23.05:669][675]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2019.10.26-22.23.05:669][675]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2019.10.26-22.23.05:669][675]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2019.10.26-22.23.05:669][675]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2019.10.26-22.23.05:669][675]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2019.10.26-22.23.05:669][675]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2019.10.26-22.23.05:669][675]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2019.10.26-22.23.05:669][675]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2019.10.26-22.23.05:669][675]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2019.10.26-22.23.05:669][675]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2019.10.26-22.23.05:669][675]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2019.10.26-22.23.05:669][675]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2019.10.26-22.23.05:679][675]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2019.10.26-22.23.05:679][675]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2019.10.26-22.23.05:679][675]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2019.10.26-22.23.05:679][675]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2019.10.26-22.23.05:679][675]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (514)
+[2019.10.26-22.23.05:679][675]LogModuleManager: Shutting down and abandoning module InputBindingEditor (512)
+[2019.10.26-22.23.05:679][675]LogModuleManager: Shutting down and abandoning module MergeActors (510)
+[2019.10.26-22.23.05:679][675]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (508)
+[2019.10.26-22.23.05:679][675]LogModuleManager: Shutting down and abandoning module LocalizationService (507)
+[2019.10.26-22.23.05:679][675]LogModuleManager: Shutting down and abandoning module HardwareTargeting (504)
+[2019.10.26-22.23.05:679][675]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (502)
+[2019.10.26-22.23.05:679][675]LogModuleManager: Shutting down and abandoning module UndoHistory (500)
+[2019.10.26-22.23.05:679][675]LogModuleManager: Shutting down and abandoning module XmlParser (498)
+[2019.10.26-22.23.05:679][675]LogModuleManager: Shutting down and abandoning module Blutility (496)
+[2019.10.26-22.23.05:679][675]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (494)
+[2019.10.26-22.23.05:679][675]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (493)
+[2019.10.26-22.23.05:679][675]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (490)
+[2019.10.26-22.23.05:680][675]LogModuleManager: Shutting down and abandoning module SettingsEditor (488)
+[2019.10.26-22.23.05:680][675]LogModuleManager: Shutting down and abandoning module ProjectLauncher (486)
+[2019.10.26-22.23.05:680][675]LogModuleManager: Shutting down and abandoning module SessionFrontend (484)
+[2019.10.26-22.23.05:680][675]LogModuleManager: Shutting down and abandoning module ProfilerClient (482)
+[2019.10.26-22.23.05:680][675]LogModuleManager: Shutting down and abandoning module DeviceManager (480)
+[2019.10.26-22.23.05:680][675]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (479)
+[2019.10.26-22.23.05:723][675]LogModuleManager: Shutting down and abandoning module AutomationController (476)
+[2019.10.26-22.23.05:723][675]LogModuleManager: Shutting down and abandoning module AutomationWindow (474)
+[2019.10.26-22.23.05:723][675]LogModuleManager: Shutting down and abandoning module Layers (472)
+[2019.10.26-22.23.05:723][675]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (470)
+[2019.10.26-22.23.05:723][675]LogModuleManager: Shutting down and abandoning module DetailCustomizations (468)
+[2019.10.26-22.23.05:723][675]LogModuleManager: Shutting down and abandoning module PackagesDialog (466)
+[2019.10.26-22.23.05:724][675]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (464)
+[2019.10.26-22.23.05:724][675]LogModuleManager: Shutting down and abandoning module Persona (462)
+[2019.10.26-22.23.05:724][675]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (461)
+[2019.10.26-22.23.05:724][675]LogModuleManager: Shutting down and abandoning module AnimGraph (459)
+[2019.10.26-22.23.05:724][675]LogModuleManager: Shutting down and abandoning module Kismet (456)
+[2019.10.26-22.23.05:742][675]LogModuleManager: Shutting down and abandoning module GraphEditor (454)
+[2019.10.26-22.23.05:742][675]LogModuleManager: Shutting down and abandoning module ClassViewer (452)
+[2019.10.26-22.23.05:742][675]LogModuleManager: Shutting down and abandoning module Toolbox (450)
+[2019.10.26-22.23.05:742][675]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2019.10.26-22.23.05:743][675]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2019.10.26-22.23.05:743][675]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2019.10.26-22.23.05:743][675]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2019.10.26-22.23.05:743][675]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2019.10.26-22.23.05:743][675]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2019.10.26-22.23.05:743][675]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2019.10.26-22.23.05:743][675]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2019.10.26-22.23.05:743][675]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2019.10.26-22.23.05:743][675]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2019.10.26-22.23.05:743][675]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2019.10.26-22.23.05:743][675]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2019.10.26-22.23.05:743][675]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2019.10.26-22.23.05:743][675]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2019.10.26-22.23.05:743][675]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2019.10.26-22.23.05:744][675]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2019.10.26-22.23.05:744][675]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2019.10.26-22.23.05:744][675]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2019.10.26-22.23.05:744][675]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2019.10.26-22.23.05:744][675]LogModuleManager: Shutting down and abandoning module DesktopPlatform (410)
+[2019.10.26-22.23.05:744][675]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (408)
+[2019.10.26-22.23.05:751][675]LogModuleManager: Shutting down and abandoning module ProfilerService (406)
+[2019.10.26-22.23.05:915][675]LogModuleManager: Shutting down and abandoning module TaskGraph (404)
+[2019.10.26-22.23.05:915][675]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2019.10.26-22.23.05:915][675]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2019.10.26-22.23.05:915][675]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2019.10.26-22.23.05:915][675]LogModuleManager: Shutting down and abandoning module OculusEditor (396)
+[2019.10.26-22.23.05:915][675]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2019.10.26-22.23.05:915][675]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2019.10.26-22.23.05:915][675]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2019.10.26-22.23.05:915][675]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2019.10.26-22.23.05:915][675]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2019.10.26-22.23.05:915][675]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2019.10.26-22.23.05:916][675]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2019.10.26-22.23.05:916][675]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2019.10.26-22.23.05:916][675]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2019.10.26-22.23.05:916][675]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2019.10.26-22.23.05:916][675]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2019.10.26-22.23.05:916][675]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2019.10.26-22.23.05:916][675]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2019.10.26-22.23.05:916][675]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (368)
+[2019.10.26-22.23.05:916][675]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (366)
+[2019.10.26-22.23.05:916][675]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (364)
+[2019.10.26-22.23.05:916][675]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.10.26-22.23.05:916][675]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.10.26-22.23.05:916][675]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.10.26-22.23.05:916][675]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.10.26-22.23.05:916][675]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.10.26-22.23.05:916][675]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (352)
+[2019.10.26-22.23.05:916][675]LogModuleManager: Shutting down and abandoning module AppleImageUtils (350)
+[2019.10.26-22.23.05:916][675]LogModuleManager: Shutting down and abandoning module AlembicImporter (348)
+[2019.10.26-22.23.05:916][675]LogModuleManager: Shutting down and abandoning module AlembicLibrary (347)
+[2019.10.26-22.23.05:916][675]LogModuleManager: Shutting down and abandoning module GeometryCache (346)
+[2019.10.26-22.23.05:916][675]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2019.10.26-22.23.05:916][675]LogModuleManager: Shutting down and abandoning module VariantManagerContent (340)
+[2019.10.26-22.23.05:916][675]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (338)
+[2019.10.26-22.23.05:916][675]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (336)
+[2019.10.26-22.23.05:916][675]LogModuleManager: Shutting down and abandoning module PluginBrowser (334)
+[2019.10.26-22.23.05:917][675]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (332)
+[2019.10.26-22.23.05:917][675]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (330)
+[2019.10.26-22.23.05:917][675]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.10.26-22.23.05:917][675]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.10.26-22.23.05:917][675]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.10.26-22.23.05:917][675]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.10.26-22.23.05:917][675]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.10.26-22.23.05:917][675]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.10.26-22.23.05:917][675]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.10.26-22.23.05:917][675]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.10.26-22.23.05:917][675]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.10.26-22.23.05:917][675]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.10.26-22.23.05:917][675]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2019.10.26-22.23.05:917][675]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2019.10.26-22.23.05:917][675]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2019.10.26-22.23.05:917][675]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2019.10.26-22.23.05:917][675]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2019.10.26-22.23.05:918][675]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2019.10.26-22.23.05:918][675]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2019.10.26-22.23.05:918][675]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2019.10.26-22.23.05:918][675]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2019.10.26-22.23.05:918][675]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2019.10.26-22.23.05:918][675]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2019.10.26-22.23.05:918][675]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.10.26-22.23.05:918][675]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.10.26-22.23.05:918][675]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.10.26-22.23.06:019][675]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.10.26-22.23.06:119][675]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2019.10.26-22.23.06:119][675]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2019.10.26-22.23.06:119][675]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2019.10.26-22.23.06:119][675]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2019.10.26-22.23.06:119][675]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2019.10.26-22.23.06:119][675]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.10.26-22.23.06:119][675]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2019.10.26-22.23.06:119][675]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2019.10.26-22.23.06:120][675]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2019.10.26-22.23.06:120][675]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2019.10.26-22.23.06:120][675]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2019.10.26-22.23.06:120][675]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2019.10.26-22.23.06:120][675]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2019.10.26-22.23.06:120][675]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2019.10.26-22.23.06:122][675]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2019.10.26-22.23.06:122][675]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2019.10.26-22.23.06:122][675]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2019.10.26-22.23.06:122][675]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2019.10.26-22.23.06:123][675]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2019.10.26-22.23.06:126][675]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2019.10.26-22.23.06:126][675]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2019.10.26-22.23.06:126][675]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2019.10.26-22.23.06:126][675]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2019.10.26-22.23.06:126][675]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2019.10.26-22.23.06:126][675]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2019.10.26-22.23.06:126][675]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2019.10.26-22.23.06:126][675]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2019.10.26-22.23.06:126][675]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2019.10.26-22.23.06:126][675]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2019.10.26-22.23.06:127][675]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2019.10.26-22.23.06:127][675]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2019.10.26-22.23.06:127][675]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2019.10.26-22.23.06:127][675]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2019.10.26-22.23.06:127][675]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2019.10.26-22.23.06:127][675]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2019.10.26-22.23.06:127][675]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2019.10.26-22.23.06:127][675]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2019.10.26-22.23.06:127][675]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2019.10.26-22.23.06:127][675]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2019.10.26-22.23.06:127][675]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2019.10.26-22.23.06:127][675]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2019.10.26-22.23.06:128][675]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2019.10.26-22.23.06:128][675]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2019.10.26-22.23.06:128][675]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2019.10.26-22.23.06:128][675]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2019.10.26-22.23.06:128][675]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2019.10.26-22.23.06:132][675]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2019.10.26-22.23.06:133][675]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.10.26-22.23.06:133][675]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.10.26-22.23.06:133][675]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.10.26-22.23.06:133][675]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.10.26-22.23.06:133][675]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.10.26-22.23.06:133][675]LogModuleManager: Shutting down and abandoning module Core (174)
+[2019.10.26-22.23.06:133][675]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2019.10.26-22.23.06:133][675]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2019.10.26-22.23.06:133][675]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2019.10.26-22.23.06:133][675]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2019.10.26-22.23.06:133][675]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2019.10.26-22.23.06:133][675]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2019.10.26-22.23.06:133][675]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2019.10.26-22.23.06:134][675]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2019.10.26-22.23.06:134][675]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.10.26-22.23.06:203][675]LogDerivedDataCache: Shutdown
+[2019.10.26-22.23.06:203][675]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.10.26-22.23.06:203][675]LogXGEController: Cleaning working directory: C:/Users/Eric/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.10.26-22.23.06:204][675]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.10.26-22.23.06:204][675]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.10.26-22.23.06:204][675]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.10.26-22.23.06:204][675]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.10.26-22.23.06:204][675]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.10.26-22.23.06:204][675]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.10.26-22.23.06:204][675]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.10.26-22.23.06:204][675]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.10.26-22.23.06:204][675]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.10.26-22.23.06:204][675]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.10.26-22.23.06:204][675]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.10.26-22.23.06:204][675]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.10.26-22.23.06:204][675]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.10.26-22.23.06:204][675]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.10.26-22.23.06:204][675]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.10.26-22.23.06:204][675]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.10.26-22.23.06:204][675]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2019.10.26-22.23.06:206][675]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2019.10.26-22.23.06:206][675]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2019.10.26-22.23.06:206][675]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2019.10.26-22.23.06:206][675]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2019.10.26-22.23.06:206][675]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2019.10.26-22.23.06:207][675]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2019.10.26-22.23.06:208][675]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2019.10.26-22.23.06:209][675]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2019.10.26-22.23.06:209][675]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2019.10.26-22.23.06:219][675]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2019.10.26-22.23.06:219][675]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2019.10.26-22.23.06:219][675]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2019.10.26-22.23.06:219][675]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2019.10.26-22.23.06:219][675]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2019.10.26-22.23.06:219][675]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2019.10.26-22.23.06:219][675]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2019.10.26-22.23.06:219][675]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2019.10.26-22.23.06:219][675]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2019.10.26-22.23.06:219][675]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2019.10.26-22.23.06:219][675]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2019.10.26-22.23.06:219][675]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2019.10.26-22.23.06:220][675]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2019.10.26-22.23.06:220][675]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2019.10.26-22.23.06:220][675]LogHMD: Freeing OpenVRDLLHandle.
+[2019.10.26-22.23.06:220][675]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2019.10.26-22.23.06:220][675]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2019.10.26-22.23.06:220][675]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2019.10.26-22.23.06:220][675]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2019.10.26-22.23.06:220][675]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2019.10.26-22.23.06:222][675]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2019.10.26-22.23.06:222][675]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2019.10.26-22.23.06:247][675]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2019.10.26-22.23.06:247][675]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.10.26-22.23.06:247][675]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B167A0CC5-4607-C265-6792-01AFD4D4F321%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=a9d7803b43c2bb7d469c00902536e55b%7Cc537347d790444e7865400b78da6bee6%7Ca146e568-4a1e-4d57-8a96-e368e937c8ad&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.10.26-22.23.06:277][675]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.10.26-22.23.06:279][675]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.10.26-22.23.06:282][675]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.10.26-22.23.06:289][675]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.10.26-22.23.06:289][675]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.10.26-22.23.06:290][675]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.10.26-22.23.06:290][675]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.10.26-22.23.06:290][675]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.10.26-22.23.06:290][675]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.10.26-22.23.06:290][675]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.10.26-22.23.06:290][675]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.10.26-22.23.06:290][675]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.10.26-22.23.06:291][675]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.10.26-22.23.06:291][675]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.10.26-22.23.06:291][675]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.10.26-22.23.06:291][675]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.10.26-22.23.06:291][675]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.10.26-22.23.06:291][675]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.10.26-22.23.06:291][675]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.10.26-22.23.06:291][675]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.10.26-22.23.06:291][675]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.10.26-22.23.06:292][675]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.10.26-22.23.06:292][675]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.10.26-22.23.06:292][675]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.10.26-22.23.06:308][675]LogExit: Exiting.
+[2019.10.26-22.23.06:341][675]Log file closed, 10/26/19 15:23:06
