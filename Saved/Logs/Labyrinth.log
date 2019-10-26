@@ -1612,3 +1612,583 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.26-16.56.54:726][ 20]LogSavePackage: Moving 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/Labyrinth0A58EC8948ED78E6BA850D84AC3CD2EE.tmp' to 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Content/HorrorEngine/Maps/Labyrinth.umap'
 [2019.10.26-16.56.54:777][ 20]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HorrorEngine/Maps/Labyrinth_BuiltData" FILE="C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Content/HorrorEngine/Maps/Labyrinth_BuiltData.uasset" SILENT=true
 [2019.10.26-16.56.55:320][ 20]LogSavePackage: Moving 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/Labyrinth_BuiltDataDBF01FA741397FE4444C55A1B598E1F2.tmp' to 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Content/HorrorEngine/Maps/Labyrinth_BuiltData.uasset'
+[2019.10.26-16.59.54:875][338]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.00.35:679][214]Cmd: DUPLICATE
+[2019.10.26-17.00.35:679][214]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.01.52:801][377]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.01.58:584][ 68]Cmd: DUPLICATE
+[2019.10.26-17.01.58:584][ 68]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.02.17:909][323]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.02.25:330][135]Cmd: DUPLICATE
+[2019.10.26-17.02.25:330][135]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.02.47:943][777]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.02.50:915][131]Cmd: DUPLICATE
+[2019.10.26-17.02.50:915][131]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.02.57:100][829]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.03.19:892][487]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.03.21:760][706]Cmd: DUPLICATE
+[2019.10.26-17.03.21:760][706]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.03.51:612][201]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.03.52:589][317]Cmd: DUPLICATE
+[2019.10.26-17.03.52:589][317]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.04.44:457][401]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.04.48:086][833]Cmd: DUPLICATE
+[2019.10.26-17.04.48:086][833]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.05.10:944][501]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.05.13:230][765]Cmd: DUPLICATE
+[2019.10.26-17.05.13:230][765]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.05.47:401][727]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.05.49:029][916]Cmd: DUPLICATE
+[2019.10.26-17.05.49:029][916]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.05.53:805][458]Cmd: TRANSACTION UNDO
+[2019.10.26-17.05.53:805][458]LogEditorTransaction: Undo Marquee Select
+[2019.10.26-17.06.21:730][706]LogEditorViewport: Clicking Background
+[2019.10.26-17.06.33:547][120]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.06.39:573][841]Cmd: DUPLICATE
+[2019.10.26-17.06.39:573][841]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.07.12:083][673]LogEditorViewport: Clicking Background
+[2019.10.26-17.07.13:753][871]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.07.20:949][725]Cmd: DUPLICATE
+[2019.10.26-17.07.20:949][725]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.08.15:401][150]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.08.15:728][183]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2019.10.26-17.08.16:729][183]LogSavePackage: Moving 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/Labyrinth_Auto69C7907E74C5CF4A4148B77A249C1B2A2.tmp' to 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/Autosaves/Game/HorrorEngine/Maps/Labyrinth_Auto6.umap'
+[2019.10.26-17.08.16:741][183]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/HorrorEngine/Maps/Labyrinth' took 1.042
+[2019.10.26-17.08.16:741][183]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.042
+[2019.10.26-17.08.18:598][382]Cmd: DUPLICATE
+[2019.10.26-17.08.18:598][382]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.09.18:957][528]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.09.20:309][688]Cmd: DUPLICATE
+[2019.10.26-17.09.20:309][688]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.09.46:650][797]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.09.50:859][300]Cmd: DUPLICATE
+[2019.10.26-17.09.50:860][300]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.10.21:904][931]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.10.25:004][299]Cmd: DUPLICATE
+[2019.10.26-17.10.25:004][299]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.10.41:894][280]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.10.43:020][413]Cmd: DUPLICATE
+[2019.10.26-17.10.43:020][413]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.11.02:434][691]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.11.04:145][889]Cmd: DUPLICATE
+[2019.10.26-17.11.04:145][889]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.11.23:783][179]LogEditorViewport: Clicking Background
+[2019.10.26-17.11.57:918][249]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.11.58:001][259]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.26-17.11.58:012][259]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2019.10.26-17.11.58:012][259]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.26-17.11.58:012][259]PIE: New page: PIE session: Labyrinth (Oct 26, 2019, 9:11:58 AM)
+[2019.10.26-17.11.58:013][259]LogPlayLevel: Creating play world package: /Game/HorrorEngine/Maps/UEDPIE_0_Labyrinth
+[2019.10.26-17.11.58:087][259]LogPlayLevel: PIE: StaticDuplicateObject took: (0.073922s)
+[2019.10.26-17.11.58:088][259]LogAIModule: Creating AISystem for world Labyrinth
+[2019.10.26-17.11.58:088][259]LogPlayLevel: PIE: World Init took: (0.000646s)
+[2019.10.26-17.11.58:088][259]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HorrorEngine/Maps/Labyrinth.Labyrinth to /Game/HorrorEngine/Maps/UEDPIE_0_Labyrinth.Labyrinth (0.074909s)
+[2019.10.26-17.11.58:119][259]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2019.10.26-17.11.58:150][259]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.26-17.11.58:159][259]LogInit: FAudioDevice initialized.
+[2019.10.26-17.11.58:186][259]LogLoad: Game class is 'HorrorEngineGameMode_C'
+[2019.10.26-17.11.58:201][259]LogWorld: Bringing World /Game/HorrorEngine/Maps/UEDPIE_0_Labyrinth.Labyrinth up for play (max tick rate 0) at 2019.10.26-13.11.58
+[2019.10.26-17.11.58:202][259]LogWorld: Bringing up level for play took: 0.013946
+[2019.10.26-17.11.58:214][259]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.26-17.11.58:223][259]PIE: Play in editor start time for /Game/HorrorEngine/Maps/UEDPIE_0_Labyrinth 0.379
+[2019.10.26-17.11.58:224][259]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2019.10.26-17.12.10:885][456]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item50
+	HorrorEvents_C /Game/HorrorEngine/Maps/UEDPIE_0_Labyrinth.Labyrinth:PersistentLevel.HorrorEvents_C_1
+	Function /Game/HorrorEngine/Blueprints/Core/HorrorEvents.HorrorEvents_C:ExecuteUbergraph_HorrorEvents:1252
+[2019.10.26-17.12.10:885][456]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item50". Blueprint:  HorrorEvents Function:  Execute Ubergraph Horror Events Graph:  EventGraph Node:  Open/ On
+[2019.10.26-17.12.10:885][456]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item50
+	HorrorEvents_C /Game/HorrorEngine/Maps/UEDPIE_0_Labyrinth.Labyrinth:PersistentLevel.HorrorEvents_C_1
+	Function /Game/HorrorEngine/Blueprints/Core/HorrorEvents.HorrorEvents_C:ExecuteUbergraph_HorrorEvents:1252
+[2019.10.26-17.12.10:885][456]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item50". Blueprint:  HorrorEvents Function:  Execute Ubergraph Horror Events Graph:  EventGraph Node:  Open/ On
+[2019.10.26-17.13.01:352][242]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2019.10.26-17.13.01:352][242]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-17.13.01:388][242]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.26-17.13.01:389][242]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2019.10.26-17.13.01:423][242]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-17.13.01:435][242]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2019.10.26-17.13.01:446][242]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-17.13.01:483][243]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.10.26-17.13.03:067][423]LogSlate: Window 'Message Log' being destroyed
+[2019.10.26-17.13.03:071][423]LogSlate: Window 'Message Log' being destroyed
+[2019.10.26-17.14.04:754][770]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.14.08:023][156]Cmd: DUPLICATE
+[2019.10.26-17.14.08:023][156]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.14.20:470][623]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.14.23:792][ 16]LogEditorViewport: Clicking Background
+[2019.10.26-17.14.24:851][141]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x677)
+[2019.10.26-17.14.27:139][409]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.14.29:725][714]Cmd: TRANSACTION UNDO
+[2019.10.26-17.14.29:725][714]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.26-17.14.30:121][752]Cmd: TRANSACTION UNDO
+[2019.10.26-17.14.30:121][752]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.26-17.14.30:458][783]Cmd: TRANSACTION UNDO
+[2019.10.26-17.14.30:458][783]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.26-17.14.31:261][876]Cmd: TRANSACTION UNDO
+[2019.10.26-17.14.31:261][876]LogEditorTransaction: Undo Clicking Background
+[2019.10.26-17.14.31:733][927]Cmd: TRANSACTION UNDO
+[2019.10.26-17.14.31:733][927]LogEditorTransaction: Undo Rotate Actors
+[2019.10.26-17.14.32:276][987]Cmd: TRANSACTION UNDO
+[2019.10.26-17.14.32:276][987]LogEditorTransaction: Undo Move Actors
+[2019.10.26-17.14.32:704][ 35]Cmd: TRANSACTION UNDO
+[2019.10.26-17.14.32:704][ 35]LogEditorTransaction: Undo Move Actors
+[2019.10.26-17.14.45:268][475]Cmd: DUPLICATE
+[2019.10.26-17.14.45:269][475]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.14.54:641][562]Cmd: DELETE
+[2019.10.26-17.14.54:641][562]Cmd: ACTOR DELETE
+[2019.10.26-17.14.54:656][562]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.26-17.14.54:656][562]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.26-17.14.54:656][562]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.26-17.14.54:681][562]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2019.10.26-17.14.54:681][562]LogEditorActor: Deleted 3 Actors (0.040 secs)
+[2019.10.26-17.15.16:316][148]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x680)
+[2019.10.26-17.15.44:159][409]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.15.48:474][920]Cmd: DUPLICATE
+[2019.10.26-17.15.48:474][920]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.16.13:739][785]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x680)
+[2019.10.26-17.16.14:919][921]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.16.16:909][156]Cmd: DUPLICATE
+[2019.10.26-17.16.16:909][156]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.16.50:299][113]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.16.55:088][685]Cmd: DUPLICATE
+[2019.10.26-17.16.55:088][685]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.17.31:109][869]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.17.35:030][332]Cmd: DUPLICATE
+[2019.10.26-17.17.35:030][332]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.18.01:245][361]LogEditorViewport: Clicking Background
+[2019.10.26-17.18.18:370][404]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.18.19:614][552]Cmd: DUPLICATE
+[2019.10.26-17.18.19:614][552]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.18.51:893][292]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.18.56:178][802]Cmd: DUPLICATE
+[2019.10.26-17.18.56:178][802]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.19.28:994][603]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.19.30:404][768]Cmd: DUPLICATE
+[2019.10.26-17.19.30:404][768]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.19.48:711][903]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.19.53:850][516]Cmd: DUPLICATE
+[2019.10.26-17.19.53:850][516]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.20.10:150][444]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.20.13:258][806]Cmd: TRANSACTION UNDO
+[2019.10.26-17.20.13:258][806]LogEditorTransaction: Undo Move Actors
+[2019.10.26-17.20.17:201][228]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-17.20.20:548][585]Cmd: TRANSACTION UNDO
+[2019.10.26-17.20.20:548][585]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.26-17.20.20:970][627]Cmd: TRANSACTION UNDO
+[2019.10.26-17.20.20:970][627]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.26-17.20.24:616][ 51]Cmd: TRANSACTION UNDO
+[2019.10.26-17.20.24:616][ 51]LogEditorTransaction: Undo Duplicate Folders Hierarchy
+[2019.10.26-17.20.29:792][648]Cmd: TRANSACTION UNDO
+[2019.10.26-17.20.29:792][648]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.26-17.20.32:641][959]Cmd: TRANSACTION UNDO
+[2019.10.26-17.20.32:641][959]LogEditorTransaction: Undo Move Actors
+[2019.10.26-17.20.41:952][ 21]LogEditorViewport: Clicking Background
+[2019.10.26-17.20.42:807][120]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.20.47:620][681]Cmd: DUPLICATE
+[2019.10.26-17.20.47:620][681]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.20.58:854][  5]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.21.32:241][966]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-17.21.32:276][966]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2019.10.26-17.21.33:352][966]LogSavePackage: Moving 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/Labyrinth_Auto7E9B966D24A8F25E79200D7B53032A5C8.tmp' to 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/Autosaves/Game/HorrorEngine/Maps/Labyrinth_Auto7.umap'
+[2019.10.26-17.21.33:364][966]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/HorrorEngine/Maps/Labyrinth' took 1.114
+[2019.10.26-17.21.33:364][966]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.114
+[2019.10.26-17.21.50:025][944]Cmd: DUPLICATE
+[2019.10.26-17.21.50:025][944]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.22.46:155][253]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x706)
+[2019.10.26-17.22.48:041][476]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.22.49:472][640]Cmd: DUPLICATE
+[2019.10.26-17.22.49:472][640]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.23.29:882][407]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.23.31:248][568]Cmd: DUPLICATE
+[2019.10.26-17.23.31:248][568]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.23.54:151][263]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.24.13:108][524]Cmd: DUPLICATE
+[2019.10.26-17.24.13:108][524]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.24.53:375][154]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.24.58:156][717]Cmd: DUPLICATE
+[2019.10.26-17.24.58:156][717]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.25.28:878][303]LogEditorViewport: Clicking Background
+[2019.10.26-17.25.29:459][371]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x717)
+[2019.10.26-17.25.30:975][547]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.25.33:236][806]Cmd: DUPLICATE
+[2019.10.26-17.25.33:236][806]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.26.00:833][ 61]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.26.13:442][571]Cmd: DUPLICATE
+[2019.10.26-17.26.13:442][571]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.26.53:468][145]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.26.54:792][302]Cmd: DUPLICATE
+[2019.10.26-17.26.54:793][302]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.27.13:353][465]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.27.17:927][ 11]Cmd: DUPLICATE
+[2019.10.26-17.27.17:927][ 11]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.27.51:469][859]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x728)
+[2019.10.26-17.27.53:888][143]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.27.54:989][273]Cmd: DUPLICATE
+[2019.10.26-17.27.54:989][273]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.28.29:862][391]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.28.32:499][697]Cmd: DUPLICATE
+[2019.10.26-17.28.32:499][697]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.29.02:715][256]LogEditorViewport: Clicking Background
+[2019.10.26-17.29.07:042][770]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x735)
+[2019.10.26-17.29.14:014][565]LogEditorViewport: Clicking Background
+[2019.10.26-17.29.20:456][333]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.29.33:223][860]Cmd: DUPLICATE
+[2019.10.26-17.29.33:223][860]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.30.07:099][801]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.30.15:997][858]Cmd: DUPLICATE
+[2019.10.26-17.30.15:997][858]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.30.44:490][178]LogEditorViewport: Clicking Background
+[2019.10.26-17.31.14:729][789]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x728)
+[2019.10.26-17.31.18:089][183]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x741)
+[2019.10.26-17.31.19:292][303]Cmd: DELETE
+[2019.10.26-17.31.19:293][303]Cmd: ACTOR DELETE
+[2019.10.26-17.31.19:309][303]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.26-17.31.19:309][303]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.26-17.31.19:336][303]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2019.10.26-17.31.19:336][303]LogEditorActor: Deleted 2 Actors (0.043 secs)
+[2019.10.26-17.31.21:740][589]Cmd: TRANSACTION UNDO
+[2019.10.26-17.31.21:740][589]LogEditorTransaction: Undo Delete Actors
+[2019.10.26-17.31.55:308][469]LogEditorViewport: Clicking Background
+[2019.10.26-17.31.56:681][632]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x742)
+[2019.10.26-17.32.40:097][784]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.32.49:311][885]Cmd: DUPLICATE
+[2019.10.26-17.32.49:311][885]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.33.23:550][875]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.33.25:095][ 58]Cmd: DUPLICATE
+[2019.10.26-17.33.25:096][ 58]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.33.50:847][ 19]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.33.52:262][187]Cmd: DUPLICATE
+[2019.10.26-17.33.52:262][187]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.34.24:913][ 33]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.34.26:955][272]Cmd: DUPLICATE
+[2019.10.26-17.34.26:955][272]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.34.56:061][677]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.35.00:281][179]Cmd: DUPLICATE
+[2019.10.26-17.35.00:281][179]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.35.50:579][129]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x752)
+[2019.10.26-17.36.12:937][792]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.36.22:414][926]Cmd: DELETE
+[2019.10.26-17.36.22:414][926]Cmd: ACTOR DELETE
+[2019.10.26-17.36.22:446][926]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2019.10.26-17.36.22:446][926]LogEditorActor: Deleted 0 Actors (0.032 secs)
+[2019.10.26-17.36.34:265][243]Cmd: DUPLICATE
+[2019.10.26-17.36.34:266][243]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.37.01:920][469]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.37.05:360][880]Cmd: DUPLICATE
+[2019.10.26-17.37.05:360][880]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.37.43:356][ 19]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-17.37.49:059][677]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-17.37.49:102][677]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2019.10.26-17.37.50:259][677]LogSavePackage: Moving 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/Labyrinth_Auto89F31573D4999860301822382740CE123.tmp' to 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/Autosaves/Game/HorrorEngine/Maps/Labyrinth_Auto8.umap'
+[2019.10.26-17.37.50:273][677]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/HorrorEngine/Maps/Labyrinth' took 1.202
+[2019.10.26-17.37.50:273][677]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.202
+[2019.10.26-17.37.59:285][714]LogEditorViewport: Clicking Background
+[2019.10.26-17.38.03:572][172]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.38.03:721][183]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2019.10.26-17.38.04:868][183]LogSavePackage: Moving 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/LabyrinthE884C4C24F7211DCAB31EF817347422E.tmp' to 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Content/HorrorEngine/Maps/Labyrinth.umap'
+[2019.10.26-17.38.04:926][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HorrorEngine/Maps/Labyrinth_BuiltData" FILE="C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Content/HorrorEngine/Maps/Labyrinth_BuiltData.uasset" SILENT=true
+[2019.10.26-17.38.05:474][183]LogSavePackage: Moving 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/Labyrinth_BuiltData57BE5AA54FFE08144856A5AC832103A2.tmp' to 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Content/HorrorEngine/Maps/Labyrinth_BuiltData.uasset'
+[2019.10.26-17.40.04:483][491]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.40.32:019][492]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-17.40.37:833][106]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.40.39:105][257]Cmd: DUPLICATE
+[2019.10.26-17.40.39:105][257]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.41.06:176][306]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.41.08:054][529]Cmd: DUPLICATE
+[2019.10.26-17.41.08:054][529]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.41.45:981][832]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x764)
+[2019.10.26-17.41.47:684][ 29]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.41.48:866][168]Cmd: DUPLICATE
+[2019.10.26-17.41.48:866][168]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.42.05:158][ 60]Cmd: TRANSACTION UNDO
+[2019.10.26-17.42.05:158][ 60]LogEditorTransaction: Undo Move Actors
+[2019.10.26-17.42.12:602][943]Cmd: DELETE
+[2019.10.26-17.42.12:603][943]Cmd: ACTOR DELETE
+[2019.10.26-17.42.12:619][943]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.26-17.42.12:619][943]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.26-17.42.12:620][943]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.26-17.42.12:620][943]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.26-17.42.12:644][943]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2019.10.26-17.42.12:644][943]LogEditorActor: Deleted 4 Actors (0.042 secs)
+[2019.10.26-17.42.14:259][135]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x682)
+[2019.10.26-17.42.16:027][342]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.42.17:298][492]Cmd: DUPLICATE
+[2019.10.26-17.42.17:298][492]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.42.56:784][117]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x686)
+[2019.10.26-17.42.58:126][272]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x622)
+[2019.10.26-17.43.01:066][617]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.43.03:179][857]Cmd: DUPLICATE
+[2019.10.26-17.43.03:179][857]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.43.42:399][516]Cmd: TRANSACTION UNDO
+[2019.10.26-17.43.42:399][516]LogEditorTransaction: Undo Move Actors
+[2019.10.26-17.43.55:168][ 35]Cmd: EDIT COPY
+[2019.10.26-17.43.55:521][ 76]Cmd: EDIT PASTE
+[2019.10.26-17.44.00:973][719]Cmd: TRANSACTION UNDO
+[2019.10.26-17.44.00:973][719]LogEditorTransaction: Undo Move Actors
+[2019.10.26-17.44.01:778][807]Cmd: TRANSACTION UNDO
+[2019.10.26-17.44.01:778][807]LogEditorTransaction: Undo Paste
+[2019.10.26-17.44.04:016][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.44.05:412][227]Cmd: DUPLICATE
+[2019.10.26-17.44.05:412][227]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.45.10:840][ 10]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.45.12:173][163]Cmd: DUPLICATE
+[2019.10.26-17.45.12:174][163]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.45.29:541][217]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.46.00:058][872]Cmd: DUPLICATE
+[2019.10.26-17.46.00:058][872]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.46.50:373][837]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.46.51:465][967]Cmd: DUPLICATE
+[2019.10.26-17.46.51:465][967]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.47.41:761][874]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.47.49:249][768]Cmd: DUPLICATE
+[2019.10.26-17.47.49:249][768]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.48.00:102][ 34]Cmd: TRANSACTION UNDO
+[2019.10.26-17.48.00:102][ 34]LogEditorTransaction: Undo Rotate Actors
+[2019.10.26-17.48.03:250][398]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.48.13:073][539]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x786)
+[2019.10.26-17.48.28:004][488]LogEditorViewport: Clicking Background
+[2019.10.26-17.48.55:659][795]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-17.48.55:696][795]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2019.10.26-17.48.56:883][795]LogSavePackage: Moving 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/Labyrinth_Auto9BC12411847A027755B1FBF82BE85B791.tmp' to 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/Autosaves/Game/HorrorEngine/Maps/Labyrinth_Auto9.umap'
+[2019.10.26-17.48.56:897][795]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/HorrorEngine/Maps/Labyrinth' took 1.230
+[2019.10.26-17.48.56:897][795]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.230
+[2019.10.26-17.49.03:180][545]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.49.23:786][  7]Cmd: DUPLICATE
+[2019.10.26-17.49.23:786][  7]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.50.01:010][402]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.50.04:856][859]Cmd: DUPLICATE
+[2019.10.26-17.50.04:856][859]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.50.16:796][248]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.50.20:592][692]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.51.25:303][146]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.51.28:262][498]Cmd: DUPLICATE
+[2019.10.26-17.51.28:262][498]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.52.15:066][883]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.52.21:070][600]Cmd: DUPLICATE
+[2019.10.26-17.52.21:070][600]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.53.07:342][914]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.53.11:505][409]Cmd: DUPLICATE
+[2019.10.26-17.53.11:505][409]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.53.51:334][128]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x800)
+[2019.10.26-17.53.52:816][301]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.53.53:940][433]Cmd: DUPLICATE
+[2019.10.26-17.53.53:940][433]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.54.24:345][ 30]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.54.30:080][715]Cmd: DUPLICATE
+[2019.10.26-17.54.30:080][715]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.55.09:049][310]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.55.16:954][257]Cmd: EDIT COPY
+[2019.10.26-17.55.17:232][289]Cmd: EDIT PASTE
+[2019.10.26-17.55.41:671][190]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.55.45:324][625]Cmd: DUPLICATE
+[2019.10.26-17.55.45:324][625]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.56.12:949][840]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.56.16:412][253]Cmd: DUPLICATE
+[2019.10.26-17.56.16:412][253]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.56.23:404][ 55]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.56.27:093][494]Cmd: DELETE
+[2019.10.26-17.56.27:093][494]Cmd: ACTOR DELETE
+[2019.10.26-17.56.27:111][494]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.26-17.56.27:111][494]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.26-17.56.27:111][494]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.26-17.56.27:111][494]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.26-17.56.27:137][494]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2019.10.26-17.56.27:138][494]LogEditorActor: Deleted 4 Actors (0.044 secs)
+[2019.10.26-17.56.28:697][678]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x824)
+[2019.10.26-17.56.32:059][ 75]Cmd: DELETE
+[2019.10.26-17.56.32:059][ 75]Cmd: ACTOR DELETE
+[2019.10.26-17.56.32:076][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.26-17.56.32:076][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.26-17.56.32:076][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.26-17.56.32:077][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.26-17.56.32:100][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2019.10.26-17.56.32:100][ 75]LogEditorActor: Deleted 4 Actors (0.042 secs)
+[2019.10.26-17.56.34:112][315]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x449)
+[2019.10.26-17.57.18:619][571]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x819)
+[2019.10.26-17.57.29:232][807]LogEditorViewport: Clicking Background
+[2019.10.26-17.57.50:788][389]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.58.07:215][352]Cmd: DUPLICATE
+[2019.10.26-17.58.07:215][352]Cmd: ACTOR DUPLICATE
+[2019.10.26-17.58.56:792][244]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-17.58.56:827][244]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2019.10.26-17.58.58:032][244]LogSavePackage: Moving 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/Labyrinth_Auto0D5BCFD1F4F747BC10E830CA669197737.tmp' to 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/Autosaves/Game/HorrorEngine/Maps/Labyrinth_Auto0.umap'
+[2019.10.26-17.58.58:045][244]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/HorrorEngine/Maps/Labyrinth' took 1.244
+[2019.10.26-17.58.58:045][244]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.244
+[2019.10.26-17.59.26:132][571]LogEditorViewport: Clicking Background
+[2019.10.26-17.59.27:470][730]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x812)
+[2019.10.26-17.59.40:411][239]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.59.41:276][340]LogEditorViewport: Clicking Background
+[2019.10.26-17.59.42:124][438]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.59.55:842][ 56]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x815)
+[2019.10.26-17.59.57:786][283]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-17.59.58:862][409]Cmd: DUPLICATE
+[2019.10.26-17.59.58:862][409]Cmd: ACTOR DUPLICATE
+[2019.10.26-18.00.11:282][850]LogEditorViewport: Clicking Background
+[2019.10.26-18.00.19:489][827]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.00.24:268][399]Cmd: DUPLICATE
+[2019.10.26-18.00.24:268][399]Cmd: ACTOR DUPLICATE
+[2019.10.26-18.00.57:161][267]LogEditorViewport: Clicking Background
+[2019.10.26-18.01.06:260][355]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.01.07:976][558]Cmd: DUPLICATE
+[2019.10.26-18.01.07:976][558]Cmd: ACTOR DUPLICATE
+[2019.10.26-18.01.36:209][858]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.01.37:571][ 19]Cmd: DUPLICATE
+[2019.10.26-18.01.37:571][ 19]Cmd: ACTOR DUPLICATE
+[2019.10.26-18.01.57:039][259]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.01.59:937][603]Cmd: DUPLICATE
+[2019.10.26-18.01.59:937][603]Cmd: ACTOR DUPLICATE
+[2019.10.26-18.02.36:858][925]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.02.39:211][205]Cmd: DUPLICATE
+[2019.10.26-18.02.39:211][205]Cmd: ACTOR DUPLICATE
+[2019.10.26-18.02.40:846][396]Cmd: TRANSACTION UNDO
+[2019.10.26-18.02.40:846][396]LogEditorTransaction: Undo Duplicate Folders Hierarchy
+[2019.10.26-18.02.44:124][779]Cmd: DUPLICATE
+[2019.10.26-18.02.44:124][779]Cmd: ACTOR DUPLICATE
+[2019.10.26-18.03.01:905][851]LogEditorViewport: Clicking Background
+[2019.10.26-18.05.03:830][445]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.05.06:759][794]Cmd: DUPLICATE
+[2019.10.26-18.05.06:759][794]Cmd: ACTOR DUPLICATE
+[2019.10.26-18.06.31:736][890]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.06.33:133][ 56]Cmd: DUPLICATE
+[2019.10.26-18.06.33:133][ 56]Cmd: ACTOR DUPLICATE
+[2019.10.26-18.06.59:833][189]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.07.07:079][ 54]Cmd: DUPLICATE
+[2019.10.26-18.07.07:079][ 54]Cmd: ACTOR DUPLICATE
+[2019.10.26-18.07.18:231][364]LogEditorViewport: Clicking Background
+[2019.10.26-18.07.19:204][479]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x848)
+[2019.10.26-18.07.29:433][662]LogEditorViewport: Clicking Background
+[2019.10.26-18.07.44:816][493]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-18.08.13:575][928]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x440)
+[2019.10.26-18.08.14:199][996]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x476)
+[2019.10.26-18.08.14:679][ 48]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x425)
+[2019.10.26-18.08.15:194][104]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x469)
+[2019.10.26-18.08.15:664][155]LogEditorViewport: Clicking Background
+[2019.10.26-18.08.17:893][419]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-18.08.27:746][587]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.08.38:081][824]Cmd: DUPLICATE
+[2019.10.26-18.08.38:081][824]Cmd: ACTOR DUPLICATE
+[2019.10.26-18.08.45:401][683]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x854)
+[2019.10.26-18.09.25:453][419]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.09.42:153][416]Cmd: DUPLICATE
+[2019.10.26-18.09.42:153][416]Cmd: ACTOR DUPLICATE
+[2019.10.26-18.10.05:162][103]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.10.07:187][341]Cmd: DUPLICATE
+[2019.10.26-18.10.07:187][341]Cmd: ACTOR DUPLICATE
+[2019.10.26-18.10.33:117][368]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.10.34:612][546]Cmd: DUPLICATE
+[2019.10.26-18.10.34:612][546]Cmd: ACTOR DUPLICATE
+[2019.10.26-18.11.10:124][699]LogEditorViewport: Clicking Background
+[2019.10.26-18.11.10:967][797]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x862)
+[2019.10.26-18.11.11:358][839]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor_400x862)
+[2019.10.26-18.11.11:379][839]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-18.11.17:548][551]Cmd: DUPLICATE
+[2019.10.26-18.11.17:548][551]Cmd: ACTOR DUPLICATE
+[2019.10.26-18.11.21:913][ 61]Cmd: SELECT NONE
+[2019.10.26-18.11.46:126][960]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-18.11.46:163][960]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2019.10.26-18.11.47:428][960]LogSavePackage: Moving 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/Labyrinth_Auto196901D6F4D58C264DB3507906605DE40.tmp' to 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/Autosaves/Game/HorrorEngine/Maps/Labyrinth_Auto1.umap'
+[2019.10.26-18.11.47:444][960]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/HorrorEngine/Maps/Labyrinth' took 1.308
+[2019.10.26-18.11.47:444][960]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.308
+[2019.10.26-18.14.59:855][790]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x866)
+[2019.10.26-18.15.08:421][791]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.15.11:162][118]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x864)
+[2019.10.26-18.15.27:063][961]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.15.34:475][838]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.15.36:610][ 91]Cmd: DUPLICATE
+[2019.10.26-18.15.36:610][ 91]Cmd: ACTOR DUPLICATE
+[2019.10.26-18.16.11:525][175]LogEditorViewport: Clicking Background
+[2019.10.26-18.16.11:925][221]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x862)
+[2019.10.26-18.16.13:305][382]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.16.14:396][507]Cmd: DUPLICATE
+[2019.10.26-18.16.14:396][507]Cmd: ACTOR DUPLICATE
+[2019.10.26-18.16.34:103][823]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.16.35:111][942]Cmd: DUPLICATE
+[2019.10.26-18.16.35:111][942]Cmd: ACTOR DUPLICATE
+[2019.10.26-18.17.07:336][747]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.17.09:828][ 43]Cmd: DUPLICATE
+[2019.10.26-18.17.09:828][ 43]Cmd: ACTOR DUPLICATE
+[2019.10.26-18.17.40:451][650]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x876)
+[2019.10.26-18.17.42:342][873]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.17.44:497][129]Cmd: DUPLICATE
+[2019.10.26-18.17.44:497][129]Cmd: ACTOR DUPLICATE
+[2019.10.26-18.18.05:674][627]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.18.10:435][195]Cmd: DUPLICATE
+[2019.10.26-18.18.10:435][195]Cmd: ACTOR DUPLICATE
+[2019.10.26-18.18.43:656][111]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x879)
+[2019.10.26-18.18.57:091][710]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.18.58:426][867]Cmd: DUPLICATE
+[2019.10.26-18.18.58:426][867]Cmd: ACTOR DUPLICATE
+[2019.10.26-18.19.37:009][438]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x881)
+[2019.10.26-18.19.38:776][644]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.19.39:823][767]Cmd: DUPLICATE
+[2019.10.26-18.19.39:823][767]Cmd: ACTOR DUPLICATE
+[2019.10.26-18.20.13:608][774]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x884)
+[2019.10.26-18.20.16:714][141]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.20.18:616][366]Cmd: DUPLICATE
+[2019.10.26-18.20.18:616][366]Cmd: ACTOR DUPLICATE
+[2019.10.26-18.20.35:334][334]LogEditorViewport: Clicking Background
+[2019.10.26-18.21.06:658][ 80]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.21.35:215][500]Cmd: DUPLICATE
+[2019.10.26-18.21.35:215][500]Cmd: ACTOR DUPLICATE
+[2019.10.26-18.22.01:167][551]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x885)
+[2019.10.26-18.22.03:312][801]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.22.07:794][335]Cmd: DUPLICATE
+[2019.10.26-18.22.07:794][335]Cmd: ACTOR DUPLICATE
+[2019.10.26-18.22.37:395][825]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-18.22.37:430][825]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2019.10.26-18.22.38:738][825]LogSavePackage: Moving 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/Labyrinth_Auto2E8BFC1A242F24919DDC4689E1D1039C5.tmp' to 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/Autosaves/Game/HorrorEngine/Maps/Labyrinth_Auto2.umap'
+[2019.10.26-18.22.38:752][825]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/HorrorEngine/Maps/Labyrinth' took 1.349
+[2019.10.26-18.22.38:752][825]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.349
+[2019.10.26-18.22.52:649][472]LogEditorViewport: Clicking Background
+[2019.10.26-18.23.09:265][454]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x894)
+[2019.10.26-18.23.11:629][733]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.23.12:676][853]Cmd: DUPLICATE
+[2019.10.26-18.23.12:676][853]Cmd: ACTOR DUPLICATE
+[2019.10.26-18.23.28:505][718]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.23.57:471][182]Cmd: DUPLICATE
+[2019.10.26-18.23.57:471][182]Cmd: ACTOR DUPLICATE
+[2019.10.26-18.24.21:161][944]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x897)
+[2019.10.26-18.24.22:227][ 66]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.24.23:387][203]Cmd: DUPLICATE
+[2019.10.26-18.24.23:387][203]Cmd: ACTOR DUPLICATE
+[2019.10.26-18.24.38:669][995]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.24.46:048][877]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.24.49:940][342]Cmd: DUPLICATE
+[2019.10.26-18.24.49:940][342]Cmd: ACTOR DUPLICATE
+[2019.10.26-18.25.35:484][704]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.25.37:004][885]Cmd: DUPLICATE
+[2019.10.26-18.25.37:004][885]Cmd: ACTOR DUPLICATE
+[2019.10.26-18.26.09:642][723]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x902)
+[2019.10.26-18.26.11:638][957]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.26.12:901][106]Cmd: DUPLICATE
+[2019.10.26-18.26.12:901][106]Cmd: ACTOR DUPLICATE
+[2019.10.26-18.26.27:695][840]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x908)
+[2019.10.26-18.26.29:095][999]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.26.30:030][109]Cmd: DUPLICATE
+[2019.10.26-18.26.30:030][109]Cmd: ACTOR DUPLICATE
+[2019.10.26-18.27.57:230][484]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.27.58:337][614]Cmd: DUPLICATE
+[2019.10.26-18.27.58:337][614]Cmd: ACTOR DUPLICATE
+[2019.10.26-18.28.27:051][  5]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.28.33:366][760]Cmd: DUPLICATE
+[2019.10.26-18.28.33:366][760]Cmd: ACTOR DUPLICATE
+[2019.10.26-18.29.08:079][768]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.29.11:999][235]Cmd: DUPLICATE
+[2019.10.26-18.29.11:999][235]Cmd: ACTOR DUPLICATE
+[2019.10.26-18.29.14:450][513]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.29.36:526][113]LogEditorViewport: Clicking Background
+[2019.10.26-18.32.39:059][756]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2019.10.26-18.32.40:529][756]LogSavePackage: Moving 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/Labyrinth_Auto383543B9D426FC545D76261883BFBDCCD.tmp' to 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/Autosaves/Game/HorrorEngine/Maps/Labyrinth_Auto3.umap'
+[2019.10.26-18.32.40:550][756]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/HorrorEngine/Maps/Labyrinth' took 1.539
+[2019.10.26-18.32.40:550][756]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.539
+[2019.10.26-18.36.37:014][462]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-18.37.05:466][817]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-18.37.31:257][230]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-18.38.12:623][165]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Jackson/Documents/2019HalloweenJam Audio/Cthulhu roar (Godzilla vs Cthulhu movie).wav)
+[2019.10.26-18.38.14:956][433]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Cthulhu_roar__Godzilla_vs_Cthulhu_movie_...
+[2019.10.26-18.38.15:166][433]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 2285568 while cooking SoundWave /Game/HorrorEngine/Audio/LabyrinthAudio/Cthulhu_roar__Godzilla_vs_Cthulhu_movie_.Cthulhu_roar__Godzilla_vs_Cthulhu_movie_.
+[2019.10.26-18.38.27:662][783]LogAssetEditorManager: Opening Asset editor for SoundWave /Game/HorrorEngine/Audio/LabyrinthAudio/Cthulhu_roar__Godzilla_vs_Cthulhu_movie_.Cthulhu_roar__Godzilla_vs_Cthulhu_movie_
+[2019.10.26-18.38.35:118][595]LogSavePackage: Moving 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/Cthulhu_roar__Godzilla_vs_CthulhCD2FFB3E4A73DC37FCAC2584BEEA627A.tmp' to 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Content/HorrorEngine/Audio/LabyrinthAudio/Cthulhu_roar__Godzilla_vs_Cthulhu_movie_.uasset'
+[2019.10.26-18.38.36:230][705]LogSlate: Window 'Cthulhu_roar__Godzilla_vs_Cthulhu_movie_' being destroyed
+[2019.10.26-18.38.37:358][832]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Cthulhu_roar__Godzilla_vs_Cthulhu_movie_...
+[2019.10.26-18.38.46:376][886]LogEditorViewport: Clicking Background
+[2019.10.26-18.39.05:192][127]LogSlate: FSceneViewport::OnFocusLost() reason 0
