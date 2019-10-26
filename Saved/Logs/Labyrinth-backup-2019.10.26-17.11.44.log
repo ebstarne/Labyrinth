@@ -1,0 +1,1614 @@
+﻿Log file open, 10/26/19 03:10:23
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Labyrinth
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.166024
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.32.0
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-6600K CPU @ 3.50GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.10.26-07.10.24:501][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.10.26-07.10.24:501][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.10.26-07.10.24:501][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/Config/Windows/Engine.ini]
+[2019.10.26-07.10.24:501][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.10.26-07.10.24:501][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2019.10.26-07.10.24:501][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2019.10.26-07.10.24:501][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2019.10.26-07.10.24:501][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2019.10.26-07.10.24:501][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:1]]
+[2019.10.26-07.10.24:501][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/Config/Windows/Engine.ini]
+[2019.10.26-07.10.24:501][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/Config/Windows/Engine.ini]
+[2019.10.26-07.10.24:501][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.10.26-07.10.24:501][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.10.26-07.10.24:501][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.10.26-07.10.24:501][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.10.26-07.10.24:501][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.10.26-07.10.24:502][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.10.26-07.10.24:502][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.10.26-07.10.24:502][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.10.26-07.10.24:502][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.10.26-07.10.24:502][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.10.26-07.10.24:502][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.10.26-07.10.24:502][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.10.26-07.10.24:502][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.10.26-07.10.24:502][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/Config/Windows/Engine.ini]
+[2019.10.26-07.10.24:502][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.10.26-07.10.24:502][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.10.26-07.10.24:502][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.10.26-07.10.24:502][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.10.26-07.10.24:502][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.10.26-07.10.24:502][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.10.26-07.10.24:502][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.10.26-07.10.24:502][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.10.26-07.10.24:502][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.10.26-07.10.24:502][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.10.26-07.10.24:502][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.10.26-07.10.24:502][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.10.26-07.10.24:502][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.10.26-07.10.24:502][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/Config/Windows/Engine.ini]
+[2019.10.26-07.10.24:502][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/Config/Windows/Engine.ini]
+[2019.10.26-07.10.24:512][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/Config/Windows/Scalability.ini]
+[2019.10.26-07.10.24:512][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.26-07.10.24:512][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.26-07.10.24:512][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/Config/Windows/Scalability.ini]
+[2019.10.26-07.10.24:512][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.26-07.10.24:512][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/Config/Windows/Scalability.ini]
+[2019.10.26-07.10.24:512][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.26-07.10.24:512][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.26-07.10.24:512][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.26-07.10.24:512][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.26-07.10.24:512][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.26-07.10.24:512][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.26-07.10.24:512][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.26-07.10.24:512][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.26-07.10.24:512][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.26-07.10.24:512][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.26-07.10.24:512][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.26-07.10.24:512][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.26-07.10.24:512][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.26-07.10.24:512][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.26-07.10.24:512][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.26-07.10.24:512][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.26-07.10.24:512][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.26-07.10.24:512][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.26-07.10.24:512][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/Config/Windows/Scalability.ini]
+[2019.10.26-07.10.24:512][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.26-07.10.24:512][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.26-07.10.24:512][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.26-07.10.24:512][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.26-07.10.24:512][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.26-07.10.24:512][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.26-07.10.24:512][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.26-07.10.24:512][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.26-07.10.24:512][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.26-07.10.24:512][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.26-07.10.24:512][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.26-07.10.24:512][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.26-07.10.24:512][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.26-07.10.24:512][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.26-07.10.24:512][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.26-07.10.24:512][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.26-07.10.24:512][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.26-07.10.24:512][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.26-07.10.24:512][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.26-07.10.24:512][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.26-07.10.24:512][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.26-07.10.24:512][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.26-07.10.24:512][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.26-07.10.24:512][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.26-07.10.24:512][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.26-07.10.24:512][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.26-07.10.24:512][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.26-07.10.24:512][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.26-07.10.24:513][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.26-07.10.24:513][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.26-07.10.24:513][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/Config/Windows/Scalability.ini]
+[2019.10.26-07.10.24:513][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.26-07.10.24:513][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.26-07.10.24:513][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.26-07.10.24:513][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.26-07.10.24:513][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.26-07.10.24:513][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.26-07.10.24:513][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.26-07.10.24:513][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.26-07.10.24:513][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/Config/Windows/Scalability.ini]
+[2019.10.26-07.10.24:513][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.26-07.10.24:513][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.26-07.10.24:513][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.26-07.10.24:513][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.26-07.10.24:513][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.26-07.10.24:513][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.26-07.10.24:513][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.26-07.10.24:513][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.26-07.10.24:513][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.26-07.10.24:513][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.26-07.10.24:513][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.26-07.10.24:513][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.26-07.10.24:513][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.26-07.10.24:513][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/Config/Windows/Scalability.ini]
+[2019.10.26-07.10.24:513][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.26-07.10.24:513][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.26-07.10.24:513][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.26-07.10.24:513][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.10.26-07.10.24:526][  0]LogHAL: Display: Platform has ~ 16 GB [17139314688 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.10.26-07.10.24:526][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.10.26-07.10.24:526][  0]LogInit: Going up to parent DeviceProfile []
+[2019.10.26-07.10.24:526][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/Config/Windows/Scalability.ini]
+[2019.10.26-07.10.24:526][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.26-07.10.24:526][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.26-07.10.24:526][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/Config/Windows/Scalability.ini]
+[2019.10.26-07.10.24:526][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.26-07.10.24:526][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/Config/Windows/Scalability.ini]
+[2019.10.26-07.10.24:526][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.26-07.10.24:526][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.26-07.10.24:526][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.26-07.10.24:526][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.26-07.10.24:526][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.26-07.10.24:526][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.26-07.10.24:526][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.26-07.10.24:526][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.26-07.10.24:526][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.26-07.10.24:526][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.26-07.10.24:526][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.26-07.10.24:526][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.26-07.10.24:526][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.26-07.10.24:526][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.26-07.10.24:526][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.26-07.10.24:526][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.26-07.10.24:526][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.26-07.10.24:526][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.26-07.10.24:526][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/Config/Windows/Scalability.ini]
+[2019.10.26-07.10.24:526][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.26-07.10.24:526][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.26-07.10.24:526][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.26-07.10.24:526][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.26-07.10.24:526][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.26-07.10.24:526][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.26-07.10.24:526][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.26-07.10.24:526][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.26-07.10.24:526][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.26-07.10.24:526][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.26-07.10.24:526][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.26-07.10.24:526][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.26-07.10.24:526][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.26-07.10.24:526][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.26-07.10.24:526][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.26-07.10.24:526][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.26-07.10.24:526][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.26-07.10.24:526][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.26-07.10.24:526][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.26-07.10.24:526][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.26-07.10.24:526][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.26-07.10.24:526][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.26-07.10.24:526][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.26-07.10.24:526][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.26-07.10.24:526][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.26-07.10.24:526][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.26-07.10.24:526][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.26-07.10.24:527][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.26-07.10.24:527][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.26-07.10.24:527][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.26-07.10.24:527][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/Config/Windows/Scalability.ini]
+[2019.10.26-07.10.24:527][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.26-07.10.24:527][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.26-07.10.24:527][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.26-07.10.24:527][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.26-07.10.24:527][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.26-07.10.24:527][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.26-07.10.24:527][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.26-07.10.24:527][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.26-07.10.24:527][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/Config/Windows/Scalability.ini]
+[2019.10.26-07.10.24:527][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.26-07.10.24:527][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.26-07.10.24:527][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.26-07.10.24:527][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.26-07.10.24:527][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.26-07.10.24:527][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.26-07.10.24:527][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.26-07.10.24:527][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.26-07.10.24:527][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.26-07.10.24:527][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.26-07.10.24:527][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.26-07.10.24:527][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.26-07.10.24:527][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.26-07.10.24:527][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/Config/Windows/Scalability.ini]
+[2019.10.26-07.10.24:527][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.26-07.10.24:527][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.26-07.10.24:527][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.10.26-07.10.24:527][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.10.26-07.10.24:527][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.10.26-07.10.24:527][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/Config/Windows/Engine.ini]
+[2019.10.26-07.10.24:527][  0]LogInit: Computer: DESKTOP-F9D722G
+[2019.10.26-07.10.24:527][  0]LogInit: User: Jackson
+[2019.10.26-07.10.24:527][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.10.26-07.10.24:527][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.10.26-07.10.24:527][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2019.10.26-07.10.24:527][  0]LogMemory: Platform Memory Stats for Windows
+[2019.10.26-07.10.24:527][  0]LogMemory: Process Physical Memory: 100.73 MB used, 100.74 MB peak
+[2019.10.26-07.10.24:527][  0]LogMemory: Process Virtual Memory: 99.73 MB used, 99.73 MB peak
+[2019.10.26-07.10.24:527][  0]LogMemory: Physical Memory: 5849.01 MB used,  10496.31 MB free, 16345.32 MB total
+[2019.10.26-07.10.24:528][  0]LogMemory: Virtual Memory: 4656.41 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2019.10.26-07.10.24:545][  0]LogInit: Using OS detected language (en-US).
+[2019.10.26-07.10.24:545][  0]LogInit: Using OS detected locale (en-US).
+[2019.10.26-07.10.24:546][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.10.26-07.10.24:696][  0]LogInit: Setting process to per monitor DPI aware
+[2019.10.26-07.10.24:736][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.10.26-07.10.24:736][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.10.26-07.10.24:892][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2019.10.26-07.10.24:892][  0]LogD3D11RHI: D3D11 adapters:
+[2019.10.26-07.10.24:927][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2019.10.26-07.10.24:927][  0]LogD3D11RHI:       8096/0/8172 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2019.10.26-07.10.24:930][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.10.26-07.10.24:930][  0]LogD3D11RHI:       0/0/8172 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.10.26-07.10.24:930][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.10.26-07.10.24:937][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.10.26-07.10.24:937][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2019.10.26-07.10.24:937][  0]LogWindows: EnumDisplayDevices:
+[2019.10.26-07.10.24:937][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2019.10.26-07.10.24:937][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2019.10.26-07.10.24:937][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2019.10.26-07.10.24:938][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.10.26-07.10.24:938][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.10.26-07.10.24:938][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2019.10.26-07.10.24:938][  0]LogD3D11RHI:   Driver Version: 388.31 (internal:23.21.13.8831, unified:388.31)
+[2019.10.26-07.10.24:938][  0]LogD3D11RHI:      Driver Date: 11-14-2017
+[2019.10.26-07.10.24:938][  0]LogRHI: Texture pool is 5667 MB (70% of 8096 MB)
+[2019.10.26-07.10.24:959][  0]LogD3D11RHI: Async texture creation enabled
+[2019.10.26-07.10.24:976][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.10.26-07.10.24:977][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.10.26-07.10.24:977][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.10.26-07.10.24:983][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.10.26-07.10.26:267][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.10.26-07.10.26:269][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.10.26-07.10.26:532][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.10.26-07.10.26:545][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.10.26-07.10.26:557][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.10.26-07.10.26:570][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.10.26-07.10.26:583][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.10.26-07.10.26:595][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.10.26-07.10.26:607][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.10.26-07.10.26:620][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.10.26-07.10.26:627][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.10.26-07.10.26:703][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.10.26-07.10.26:703][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.10.26-07.10.26:703][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.10.26-07.10.26:703][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.10.26-07.10.26:703][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.10.26-07.10.26:703][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.10.26-07.10.26:703][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.10.26-07.10.26:703][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.10.26-07.10.26:703][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.10.26-07.10.26:703][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.10.26-07.10.26:703][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.10.26-07.10.26:703][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.10.26-07.10.26:703][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.10.26-07.10.26:703][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.10.26-07.10.26:703][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.10.26-07.10.26:703][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.10.26-07.10.26:703][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.10.26-07.10.26:703][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.10.26-07.10.26:705][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.10.26-07.10.26:753][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.10.26-07.10.26:753][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.10.26-07.10.26:777][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.10.26-07.10.26:777][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.10.26-07.10.26:789][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.10.26-07.10.26:800][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.10.26-07.10.26:812][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.10.26-07.10.26:825][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.10.26-07.10.26:868][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.10.26-07.10.26:868][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.10.26-07.10.26:868][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.10.26-07.10.26:873][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.10.26-07.10.26:908][  0]LogShaderCompilers: Guid format shader working directory is -5 characters bigger than the processId version (C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Intermediate/Shaders/WorkingDirectory/16076/).
+[2019.10.26-07.10.26:908][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jackson/AppData/Local/Temp/UnrealShaderWorkingDir/3A6736E647DCC5A7D573C08A5A357B1E/'.
+[2019.10.26-07.10.26:909][  0]LogXGEController: Cleaning working directory: C:/Users/Jackson/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.10.26-07.10.26:909][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.10.26-07.10.26:909][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.10.26-07.10.26:909][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.10.26-07.10.27:423][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.10.26-07.10.27:470][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/Jackson/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.10.26-07.10.27:470][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Jackson/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.10.26-07.10.27:470][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.10.26-07.10.27:470][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.10.26-07.10.27:470][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.26-07.10.27:470][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.10.26-07.10.27:482][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.10.26-07.10.27:482][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.26-07.10.27:482][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.10.26-07.10.27:495][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jackson/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.10.26-07.10.27:495][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.10.26-07.10.27:495][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.10.26-07.10.27:517][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.10.26-07.10.27:518][  0]LogSlate: Using FreeType 2.6.0
+[2019.10.26-07.10.27:519][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.10.26-07.10.27:595][  0]LogAssetRegistry: FAssetRegistry took 0.0327 seconds to start up
+[2019.10.26-07.10.27:891][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.26-07.10.28:009][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.10.26-07.10.28:009][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.10.26-07.10.28:009][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.10.26-07.10.28:009][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.10.26-07.10.28:009][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.10.26-07.10.28:018][  0]LogNetVersion: Labyrinth 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 4267684810)
+[2019.10.26-07.10.28:355][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.037847 seconds
+[2019.10.26-07.10.28:362][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.10.26-07.10.28:362][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.10.26-07.10.28:362][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.10.26-07.10.29:046][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.10.26-07.10.29:060][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.10.26-07.10.29:158][  0]SourceControl: Source control is disabled
+[2019.10.26-07.10.29:158][  0]SourceControl: Source control is disabled
+[2019.10.26-07.10.29:160][  0]SourceControl: Source control is disabled
+[2019.10.26-07.10.29:161][  0]SourceControl: Source control is disabled
+[2019.10.26-07.10.29:225][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.10.26-07.10.29:316][  0]LogOcInput: OculusInput pre-init called
+[2019.10.26-07.10.29:912][  0]LogEngine: Initializing Engine...
+[2019.10.26-07.10.29:939][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2019.10.26-07.10.29:940][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.10.26-07.10.30:128][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.10.26-07.10.30:137][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.10.26-07.10.30:167][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.26-07.10.30:183][  0]LogInit: FAudioDevice initialized.
+[2019.10.26-07.10.30:183][  0]LogNetVersion: Set ProjectVersion to 2. Version Checksum will be recalculated on next use.
+[2019.10.26-07.10.30:326][  0]LogDerivedDataCache: Saved boot cache 0.14s 71MB C:/Users/Jackson/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.10.26-07.10.30:331][  0]LogInit: Texture streaming: Enabled
+[2019.10.26-07.10.30:342][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.10.26-07.10.30:357][  0]LogInit: Transaction tracking system initialized
+[2019.10.26-07.10.30:372][  0]BlueprintLog: New page: Editor Load
+[2019.10.26-07.10.30:428][  0]LocalizationService: Localization service is disabled
+[2019.10.26-07.10.30:662][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.10.26-07.10.30:662][  0]LogCook: Display: Mobile HDR setting 1
+[2019.10.26-07.10.30:794][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Content/' took 0.02s
+[2019.10.26-07.10.30:794][  0]SourceControl: Source control is disabled
+[2019.10.26-07.10.30:794][  0]Cmd: MAP LOAD FILE="C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Content/HorrorEngine/Maps/Overview.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.26-07.10.30:794][  0]LightingResults: New page: Lighting Build
+[2019.10.26-07.10.30:796][  0]MapCheck: New page: Map Check
+[2019.10.26-07.10.30:796][  0]LightingResults: New page: Lighting Build
+[2019.10.26-07.10.30:819][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2019.10.26-07.10.30:991][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/KeycardControl.KeycardControl_C:KeycardControl_GEN_VARIABLE because its class does not exist
+[2019.10.26-07.10.31:044][  0]LogLinker: Can't find file '/Game/HorrorEngine/Textures/HUD/YouDied'
+[2019.10.26-07.10.31:044][  0]LogLinker: Can't find file '/Game/HorrorEngine/Textures/HUD/YouDied'
+[2019.10.26-07.10.31:566][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/HorrorEngine/Blueprints/UsableAssets/DoorsAndFurnitures/LadderAdvanced.LadderAdvanced_C:LadderBottom_GEN_VARIABLE because its class does not exist
+[2019.10.26-07.10.31:566][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/HorrorEngine/Blueprints/UsableAssets/DoorsAndFurnitures/LadderAdvanced.LadderAdvanced_C:LadderConnect_GEN_VARIABLE because its class does not exist
+[2019.10.26-07.10.31:566][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/HorrorEngine/Blueprints/UsableAssets/DoorsAndFurnitures/LadderAdvanced.LadderAdvanced_C:LadderMiddle_GEN_VARIABLE because its class does not exist
+[2019.10.26-07.10.31:566][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/HorrorEngine/Blueprints/UsableAssets/DoorsAndFurnitures/LadderAdvanced.LadderAdvanced_C:LadderTop_GEN_VARIABLE because its class does not exist
+[2019.10.26-07.10.37:867][  0]LogLinker: Warning: Can't find file '/Game/HorrorEngine/Blueprints/Structures/HorrorEvent/HorrorEventsMasterFix'
+[2019.10.26-07.10.37:868][  0]LogLinker: Warning: Can't find file '/Game/HorrorEngine/Blueprints/Structures/HorrorEvent/HorrorEventsMasterFix'
+[2019.10.26-07.10.37:868][  0]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/HorrorEngine/Blueprints/Structures/HorrorEvent/HorrorEventsMasterFix.HorrorEventsMasterFix'
+[2019.10.26-07.10.38:470][  0]LogLinker: Warning: Can't find file '/Game/HorrorEngine/Blueprints/Structures/HorrorEvent/HorrorEventFix'
+[2019.10.26-07.10.38:470][  0]LogLinker: Warning: Can't find file '/Game/HorrorEngine/Blueprints/Structures/HorrorEvent/HorrorEventFix'
+[2019.10.26-07.10.38:470][  0]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/HorrorEngine/Blueprints/Structures/HorrorEvent/HorrorEventFix.HorrorEventFix'
+[2019.10.26-07.10.38:867][  0]LogAIModule: Creating AISystem for world Overview
+[2019.10.26-07.10.38:961][  0]Warning:  applied to a non-external Texture2D sampler. This may work by chance on some platforms but is not portable. Please change sampler type to 'External'. Parameter 'Texture' (slot 0) in material 'HE_TvGlow'
+[2019.10.26-07.10.38:961][  0]Warning:  applied to a non-external Texture2D sampler. This may work by chance on some platforms but is not portable. Please change sampler type to 'External'. Parameter 'Texture' (slot 0) in material 'HE_TvGlow'
+[2019.10.26-07.10.38:961][  0]Warning:  applied to a non-external Texture2D sampler. This may work by chance on some platforms but is not portable. Please change sampler type to 'External'. Parameter 'Texture' (slot 0) in material 'HE_TvGlow'
+[2019.10.26-07.10.38:961][  0]Warning:  applied to a non-external Texture2D sampler. This may work by chance on some platforms but is not portable. Please change sampler type to 'External'. Parameter 'Texture' (slot 0) in material 'HE_VhsGlow'
+[2019.10.26-07.10.38:961][  0]Warning:  applied to a non-external Texture2D sampler. This may work by chance on some platforms but is not portable. Please change sampler type to 'External'. Parameter 'Texture' (slot 0) in material 'HE_VhsGlow'
+[2019.10.26-07.10.38:961][  0]Warning:  applied to a non-external Texture2D sampler. This may work by chance on some platforms but is not portable. Please change sampler type to 'External'. Parameter 'Texture' (slot 0) in material 'HE_VhsGlow'
+[2019.10.26-07.10.38:961][  0]LogActorComponent: UnregisterComponent: (/Game/HorrorEngine/Maps/Overview.Overview:PersistentLevel.OldTv_938.TRASH_AudioComponent_4) Not registered. Aborting.
+[2019.10.26-07.10.39:004][  0]LogActorComponent: UnregisterComponent: (/Game/HorrorEngine/Maps/Overview.Overview:PersistentLevel.Tv_602.TRASH_AudioComponent_5) Not registered. Aborting.
+[2019.10.26-07.10.39:154][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.26-07.10.39:266][  0]LogUObjectHash: Compacting FUObjectHashTables data took   6.97ms
+[2019.10.26-07.10.39:267][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.26-07.10.39:267][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.2ms to complete.
+[2019.10.26-07.10.39:267][  0]LogFileHelpers: Loading map 'Overview' took 8.474
+[2019.10.26-07.10.39:373][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-07.10.39:381][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-07.10.39:387][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-07.10.39:394][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-07.10.39:398][  0]LogCollectionManager: Loaded 0 collections in 0.000853 seconds
+[2019.10.26-07.10.39:412][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/Collections/' took 0.01s
+[2019.10.26-07.10.39:412][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Content/Developers/Jackson/Collections/' took 0.00s
+[2019.10.26-07.10.39:412][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Content/Collections/' took 0.00s
+[2019.10.26-07.10.39:412][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.10.26-07.10.39:420][  0]LogContentBrowser: Native class hierarchy populated in 0.0077 seconds. Added 2732 classes and 659 folders.
+[2019.10.26-07.10.39:423][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.26-07.10.39:425][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.26-07.10.39:426][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.26-07.10.39:426][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.26-07.10.39:426][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.26-07.10.39:426][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.26-07.10.39:427][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.26-07.10.39:427][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.26-07.10.39:427][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.26-07.10.39:428][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.26-07.10.39:428][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.26-07.10.39:429][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.26-07.10.39:429][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.26-07.10.39:429][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.26-07.10.39:430][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.26-07.10.39:430][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.26-07.10.39:430][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.26-07.10.39:431][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.26-07.10.39:431][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.26-07.10.39:431][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.26-07.10.39:432][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.26-07.10.39:432][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.26-07.10.39:432][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.26-07.10.39:433][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.26-07.10.39:433][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.26-07.10.39:433][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.26-07.10.39:434][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.26-07.10.39:451][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.26-07.10.39:457][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.10.26-07.10.39:474][  0]LogSlate: Took 0.000124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.10.26-07.10.39:475][  0]LogSlate: Took 0.000111 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.10.26-07.10.39:480][  0]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.10.26-07.10.39:543][  0]LogRenderer: Reallocating scene render targets to support 2560x1440 Format 10 NumSamples 1 (Frame:1).
+[2019.10.26-07.10.40:354][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.26-07.10.40:354][  0]LogLoad: (Engine Initialization) Total time: 17.50 seconds
+[2019.10.26-07.10.40:354][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.10.26-07.10.40:408][  0]LogAssetRegistry: Asset discovery search completed in 12.8355 seconds
+[2019.10.26-07.10.40:410][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.10.26-07.10.40:410][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000051 seconds (updated 0 objects)
+[2019.10.26-07.10.40:411][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.10.26-07.10.40:439][  0]LogSlate: Took 0.000115 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.26-07.10.41:396][ 51]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.26-07.10.46:357][339]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.10.51:038][611]LogTexture: Display: Building textures: Pentagram (BGRA8, 499X472)
+[2019.10.26-07.10.51:038][611]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2019.10.26-07.10.51:038][611]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2019.10.26-07.10.51:038][611]LogMaterial: Display: Missing cached shader map for material He_SatanDecal, compiling. 
+[2019.10.26-07.10.51:119][611]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2019.10.26-07.10.51:119][611]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 1024X1024)
+[2019.10.26-07.10.51:119][611]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 1024X1024)
+[2019.10.26-07.10.51:119][611]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2019.10.26-07.10.51:119][611]LogMaterial: Display: Missing cached shader map for material He_Tile2, compiling. 
+[2019.10.26-07.10.51:171][611]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2019.10.26-07.10.51:172][611]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2019.10.26-07.10.51:172][611]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 1024X1024)
+[2019.10.26-07.10.51:172][611]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Demo01v2...
+[2019.10.26-07.10.51:194][611]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 1024X1024)
+[2019.10.26-07.10.51:194][611]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 143944 while cooking SoundWave /Game/HorrorEngine/Audio/Voices/Demo01v2.Demo01v2.
+[2019.10.26-07.10.51:196][611]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Demo02v2...
+[2019.10.26-07.10.51:224][611]LogTexture: Display: Building textures: SamplePhoto07a (BGRA8, 1070X1080)
+[2019.10.26-07.10.51:224][611]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 292120 while cooking SoundWave /Game/HorrorEngine/Audio/Voices/Demo02v2.Demo02v2.
+[2019.10.26-07.10.51:224][611]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Demo14...
+[2019.10.26-07.10.51:255][611]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 321756 while cooking SoundWave /Game/HorrorEngine/Audio/Voices/Demo14.Demo14.
+[2019.10.26-07.10.51:255][611]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Demo25...
+[2019.10.26-07.10.51:297][611]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 423360 while cooking SoundWave /Game/HorrorEngine/Audio/Voices/Demo25.Demo25.
+[2019.10.26-07.10.51:298][611]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Demo23v2...
+[2019.10.26-07.10.51:339][611]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 452996 while cooking SoundWave /Game/HorrorEngine/Audio/Voices/Demo23v2.Demo23v2.
+[2019.10.26-07.10.51:339][611]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Demo16v2...
+[2019.10.26-07.10.51:355][611]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 152412 while cooking SoundWave /Game/HorrorEngine/Audio/Voices/Demo16v2.Demo16v2.
+[2019.10.26-07.10.51:355][611]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Demo18...
+[2019.10.26-07.10.51:380][611]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 241316 while cooking SoundWave /Game/HorrorEngine/Audio/Voices/Demo18.Demo18.
+[2019.10.26-07.10.51:380][611]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Demo19v2...
+[2019.10.26-07.10.51:412][611]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 338688 while cooking SoundWave /Game/HorrorEngine/Audio/Voices/Demo19v2.Demo19v2.
+[2019.10.26-07.10.51:413][611]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Demo26...
+[2019.10.26-07.10.51:430][611]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 156644 while cooking SoundWave /Game/HorrorEngine/Audio/Voices/Demo26.Demo26.
+[2019.10.26-07.10.51:480][611]LogStaticMesh: Building static mesh Top...
+[2019.10.26-07.10.51:505][611]LogStaticMesh: Built static mesh [0.03s] /Game/HorrorEngine/Meshes/Arch/Top.Top
+[2019.10.26-07.10.51:508][611]LogAIModule: Creating AISystem for world Labyrinth
+[2019.10.26-07.10.51:592][611]LogAssetEditorManager: Opening Asset editor for World /Game/HorrorEngine/Maps/Labyrinth.Labyrinth
+[2019.10.26-07.10.51:648][611]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2019.10.26-07.10.51:649][611]Cmd: MAP LOAD FILE="C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Content/HorrorEngine/Maps/Labyrinth.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.26-07.10.51:649][611]LightingResults: New page: Lighting Build
+[2019.10.26-07.10.51:650][611]LoadErrors: New page: Loading map: Labyrinth.umap
+[2019.10.26-07.10.51:658][611]MapCheck: New page: Map Check
+[2019.10.26-07.10.51:658][611]LightingResults: New page: Lighting Build
+[2019.10.26-07.10.51:712][611]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2019.10.26-07.10.51:835][611]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.26-07.10.51:882][611]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2019.10.26-07.10.51:901][611]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.26-07.10.51:902][611]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.168ms to complete.
+[2019.10.26-07.10.51:902][611]LogFileHelpers: Loading map 'Labyrinth' took 0.253
+[2019.10.26-07.10.59:884][442]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.11.00:040][460]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.26-07.11.03:158][460]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2019.10.26-07.11.03:158][460]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.26-07.11.03:159][460]PIE: New page: PIE session: Labyrinth (Oct 25, 2019, 11:11:03 PM)
+[2019.10.26-07.11.03:171][460]LogPlayLevel: Creating play world package: /Game/HorrorEngine/Maps/UEDPIE_0_Labyrinth
+[2019.10.26-07.11.03:228][460]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056455s)
+[2019.10.26-07.11.03:228][460]LogAIModule: Creating AISystem for world Labyrinth
+[2019.10.26-07.11.03:229][460]LogPlayLevel: PIE: World Init took: (0.000814s)
+[2019.10.26-07.11.03:229][460]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HorrorEngine/Maps/Labyrinth.Labyrinth to /Game/HorrorEngine/Maps/UEDPIE_0_Labyrinth.Labyrinth (0.057621s)
+[2019.10.26-07.11.03:255][460]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2019.10.26-07.11.03:281][460]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.26-07.11.03:290][460]LogInit: FAudioDevice initialized.
+[2019.10.26-07.11.03:355][460]LogLoad: Game class is 'HorrorEngineGameMode_C'
+[2019.10.26-07.11.03:366][460]LogWorld: Bringing World /Game/HorrorEngine/Maps/UEDPIE_0_Labyrinth.Labyrinth up for play (max tick rate 0) at 2019.10.26-03.11.03
+[2019.10.26-07.11.03:367][460]LogWorld: Bringing up level for play took: 0.009886
+[2019.10.26-07.11.03:380][460]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.26-07.11.03:382][460]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.10.26-07.11.03:393][460]PIE: Play in editor start time for /Game/HorrorEngine/Maps/UEDPIE_0_Labyrinth -0.451
+[2019.10.26-07.11.03:393][460]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2019.10.26-07.11.27:531][270]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item50
+	HorrorEvents_C /Game/HorrorEngine/Maps/UEDPIE_0_Labyrinth.Labyrinth:PersistentLevel.HorrorEvents_C_4
+	Function /Game/HorrorEngine/Blueprints/Core/HorrorEvents.HorrorEvents_C:ExecuteUbergraph_HorrorEvents:1252
+[2019.10.26-07.11.27:532][270]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item50". Blueprint:  HorrorEvents Function:  Execute Ubergraph Horror Events Graph:  EventGraph Node:  Open/ On
+[2019.10.26-07.11.27:532][270]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item50
+	HorrorEvents_C /Game/HorrorEngine/Maps/UEDPIE_0_Labyrinth.Labyrinth:PersistentLevel.HorrorEvents_C_4
+	Function /Game/HorrorEngine/Blueprints/Core/HorrorEvents.HorrorEvents_C:ExecuteUbergraph_HorrorEvents:1252
+[2019.10.26-07.11.27:532][270]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item50". Blueprint:  HorrorEvents Function:  Execute Ubergraph Horror Events Graph:  EventGraph Node:  Open/ On
+[2019.10.26-07.11.39:548][709]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2019.10.26-07.11.39:549][709]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-07.11.39:580][709]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.26-07.11.39:581][709]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2019.10.26-07.11.39:611][709]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-07.11.39:622][709]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2019.10.26-07.11.39:632][709]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-07.11.39:668][710]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.10.26-07.11.40:944][825]LogSlate: Window 'Message Log' being destroyed
+[2019.10.26-07.11.40:958][825]LogSlate: Window 'Message Log' being destroyed
+[2019.10.26-07.11.42:321][973]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-07.11.48:348][513]MapCheck: New page: Map Check
+[2019.10.26-07.11.48:355][513]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-07.11.48:359][513]LightingResults: New page: Lighting Build - Oct 25, 2019, 11:11:48 PM
+[2019.10.26-07.11.48:504][513]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.10.26-07.11.48:722][513]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.10.26-07.11.48:743][513]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.10.26-07.11.49:799][513]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.10.26-07.11.49:799][513]LogSwarmInterface: [TryOpenConnection] Local Process ID is 16076
+[2019.10.26-07.11.56:416][513]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.10.26-07.11.56:416][513]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.10.26-07.11.56:416][513]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.10.26-07.11.56:416][513]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.10.26-07.11.56:416][513]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.10.26-07.11.56:416][513]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.10.26-07.11.56:704][513]LogEditorBuildUtils: Build time 0:08
+[2019.10.26-07.11.56:720][513]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer He_Rock, compiling. 
+[2019.10.26-07.11.56:727][513]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer He_Rock, compiling. 
+[2019.10.26-07.11.56:735][513]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer He_Rock, compiling. 
+[2019.10.26-07.11.56:751][514]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer He_Tile2, compiling. 
+[2019.10.26-07.11.56:758][514]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer He_Tile2, compiling. 
+[2019.10.26-07.11.56:766][514]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer He_Tile2, compiling. 
+[2019.10.26-07.11.56:781][515]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer HE_WoodGray, compiling. 
+[2019.10.26-07.11.56:789][515]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer HE_WoodGray, compiling. 
+[2019.10.26-07.11.56:796][515]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer HE_WoodGray, compiling. 
+[2019.10.26-07.11.56:826][516]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer HE_Dirt, compiling. 
+[2019.10.26-07.11.56:834][516]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer HE_Dirt, compiling. 
+[2019.10.26-07.11.56:841][516]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer HE_Dirt, compiling. 
+[2019.10.26-07.11.56:855][517]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer HE_Grass, compiling. 
+[2019.10.26-07.11.56:863][517]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer HE_Grass, compiling. 
+[2019.10.26-07.11.56:871][517]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer HE_Grass, compiling. 
+[2019.10.26-07.11.56:908][519]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer HE_Moon, compiling. 
+[2019.10.26-07.11.56:915][519]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer HE_Moon, compiling. 
+[2019.10.26-07.11.56:923][519]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer HE_Moon, compiling. 
+[2019.10.26-07.11.56:940][520]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2019.10.26-07.11.56:949][520]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2019.10.26-07.11.56:956][520]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2019.10.26-07.12.01:604][539]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2019.10.26-07.12.24:014][480]Job is a success!
+[2019.10.26-07.12.24:039][481]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-07.12.24:091][481]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.008s
+[2019.10.26-07.12.24:092][481]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.10.26-07.12.24:092][481]LogVolumetricLightmapImport:      BrickData 40x5x5 = 0.0Mb (trimmed 0.2Mb due to 0.010000 MinBrickError)
+[2019.10.26-07.12.24:092][481]LogVolumetricLightmapImport:      Bricks at Level
+[2019.10.26-07.12.24:092][481]LogVolumetricLightmapImport:          0: 12.5% covering 100.0% of volume
+[2019.10.26-07.12.24:092][481]LogVolumetricLightmapImport:          1: 37.5% covering 4.7% of volume
+[2019.10.26-07.12.24:092][481]LogVolumetricLightmapImport:          2: 50.0% covering 0.1% of volume
+[2019.10.26-07.12.26:565][481]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2019.10.26-07.12.26:565][481]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2019.10.26-07.12.26:565][481]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2019.10.26-07.12.26:565][481]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2019.10.26-07.12.26:565][481]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2019.10.26-07.12.26:565][481]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2019.10.26-07.12.26:565][481]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 1024X1024)
+[2019.10.26-07.12.26:565][481]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 1024X1024)
+[2019.10.26-07.12.26:565][481]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 256X256)
+[2019.10.26-07.12.26:565][481]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 256X256)
+[2019.10.26-07.12.26:565][481]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 64X64)
+[2019.10.26-07.12.26:565][481]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 64X64)
+[2019.10.26-07.12.26:764][481]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 32X32)
+[2019.10.26-07.12.26:809][481]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X1024)
+[2019.10.26-07.12.26:809][481]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X1024)
+[2019.10.26-07.12.26:852][481]Lightmass on DESKTOP-F9D722G: 23.7 sec total, 204 ms importing, 24 ms setup, 2.39 sec photons, 21.0 sec processing, 0 ms extra exporting [138/138 mappings]. Threads: 1:24 min total, 53.3 sec processing.
+[2019.10.26-07.12.26:853][481]LogStaticLightingSystem: Labyrinth_BuiltData storing lightmap data for 138 meshes in 10 LightmapResourceClusters (13.8 Meshes per cluster).
+[2019.10.26-07.12.26:881][481]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2019.10.26-07.12.26:889][481]LogStaticLightingSystem: Illumination: 38.5 sec (2.28 sec encoding lightmaps, 240 ms encoding shadowmaps)
+[2019.10.26-07.12.26:889][481]LogStaticLightingSystem: Lightmap texture memory:  8.1 MB (8.1 MB streaming, 0.0 MB non-streaming), 12 textures
+[2019.10.26-07.12.26:889][481]LogStaticLightingSystem: Shadowmap texture memory: 10.7 MB (10.7 MB streaming, 0.0 MB non-streaming), 3 textures
+[2019.10.26-07.12.27:441][481]DumpUnbuiltLightIteractions
+[2019.10.26-07.12.27:441][481]Lights with unbuilt interactions: 0
+[2019.10.26-07.12.27:441][481]
+[2019.10.26-07.12.27:441][481]Primitives with unbuilt interactions: 0
+[2019.10.26-07.12.27:447][481]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-07.12.27:483][482]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.10.26-07.12.27:484][482]MapCheck: New page: Labyrinth - Oct 25, 2019, 11:12:27 PM
+[2019.10.26-07.12.27:485][482]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.455ms to complete.
+[2019.10.26-07.12.35:276][399]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x402)
+[2019.10.26-07.12.36:013][478]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_400x409)
+[2019.10.26-07.12.36:976][588]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Pillar_50x535)
+[2019.10.26-07.13.06:718][127]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_400x408)
+[2019.10.26-07.13.35:672][579]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-07.13.47:316][970]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pillar_50x540)
+[2019.10.26-07.13.47:997][ 42]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Pillar_50x535)
+[2019.10.26-07.13.48:772][126]Cmd: DELETE
+[2019.10.26-07.13.48:772][126]Cmd: ACTOR DELETE
+[2019.10.26-07.13.48:783][126]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.26-07.13.48:783][126]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.26-07.13.48:808][126]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2019.10.26-07.13.48:808][126]LogEditorActor: Deleted 2 Actors (0.036 secs)
+[2019.10.26-07.14.02:698][784]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x402)
+[2019.10.26-07.14.03:408][863]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_400x409)
+[2019.10.26-07.14.04:306][965]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_400x408)
+[2019.10.26-07.16.29:708][348]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x414)
+[2019.10.26-07.16.30:981][494]Cmd: DELETE
+[2019.10.26-07.16.30:981][494]Cmd: ACTOR DELETE
+[2019.10.26-07.16.30:991][494]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.26-07.16.31:016][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.10.26-07.16.31:016][494]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2019.10.26-07.16.34:450][902]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x402)
+[2019.10.26-07.17.19:137][193]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x409)
+[2019.10.26-07.17.19:952][285]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_400x405)
+[2019.10.26-07.17.20:403][334]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_400x407)
+[2019.10.26-07.17.25:898][977]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_400x404)
+[2019.10.26-07.17.51:073][946]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_400x404)
+[2019.10.26-07.17.52:134][ 62]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_400x406)
+[2019.10.26-07.17.52:617][112]LogEditorViewport: Clicking Background
+[2019.10.26-07.17.53:377][200]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_400x404)
+[2019.10.26-07.17.54:329][305]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_400x406)
+[2019.10.26-07.17.56:851][587]Cmd: TRANSACTION UNDO
+[2019.10.26-07.17.56:851][587]LogEditorTransaction: Undo Move Actors
+[2019.10.26-07.17.57:710][675]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_400x408)
+[2019.10.26-07.18.21:313][261]LogEditorViewport: Clicking Background
+[2019.10.26-07.18.23:089][463]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x402)
+[2019.10.26-07.18.23:743][525]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_400x409)
+[2019.10.26-07.18.24:660][617]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_400x408)
+[2019.10.26-07.18.39:913][299]Cmd: EDIT COPY
+[2019.10.26-07.18.41:461][465]LogEditorViewport: Clicking Background
+[2019.10.26-07.18.43:352][677]Cmd: EDIT PASTE
+[2019.10.26-07.18.58:428][293]Cmd: TRANSACTION UNDO
+[2019.10.26-07.18.58:428][293]LogEditorTransaction: Undo Paste
+[2019.10.26-07.19.00:524][529]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x402)
+[2019.10.26-07.19.01:212][594]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_400x408)
+[2019.10.26-07.19.02:389][718]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_400x409)
+[2019.10.26-07.19.04:025][893]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.21.30:075][855]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.21.39:675][672]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.10.26-07.21.40:765][717]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.10.26-07.21.44:658][967]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.10.26-07.21.46:523][127]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.21.51:873][746]LogEditorViewport: Clicking Background
+[2019.10.26-07.21.54:267][ 24]Cmd: ACTOR SELECT ALL
+[2019.10.26-07.22.09:475][561]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.10.26-07.22.17:667][111]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.10.26-07.22.27:085][  6]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.10.26-07.22.53:773][979]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.10.26-07.23.01:666][862]LogEditorViewport: Clicking Background
+[2019.10.26-07.23.19:676][ 11]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x402)
+[2019.10.26-07.23.23:238][433]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.23.52:546][833]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2019.10.26-07.23.53:245][833]LogSavePackage: Moving 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/Labyrinth_Auto1E5002F324141D8A81E3A0E9F55BEF729.tmp' to 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/Autosaves/Game/HorrorEngine/Maps/Labyrinth_Auto1.umap'
+[2019.10.26-07.23.53:254][833]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/HorrorEngine/Maps/Labyrinth' took 0.901
+[2019.10.26-07.23.53:254][833]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.901
+[2019.10.26-07.24.08:125][601]Cmd: TRANSACTION UNDO
+[2019.10.26-07.24.08:125][601]LogEditorTransaction: Undo Move Actors
+[2019.10.26-07.24.12:396][100]Cmd: TRANSACTION UNDO
+[2019.10.26-07.24.12:396][100]LogEditorTransaction: Undo Move Actors
+[2019.10.26-07.24.23:295][397]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.25.51:152][924]Cmd: TRANSACTION UNDO
+[2019.10.26-07.25.51:152][924]LogEditorTransaction: Undo Create Folder
+[2019.10.26-07.26.14:551][721]Cmd: TRANSACTION UNDO
+[2019.10.26-07.26.14:551][721]LogEditorTransaction: Undo Create Folder
+[2019.10.26-07.26.24:078][856]Cmd: TRANSACTION UNDO
+[2019.10.26-07.26.24:078][856]LogEditorTransaction: Undo Create Folder
+[2019.10.26-07.27.22:057][797]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.27.30:536][808]Cmd: EDIT COPY
+[2019.10.26-07.27.32:006][981]Cmd: EDIT PASTE
+[2019.10.26-07.27.33:763][187]Cmd: TRANSACTION UNDO
+[2019.10.26-07.27.33:763][187]LogEditorTransaction: Undo Paste
+[2019.10.26-07.27.41:117][ 52]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.27.52:240][348]LogEditorViewport: Clicking Background
+[2019.10.26-07.27.53:285][472]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x403)
+[2019.10.26-07.27.54:170][574]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x411)
+[2019.10.26-07.28.00:053][273]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.28.13:563][887]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.28.22:387][915]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x410)
+[2019.10.26-07.28.25:209][248]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.28.29:093][706]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.28.37:470][688]Cmd: DELETE
+[2019.10.26-07.28.37:470][688]Cmd: ACTOR DELETE
+[2019.10.26-07.28.37:482][688]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.26-07.28.37:509][688]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2019.10.26-07.28.37:510][688]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2019.10.26-07.28.41:172][120]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.29.10:222][571]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_400x414)
+[2019.10.26-07.29.11:201][684]Cmd: DELETE
+[2019.10.26-07.29.11:201][684]Cmd: ACTOR DELETE
+[2019.10.26-07.29.11:215][684]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.26-07.29.11:215][684]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.26-07.29.11:215][684]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.26-07.29.11:216][684]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.26-07.29.11:216][684]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.26-07.29.11:240][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2019.10.26-07.29.11:240][684]LogEditorActor: Deleted 5 Actors (0.040 secs)
+[2019.10.26-07.29.14:401][ 61]Cmd: TRANSACTION UNDO
+[2019.10.26-07.29.14:401][ 61]LogEditorTransaction: Undo Delete Actors
+[2019.10.26-07.29.15:904][231]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.29.17:597][431]LogEditorViewport: Clicking Background
+[2019.10.26-07.29.19:002][598]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.29.21:321][875]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.29.34:853][491]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.29.37:715][832]Cmd: DUPLICATE
+[2019.10.26-07.29.37:715][832]Cmd: ACTOR DUPLICATE
+[2019.10.26-07.29.54:571][840]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.30.56:078][102]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x403)
+[2019.10.26-07.31.03:542][985]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x415)
+[2019.10.26-07.31.04:813][132]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.31.09:154][648]Cmd: DUPLICATE
+[2019.10.26-07.31.09:154][648]Cmd: ACTOR DUPLICATE
+[2019.10.26-07.31.21:670][107]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x414)
+[2019.10.26-07.31.36:880][902]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.31.39:562][222]Cmd: DUPLICATE
+[2019.10.26-07.31.39:562][222]Cmd: ACTOR DUPLICATE
+[2019.10.26-07.31.44:778][836]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.31.52:370][741]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.32.31:378][443]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-07.33.11:045][139]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x418)
+[2019.10.26-07.33.12:000][248]Cmd: EDIT COPY
+[2019.10.26-07.33.12:249][276]Cmd: EDIT PASTE
+[2019.10.26-07.33.13:072][370]Cmd: TRANSACTION UNDO
+[2019.10.26-07.33.13:072][370]LogEditorTransaction: Undo Paste
+[2019.10.26-07.33.14:402][511]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.33.19:721][142]Cmd: DUPLICATE
+[2019.10.26-07.33.19:721][142]Cmd: ACTOR DUPLICATE
+[2019.10.26-07.33.30:249][372]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.33.40:896][631]Cmd: DUPLICATE
+[2019.10.26-07.33.40:896][631]Cmd: ACTOR DUPLICATE
+[2019.10.26-07.34.13:642][476]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.34.15:288][671]Cmd: DUPLICATE
+[2019.10.26-07.34.15:288][671]Cmd: ACTOR DUPLICATE
+[2019.10.26-07.34.20:010][216]LogEditorViewport: Clicking Background
+[2019.10.26-07.34.24:998][805]LogEditorViewport: Clicking Background
+[2019.10.26-07.34.25:630][876]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x433)
+[2019.10.26-07.34.31:071][515]LogEditorViewport: Clicking Background
+[2019.10.26-07.34.31:613][578]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x427)
+[2019.10.26-07.34.35:811][ 63]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x430)
+[2019.10.26-07.34.38:175][337]LogEditorViewport: Clicking Background
+[2019.10.26-07.34.38:604][382]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x431)
+[2019.10.26-07.34.44:328][ 50]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x422)
+[2019.10.26-07.35.15:814][797]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x416)
+[2019.10.26-07.35.35:943][172]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.35.37:514][358]Cmd: DUPLICATE
+[2019.10.26-07.35.37:514][358]Cmd: ACTOR DUPLICATE
+[2019.10.26-07.36.11:709][403]LogEditorViewport: Clicking Background
+[2019.10.26-07.36.12:603][507]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x421)
+[2019.10.26-07.36.14:059][673]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.36.17:801][116]Cmd: DUPLICATE
+[2019.10.26-07.36.17:801][116]Cmd: ACTOR DUPLICATE
+[2019.10.26-07.36.30:610][605]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.36.31:976][766]Cmd: DUPLICATE
+[2019.10.26-07.36.31:976][766]Cmd: ACTOR DUPLICATE
+[2019.10.26-07.36.45:043][309]LogEditorViewport: Clicking Background
+[2019.10.26-07.36.48:198][681]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x411)
+[2019.10.26-07.36.49:836][870]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.36.52:447][180]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x411)
+[2019.10.26-07.36.53:819][335]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.37.04:689][629]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.37.21:481][582]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x435)
+[2019.10.26-07.37.23:493][816]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x437)
+[2019.10.26-07.37.25:450][ 39]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x440)
+[2019.10.26-07.37.27:423][265]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x410)
+[2019.10.26-07.37.42:269][  0]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.37.43:966][189]Cmd: DUPLICATE
+[2019.10.26-07.37.43:966][189]Cmd: ACTOR DUPLICATE
+[2019.10.26-07.37.53:386][268]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.37.57:198][720]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.38.25:450][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.38.25:541][ 60]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.26-07.38.25:553][ 60]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2019.10.26-07.38.25:553][ 60]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.26-07.38.25:553][ 60]PIE: New page: PIE session: Labyrinth (Oct 25, 2019, 11:38:25 PM)
+[2019.10.26-07.38.25:554][ 60]LogPlayLevel: Creating play world package: /Game/HorrorEngine/Maps/UEDPIE_0_Labyrinth
+[2019.10.26-07.38.25:610][ 60]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055560s)
+[2019.10.26-07.38.25:610][ 60]LogAIModule: Creating AISystem for world Labyrinth
+[2019.10.26-07.38.25:610][ 60]LogPlayLevel: PIE: World Init took: (0.000739s)
+[2019.10.26-07.38.25:611][ 60]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HorrorEngine/Maps/Labyrinth.Labyrinth to /Game/HorrorEngine/Maps/UEDPIE_0_Labyrinth.Labyrinth (0.056531s)
+[2019.10.26-07.38.25:637][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2019.10.26-07.38.25:665][ 60]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.26-07.38.25:674][ 60]LogInit: FAudioDevice initialized.
+[2019.10.26-07.38.25:701][ 60]LogLoad: Game class is 'HorrorEngineGameMode_C'
+[2019.10.26-07.38.25:713][ 60]LogWorld: Bringing World /Game/HorrorEngine/Maps/UEDPIE_0_Labyrinth.Labyrinth up for play (max tick rate 0) at 2019.10.26-03.38.25
+[2019.10.26-07.38.25:714][ 60]LogWorld: Bringing up level for play took: 0.009826
+[2019.10.26-07.38.25:726][ 60]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.26-07.38.25:735][ 60]PIE: Play in editor start time for /Game/HorrorEngine/Maps/UEDPIE_0_Labyrinth -0.109
+[2019.10.26-07.38.25:736][ 60]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2019.10.26-07.38.39:539][581]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item50
+	HorrorEvents_C /Game/HorrorEngine/Maps/UEDPIE_0_Labyrinth.Labyrinth:PersistentLevel.HorrorEvents_C_1
+	Function /Game/HorrorEngine/Blueprints/Core/HorrorEvents.HorrorEvents_C:ExecuteUbergraph_HorrorEvents:1252
+[2019.10.26-07.38.39:539][581]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item50". Blueprint:  HorrorEvents Function:  Execute Ubergraph Horror Events Graph:  EventGraph Node:  Open/ On
+[2019.10.26-07.38.39:540][581]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item50
+	HorrorEvents_C /Game/HorrorEngine/Maps/UEDPIE_0_Labyrinth.Labyrinth:PersistentLevel.HorrorEvents_C_1
+	Function /Game/HorrorEngine/Blueprints/Core/HorrorEvents.HorrorEvents_C:ExecuteUbergraph_HorrorEvents:1252
+[2019.10.26-07.38.39:540][581]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item50". Blueprint:  HorrorEvents Function:  Execute Ubergraph Horror Events Graph:  EventGraph Node:  Open/ On
+[2019.10.26-07.39.31:254][203]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2019.10.26-07.39.31:255][203]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-07.39.31:294][203]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.26-07.39.31:295][203]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2019.10.26-07.39.31:329][203]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-07.39.31:337][203]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2019.10.26-07.39.31:347][203]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-07.39.31:383][204]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.10.26-07.39.33:109][399]LogSlate: Window 'Message Log' being destroyed
+[2019.10.26-07.39.33:114][399]LogSlate: Window 'Message Log' being destroyed
+[2019.10.26-07.39.36:882][844]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pillar_50x539)
+[2019.10.26-07.39.39:250][114]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pillar_50x538)
+[2019.10.26-07.39.40:323][236]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Pillar_50x539)
+[2019.10.26-07.39.50:648][379]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pillar_50x534)
+[2019.10.26-07.39.52:031][539]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Pillar_50x533)
+[2019.10.26-07.40.31:223][100]Cmd: TRANSACTION UNDO
+[2019.10.26-07.40.31:223][100]LogEditorTransaction: Undo Move Actors
+[2019.10.26-07.40.32:177][205]Cmd: TRANSACTION UNDO
+[2019.10.26-07.40.32:177][205]LogEditorTransaction: Undo Move Actors
+[2019.10.26-07.40.32:561][249]Cmd: TRANSACTION UNDO
+[2019.10.26-07.40.32:561][249]LogEditorTransaction: Undo Move Actors
+[2019.10.26-07.40.43:832][581]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.40.43:932][593]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.26-07.40.43:942][593]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2019.10.26-07.40.43:942][593]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.26-07.40.43:942][593]PIE: New page: PIE session: Labyrinth (Oct 25, 2019, 11:40:43 PM)
+[2019.10.26-07.40.43:943][593]LogPlayLevel: Creating play world package: /Game/HorrorEngine/Maps/UEDPIE_0_Labyrinth
+[2019.10.26-07.40.43:999][593]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056122s)
+[2019.10.26-07.40.44:000][593]LogAIModule: Creating AISystem for world Labyrinth
+[2019.10.26-07.40.44:000][593]LogPlayLevel: PIE: World Init took: (0.000501s)
+[2019.10.26-07.40.44:000][593]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HorrorEngine/Maps/Labyrinth.Labyrinth to /Game/HorrorEngine/Maps/UEDPIE_0_Labyrinth.Labyrinth (0.056807s)
+[2019.10.26-07.40.44:028][593]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2019.10.26-07.40.44:056][593]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.26-07.40.44:064][593]LogInit: FAudioDevice initialized.
+[2019.10.26-07.40.44:093][593]LogLoad: Game class is 'HorrorEngineGameMode_C'
+[2019.10.26-07.40.44:104][593]LogWorld: Bringing World /Game/HorrorEngine/Maps/UEDPIE_0_Labyrinth.Labyrinth up for play (max tick rate 0) at 2019.10.26-03.40.44
+[2019.10.26-07.40.44:106][593]LogWorld: Bringing up level for play took: 0.009624
+[2019.10.26-07.40.44:117][593]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.26-07.40.44:126][593]PIE: Play in editor start time for /Game/HorrorEngine/Maps/UEDPIE_0_Labyrinth 0.283
+[2019.10.26-07.40.44:127][593]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2019.10.26-07.40.56:653][966]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item50
+	HorrorEvents_C /Game/HorrorEngine/Maps/UEDPIE_0_Labyrinth.Labyrinth:PersistentLevel.HorrorEvents_C_1
+	Function /Game/HorrorEngine/Blueprints/Core/HorrorEvents.HorrorEvents_C:ExecuteUbergraph_HorrorEvents:1252
+[2019.10.26-07.40.56:654][966]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item50". Blueprint:  HorrorEvents Function:  Execute Ubergraph Horror Events Graph:  EventGraph Node:  Open/ On
+[2019.10.26-07.40.56:654][966]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item50
+	HorrorEvents_C /Game/HorrorEngine/Maps/UEDPIE_0_Labyrinth.Labyrinth:PersistentLevel.HorrorEvents_C_1
+	Function /Game/HorrorEngine/Blueprints/Core/HorrorEvents.HorrorEvents_C:ExecuteUbergraph_HorrorEvents:1252
+[2019.10.26-07.40.56:654][966]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item50". Blueprint:  HorrorEvents Function:  Execute Ubergraph Horror Events Graph:  EventGraph Node:  Open/ On
+[2019.10.26-07.41.09:405][458]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2019.10.26-07.41.09:406][458]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-07.41.09:438][458]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.26-07.41.09:439][458]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2019.10.26-07.41.09:470][458]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-07.41.09:481][458]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2019.10.26-07.41.09:491][458]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-07.41.09:530][459]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.10.26-07.41.11:176][652]LogSlate: Window 'Message Log' being destroyed
+[2019.10.26-07.41.11:180][652]LogSlate: Window 'Message Log' being destroyed
+[2019.10.26-07.41.19:711][659]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x412)
+[2019.10.26-07.41.20:564][754]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x404)
+[2019.10.26-07.41.26:290][424]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x405)
+[2019.10.26-07.41.28:544][687]LogEditorViewport: Clicking Background
+[2019.10.26-07.41.29:506][801]LogEditorViewport: Clicking Background
+[2019.10.26-07.41.29:884][846]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x405)
+[2019.10.26-07.41.32:543][151]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x407)
+[2019.10.26-07.41.35:548][503]LogEditorViewport: Clicking Background
+[2019.10.26-07.41.36:084][566]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x404)
+[2019.10.26-07.41.39:025][909]LogEditorViewport: Clicking Background
+[2019.10.26-07.41.40:713][106]LogEditorViewport: Clicking on Actor (LMB): WallTorch_C (WallTorch13)
+[2019.10.26-07.41.42:086][265]LogEditorViewport: Clicking on Actor (CTRL LMB): WallTorch_C (WallTorch16)
+[2019.10.26-07.41.44:485][537]LogEditorViewport: Clicking on Actor (CTRL LMB): WallTorch_C (WallTorch18)
+[2019.10.26-07.42.01:553][520]LogEditorViewport: Clicking on Actor (LMB): WallTorch_C (WallTorch20)
+[2019.10.26-07.42.03:606][759]LogEditorViewport: Clicking on Actor (CTRL LMB): WallTorch_C (WallTorch17)
+[2019.10.26-07.42.04:733][887]LogEditorViewport: Clicking on Actor (CTRL LMB): WallTorch_C (WallTorch14)
+[2019.10.26-07.42.14:718][ 35]LogEditorViewport: Clicking Background
+[2019.10.26-07.42.24:083][155]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x444)
+[2019.10.26-07.42.24:979][255]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.42.26:628][450]Cmd: DUPLICATE
+[2019.10.26-07.42.26:628][450]Cmd: ACTOR DUPLICATE
+[2019.10.26-07.42.46:511][799]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.43.34:643][514]LogEditorViewport: Clicking Background
+[2019.10.26-07.43.51:401][512]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.43.52:634][658]Cmd: DUPLICATE
+[2019.10.26-07.43.52:635][658]Cmd: ACTOR DUPLICATE
+[2019.10.26-07.43.57:634][237]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.44.03:903][973]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.44.36:927][883]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.44.44:068][733]LogEditorViewport: Clicking Background
+[2019.10.26-07.44.46:366][  7]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.44.50:369][476]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x445)
+[2019.10.26-07.44.51:961][662]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.45.04:799][148]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.10.26-07.45.05:161][179]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.10.26-07.45.06:662][337]Cmd: EDIT COPY
+[2019.10.26-07.45.09:056][614]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x448)
+[2019.10.26-07.45.11:225][866]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x446)
+[2019.10.26-07.45.12:412][  2]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x447)
+[2019.10.26-07.45.14:564][255]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.45.21:792][ 89]LogEditorViewport: Clicking Background
+[2019.10.26-07.45.22:459][164]Cmd: EDIT PASTE
+[2019.10.26-07.45.24:400][392]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.45.40:609][274]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.45.52:798][688]LogEditorViewport: Clicking Background
+[2019.10.26-07.45.53:784][805]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x451)
+[2019.10.26-07.45.57:805][277]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x449)
+[2019.10.26-07.46.00:429][586]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x445)
+[2019.10.26-07.46.02:782][858]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x446)
+[2019.10.26-07.46.05:216][144]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.46.26:860][697]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.10.26-07.46.33:814][493]LogEditorViewport: Clicking Background
+[2019.10.26-07.46.35:297][669]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x451)
+[2019.10.26-07.46.38:068][993]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.46.50:581][478]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x450)
+[2019.10.26-07.47.07:902][481]LogEditorViewport: Clicking Background
+[2019.10.26-07.47.20:504][985]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.47.43:087][686]LogEditorViewport: Clicking Background
+[2019.10.26-07.47.43:708][760]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x448)
+[2019.10.26-07.47.44:774][883]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.48.32:142][537]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.48.34:625][829]Cmd: DUPLICATE
+[2019.10.26-07.48.34:626][829]Cmd: ACTOR DUPLICATE
+[2019.10.26-07.48.37:402][150]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.48.48:443][464]Cmd: DELETE
+[2019.10.26-07.48.48:443][464]Cmd: ACTOR DELETE
+[2019.10.26-07.48.48:457][464]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.26-07.48.48:457][464]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.26-07.48.48:490][464]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2019.10.26-07.48.48:490][464]LogEditorActor: Deleted 2 Actors (0.048 secs)
+[2019.10.26-07.48.54:782][205]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x450)
+[2019.10.26-07.49.48:406][560]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.49.50:072][758]Cmd: DUPLICATE
+[2019.10.26-07.49.50:072][758]Cmd: ACTOR DUPLICATE
+[2019.10.26-07.50.04:129][424]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.50.07:292][798]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.50.49:654][758]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.50.51:382][962]Cmd: DUPLICATE
+[2019.10.26-07.50.51:382][962]Cmd: ACTOR DUPLICATE
+[2019.10.26-07.51.10:249][171]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.51.13:965][600]Cmd: DUPLICATE
+[2019.10.26-07.51.13:965][600]Cmd: ACTOR DUPLICATE
+[2019.10.26-07.51.48:166][630]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.51.49:921][839]Cmd: DUPLICATE
+[2019.10.26-07.51.49:921][839]Cmd: ACTOR DUPLICATE
+[2019.10.26-07.52.24:008][827]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.52.25:812][ 40]Cmd: DUPLICATE
+[2019.10.26-07.52.25:812][ 40]Cmd: ACTOR DUPLICATE
+[2019.10.26-07.52.33:331][926]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.53.04:535][635]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.53.08:836][139]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.53.15:228][884]Cmd: DUPLICATE
+[2019.10.26-07.53.15:228][884]Cmd: ACTOR DUPLICATE
+[2019.10.26-07.53.22:875][780]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.53.27:559][330]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.53.55:918][633]Cmd: EDIT COPY
+[2019.10.26-07.54.01:745][327]Cmd: EDIT PASTE
+[2019.10.26-07.54.03:456][527]Cmd: TRANSACTION UNDO
+[2019.10.26-07.54.03:456][527]LogEditorTransaction: Undo Paste
+[2019.10.26-07.54.08:495][111]LogEditorViewport: Clicking Background
+[2019.10.26-07.54.10:552][356]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.54.14:338][803]Cmd: DUPLICATE
+[2019.10.26-07.54.14:338][803]Cmd: ACTOR DUPLICATE
+[2019.10.26-07.54.25:400][106]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.54.28:741][502]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.54.32:600][951]LogEditorViewport: Clicking Background
+[2019.10.26-07.54.33:513][ 59]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x470)
+[2019.10.26-07.54.56:101][700]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x467)
+[2019.10.26-07.54.57:266][834]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.54.58:661][997]Cmd: DUPLICATE
+[2019.10.26-07.54.58:661][997]Cmd: ACTOR DUPLICATE
+[2019.10.26-07.55.39:924][876]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.55.41:417][ 51]Cmd: DUPLICATE
+[2019.10.26-07.55.41:417][ 51]Cmd: ACTOR DUPLICATE
+[2019.10.26-07.55.44:264][380]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.55.47:227][730]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.57.08:987][309]Cmd: DELETE
+[2019.10.26-07.57.08:988][309]Cmd: ACTOR DELETE
+[2019.10.26-07.57.09:002][309]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.26-07.57.09:002][309]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.26-07.57.09:002][309]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.26-07.57.09:003][309]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.26-07.57.09:030][309]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2019.10.26-07.57.09:030][309]LogEditorActor: Deleted 4 Actors (0.043 secs)
+[2019.10.26-07.57.14:882][  7]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x467)
+[2019.10.26-07.57.18:552][435]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x449)
+[2019.10.26-07.57.20:404][646]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x459)
+[2019.10.26-07.57.21:411][761]LogEditorViewport: Clicking Background
+[2019.10.26-07.57.28:640][622]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.57.33:841][241]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.57.39:479][902]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.57.41:785][175]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x451)
+[2019.10.26-07.57.42:651][271]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x462)
+[2019.10.26-07.57.44:151][445]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x451)
+[2019.10.26-07.57.47:926][879]LogEditorViewport: Clicking Background
+[2019.10.26-07.57.50:118][138]Cmd: TRANSACTION UNDO
+[2019.10.26-07.57.50:118][138]LogEditorTransaction: Undo Clicking Background
+[2019.10.26-07.57.59:126][172]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.58.38:343][779]Cmd: TRANSACTION UNDO
+[2019.10.26-07.58.38:343][779]LogEditorTransaction: Undo Move Actors
+[2019.10.26-07.58.39:146][866]Cmd: TRANSACTION UNDO
+[2019.10.26-07.58.39:146][866]LogEditorTransaction: Undo Move Actors
+[2019.10.26-07.58.50:235][171]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x449)
+[2019.10.26-07.58.54:151][624]Cmd: TRANSACTION UNDO
+[2019.10.26-07.58.54:151][624]LogEditorTransaction: Undo Move Actors
+[2019.10.26-07.58.55:803][814]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.59.08:178][257]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x448)
+[2019.10.26-07.59.25:715][318]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x451)
+[2019.10.26-07.59.26:607][423]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.59.32:823][126]LogEditorViewport: Clicking Background
+[2019.10.26-07.59.33:241][175]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x451)
+[2019.10.26-07.59.38:818][820]LogEditorViewport: Clicking Background
+[2019.10.26-07.59.42:716][282]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.59.47:096][801]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x451)
+[2019.10.26-07.59.48:757][995]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-07.59.54:128][605]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.10.26-07.59.57:141][950]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.00.04:442][807]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.00.08:294][262]LogEditorViewport: Clicking Background
+[2019.10.26-08.00.08:956][341]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x467)
+[2019.10.26-08.00.16:057][182]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.00.17:151][313]Cmd: DELETE
+[2019.10.26-08.00.17:151][313]Cmd: ACTOR DELETE
+[2019.10.26-08.00.17:179][313]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.10.26-08.00.17:180][313]LogEditorActor: Deleted 0 Actors (0.029 secs)
+[2019.10.26-08.00.18:927][522]Cmd: TRANSACTION UNDO
+[2019.10.26-08.00.18:928][522]LogEditorTransaction: Undo Delete Actors
+[2019.10.26-08.00.21:580][832]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x467)
+[2019.10.26-08.00.22:889][983]Cmd: DELETE
+[2019.10.26-08.00.22:889][983]Cmd: ACTOR DELETE
+[2019.10.26-08.00.22:903][983]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.26-08.00.22:903][983]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.26-08.00.22:903][983]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.26-08.00.22:903][983]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.26-08.00.22:927][983]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2019.10.26-08.00.22:927][983]LogEditorActor: Deleted 4 Actors (0.038 secs)
+[2019.10.26-08.00.26:465][403]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x451)
+[2019.10.26-08.00.28:174][601]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.00.29:517][761]Cmd: DUPLICATE
+[2019.10.26-08.00.29:518][761]Cmd: ACTOR DUPLICATE
+[2019.10.26-08.00.37:145][664]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.00.40:253][ 32]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.00.57:420][  5]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.01.00:317][342]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.10.26-08.01.02:167][555]Cmd: DELETE
+[2019.10.26-08.01.02:167][555]Cmd: ACTOR DELETE
+[2019.10.26-08.01.02:198][555]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2019.10.26-08.01.02:198][555]LogEditorActor: Deleted 0 Actors (0.031 secs)
+[2019.10.26-08.01.06:410][ 54]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x475)
+[2019.10.26-08.01.09:539][422]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.01.11:913][692]Cmd: DELETE
+[2019.10.26-08.01.11:913][692]Cmd: ACTOR DELETE
+[2019.10.26-08.01.11:941][692]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2019.10.26-08.01.11:942][692]LogEditorActor: Deleted 0 Actors (0.029 secs)
+[2019.10.26-08.01.16:659][249]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.01.18:985][524]Cmd: DUPLICATE
+[2019.10.26-08.01.18:986][524]Cmd: ACTOR DUPLICATE
+[2019.10.26-08.01.35:081][440]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x475)
+[2019.10.26-08.01.39:965][ 19]Cmd: DELETE
+[2019.10.26-08.01.39:965][ 19]Cmd: ACTOR DELETE
+[2019.10.26-08.01.39:980][ 19]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.26-08.01.39:980][ 19]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.26-08.01.39:980][ 19]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.26-08.01.39:980][ 19]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.26-08.01.40:004][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2019.10.26-08.01.40:005][ 19]LogEditorActor: Deleted 4 Actors (0.040 secs)
+[2019.10.26-08.01.41:818][232]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x478)
+[2019.10.26-08.02.13:361][482]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-08.02.15:364][704]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-08.02.15:400][704]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2019.10.26-08.02.16:201][704]LogSavePackage: Moving 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/Labyrinth_Auto2C61739F74DFA27A4732BC48330BAD5FD.tmp' to 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/Autosaves/Game/HorrorEngine/Maps/Labyrinth_Auto2.umap'
+[2019.10.26-08.02.16:210][704]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/HorrorEngine/Maps/Labyrinth' took 0.837
+[2019.10.26-08.02.16:210][704]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.837
+[2019.10.26-08.02.25:937][852]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.02.27:419][ 26]Cmd: DUPLICATE
+[2019.10.26-08.02.27:419][ 26]Cmd: ACTOR DUPLICATE
+[2019.10.26-08.02.33:691][765]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.02.37:908][261]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.02.55:149][272]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x411)
+[2019.10.26-08.02.56:425][419]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.02.57:750][574]Cmd: DUPLICATE
+[2019.10.26-08.02.57:750][574]Cmd: ACTOR DUPLICATE
+[2019.10.26-08.03.29:559][343]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.03.32:038][638]Cmd: DUPLICATE
+[2019.10.26-08.03.32:038][638]Cmd: ACTOR DUPLICATE
+[2019.10.26-08.04.11:075][143]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.04.12:737][341]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.04.13:733][455]Cmd: DUPLICATE
+[2019.10.26-08.04.13:733][455]Cmd: ACTOR DUPLICATE
+[2019.10.26-08.04.22:432][478]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.04.26:531][961]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.05.06:232][514]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.05.08:081][733]Cmd: DUPLICATE
+[2019.10.26-08.05.08:081][733]Cmd: ACTOR DUPLICATE
+[2019.10.26-08.05.12:903][283]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.05.16:088][658]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.05.26:732][890]LogEditorViewport: Clicking Background
+[2019.10.26-08.05.30:650][356]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x488)
+[2019.10.26-08.05.32:837][613]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.05.34:179][772]Cmd: DUPLICATE
+[2019.10.26-08.05.34:179][772]Cmd: ACTOR DUPLICATE
+[2019.10.26-08.05.40:640][535]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.05.59:175][703]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.06.01:936][ 31]Cmd: DUPLICATE
+[2019.10.26-08.06.01:936][ 31]Cmd: ACTOR DUPLICATE
+[2019.10.26-08.06.07:956][738]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.06.18:412][966]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.06.37:243][152]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x493)
+[2019.10.26-08.06.40:926][585]LogEditorViewport: Clicking Background
+[2019.10.26-08.06.58:826][715]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.09.50:067][174]Cmd: DUPLICATE
+[2019.10.26-08.09.50:067][174]Cmd: ACTOR DUPLICATE
+[2019.10.26-08.10.24:406][203]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.10.29:203][772]Cmd: DUPLICATE
+[2019.10.26-08.10.29:203][772]Cmd: ACTOR DUPLICATE
+[2019.10.26-08.10.39:623][  2]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.10.43:429][453]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.10.59:174][309]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.11.03:516][826]Cmd: DUPLICATE
+[2019.10.26-08.11.03:516][826]Cmd: ACTOR DUPLICATE
+[2019.10.26-08.11.30:077][988]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.11.34:281][487]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.11.37:966][918]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x505)
+[2019.10.26-08.11.49:837][957]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-08.11.52:664][251]LogEditorViewport: Clicking Background
+[2019.10.26-08.12.00:235][156]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.12.06:674][923]Cmd: DUPLICATE
+[2019.10.26-08.12.06:674][923]Cmd: ACTOR DUPLICATE
+[2019.10.26-08.13.14:004][843]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.13.17:508][261]Cmd: DUPLICATE
+[2019.10.26-08.13.17:508][261]Cmd: ACTOR DUPLICATE
+[2019.10.26-08.13.33:794][188]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.13.38:517][753]Cmd: DUPLICATE
+[2019.10.26-08.13.38:517][753]Cmd: ACTOR DUPLICATE
+[2019.10.26-08.13.49:600][ 56]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.13.52:739][427]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.14.21:960][842]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x509)
+[2019.10.26-08.14.23:842][ 59]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.14.27:306][468]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.15.03:767][762]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x508)
+[2019.10.26-08.15.07:168][163]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.15.11:830][711]Cmd: DUPLICATE
+[2019.10.26-08.15.11:830][711]Cmd: ACTOR DUPLICATE
+[2019.10.26-08.15.35:741][506]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x511)
+[2019.10.26-08.15.40:460][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.15.42:497][302]Cmd: DUPLICATE
+[2019.10.26-08.15.42:497][302]Cmd: ACTOR DUPLICATE
+[2019.10.26-08.15.46:570][779]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.15.49:616][135]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.15.57:425][ 48]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x519)
+[2019.10.26-08.16.14:456][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.16.20:724][814]Cmd: DUPLICATE
+[2019.10.26-08.16.20:724][814]Cmd: ACTOR DUPLICATE
+[2019.10.26-08.16.49:068][136]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.16.51:763][454]Cmd: DUPLICATE
+[2019.10.26-08.16.51:763][454]Cmd: ACTOR DUPLICATE
+[2019.10.26-08.17.30:548][986]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.17.34:761][487]Cmd: DUPLICATE
+[2019.10.26-08.17.34:761][487]Cmd: ACTOR DUPLICATE
+[2019.10.26-08.17.52:335][505]LogEditorViewport: Clicking Background
+[2019.10.26-08.17.53:613][656]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.18.12:315][886]Cmd: DUPLICATE
+[2019.10.26-08.18.12:315][886]Cmd: ACTOR DUPLICATE
+[2019.10.26-08.18.23:151][155]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.18.26:382][531]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.18.39:860][ 79]LogEditorViewport: Clicking Background
+[2019.10.26-08.18.48:163][ 65]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.18.52:153][540]Cmd: DUPLICATE
+[2019.10.26-08.18.52:153][540]Cmd: ACTOR DUPLICATE
+[2019.10.26-08.19.02:036][668]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.19.04:895][984]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.19.26:350][464]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.19.28:788][753]Cmd: DUPLICATE
+[2019.10.26-08.19.28:788][753]Cmd: ACTOR DUPLICATE
+[2019.10.26-08.20.17:888][516]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.20.23:460][179]Cmd: DUPLICATE
+[2019.10.26-08.20.23:460][179]Cmd: ACTOR DUPLICATE
+[2019.10.26-08.21.25:949][571]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-08.21.25:986][571]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2019.10.26-08.21.26:852][571]LogSavePackage: Moving 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/Labyrinth_Auto3917CFE7642E2A4FC7AF62FB96E333791.tmp' to 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/Autosaves/Game/HorrorEngine/Maps/Labyrinth_Auto3.umap'
+[2019.10.26-08.21.26:866][571]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/HorrorEngine/Maps/Labyrinth' took 0.909
+[2019.10.26-08.21.26:866][571]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.909
+[2019.10.26-08.21.39:073][ 15]Cmd: DUPLICATE
+[2019.10.26-08.21.39:073][ 15]Cmd: ACTOR DUPLICATE
+[2019.10.26-08.21.58:538][282]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.22.12:326][458]Cmd: TRANSACTION UNDO
+[2019.10.26-08.22.12:326][458]LogEditorTransaction: Undo Move Actors
+[2019.10.26-08.22.23:329][739]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.22.24:906][925]Cmd: DUPLICATE
+[2019.10.26-08.22.24:906][925]Cmd: ACTOR DUPLICATE
+[2019.10.26-08.22.54:142][374]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.22.56:666][673]Cmd: DUPLICATE
+[2019.10.26-08.22.56:666][673]Cmd: ACTOR DUPLICATE
+[2019.10.26-08.23.04:153][537]Cmd: TRANSACTION UNDO
+[2019.10.26-08.23.04:153][537]LogEditorTransaction: Undo Duplicate Folders Hierarchy
+[2019.10.26-08.23.04:730][597]Cmd: TRANSACTION UNDO
+[2019.10.26-08.23.04:730][597]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.26-08.23.07:387][905]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x449)
+[2019.10.26-08.23.17:283][ 55]LogEditorViewport: Clicking Background
+[2019.10.26-08.23.19:981][373]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.23.38:920][630]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.23.43:833][212]Cmd: DUPLICATE
+[2019.10.26-08.23.43:833][212]Cmd: ACTOR DUPLICATE
+[2019.10.26-08.23.54:810][511]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.23.57:884][872]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.24.16:164][ 12]LogEditorViewport: Clicking Background
+[2019.10.26-08.24.18:133][244]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x549)
+[2019.10.26-08.24.20:254][488]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.24.21:969][691]Cmd: DUPLICATE
+[2019.10.26-08.24.21:969][691]Cmd: ACTOR DUPLICATE
+[2019.10.26-08.24.41:659][983]LogEditorViewport: Clicking Background
+[2019.10.26-08.24.44:614][333]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.24.44:772][346]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2019.10.26-08.24.45:659][346]LogSavePackage: Moving 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/Labyrinth0BAEF01443E8B85F7EF277B3624378F4.tmp' to 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Content/HorrorEngine/Maps/Labyrinth.umap'
+[2019.10.26-08.24.45:760][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HorrorEngine/Maps/Labyrinth_BuiltData" FILE="C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Content/HorrorEngine/Maps/Labyrinth_BuiltData.uasset" SILENT=true
+[2019.10.26-08.24.46:294][346]LogSavePackage: Moving 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/Labyrinth_BuiltData4A2F09CD45C543958D36E19B3043308D.tmp' to 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Content/HorrorEngine/Maps/Labyrinth_BuiltData.uasset'
+[2019.10.26-08.25.08:704][  8]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.26-08.25.08:714][  8]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2019.10.26-08.25.08:714][  8]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.26-08.25.08:714][  8]PIE: New page: PIE session: Labyrinth (Oct 26, 2019, 12:25:08 AM)
+[2019.10.26-08.25.08:714][  8]LogPlayLevel: Creating play world package: /Game/HorrorEngine/Maps/UEDPIE_0_Labyrinth
+[2019.10.26-08.25.08:777][  8]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062051s)
+[2019.10.26-08.25.08:777][  8]LogAIModule: Creating AISystem for world Labyrinth
+[2019.10.26-08.25.08:777][  8]LogPlayLevel: PIE: World Init took: (0.000570s)
+[2019.10.26-08.25.08:777][  8]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HorrorEngine/Maps/Labyrinth.Labyrinth to /Game/HorrorEngine/Maps/UEDPIE_0_Labyrinth.Labyrinth (0.062927s)
+[2019.10.26-08.25.08:810][  8]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2019.10.26-08.25.08:838][  8]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.26-08.25.08:852][  8]LogInit: FAudioDevice initialized.
+[2019.10.26-08.25.08:879][  8]LogLoad: Game class is 'HorrorEngineGameMode_C'
+[2019.10.26-08.25.08:893][  8]LogWorld: Bringing World /Game/HorrorEngine/Maps/UEDPIE_0_Labyrinth.Labyrinth up for play (max tick rate 0) at 2019.10.26-04.25.08
+[2019.10.26-08.25.08:895][  8]LogWorld: Bringing up level for play took: 0.012704
+[2019.10.26-08.25.08:908][  8]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.26-08.25.08:916][  8]PIE: Play in editor start time for /Game/HorrorEngine/Maps/UEDPIE_0_Labyrinth 1.073
+[2019.10.26-08.25.08:917][  8]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2019.10.26-08.25.32:432][541]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item50
+	HorrorEvents_C /Game/HorrorEngine/Maps/UEDPIE_0_Labyrinth.Labyrinth:PersistentLevel.HorrorEvents_C_4
+	Function /Game/HorrorEngine/Blueprints/Core/HorrorEvents.HorrorEvents_C:ExecuteUbergraph_HorrorEvents:1252
+[2019.10.26-08.25.32:432][541]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item50". Blueprint:  HorrorEvents Function:  Execute Ubergraph Horror Events Graph:  EventGraph Node:  Open/ On
+[2019.10.26-08.25.32:432][541]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item50
+	HorrorEvents_C /Game/HorrorEngine/Maps/UEDPIE_0_Labyrinth.Labyrinth:PersistentLevel.HorrorEvents_C_4
+	Function /Game/HorrorEngine/Blueprints/Core/HorrorEvents.HorrorEvents_C:ExecuteUbergraph_HorrorEvents:1252
+[2019.10.26-08.25.32:433][541]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item50". Blueprint:  HorrorEvents Function:  Execute Ubergraph Horror Events Graph:  EventGraph Node:  Open/ On
+[2019.10.26-08.25.56:029][291]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2019.10.26-08.25.56:029][291]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-08.25.56:065][291]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.26-08.25.56:066][291]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2019.10.26-08.25.56:097][291]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-08.25.56:107][291]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2019.10.26-08.25.56:117][291]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-08.25.56:154][292]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.10.26-08.25.57:628][454]LogSlate: Window 'Message Log' being destroyed
+[2019.10.26-08.25.57:634][454]LogSlate: Window 'Message Log' being destroyed
+[2019.10.26-08.33.44:162][316]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x457)
+[2019.10.26-08.33.45:699][492]LogEditorViewport: Clicking Background
+[2019.10.26-08.33.47:722][732]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.33.54:262][512]Cmd: DUPLICATE
+[2019.10.26-08.33.54:262][512]Cmd: ACTOR DUPLICATE
+[2019.10.26-08.34.03:332][584]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.34.07:735][105]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.35.35:223][474]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.35.38:264][836]Cmd: DUPLICATE
+[2019.10.26-08.35.38:264][836]Cmd: ACTOR DUPLICATE
+[2019.10.26-08.35.42:473][326]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.35.51:467][392]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.36.04:003][875]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.36.36:049][680]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x558)
+[2019.10.26-08.36.46:851][930]LogEditorViewport: Clicking Background
+[2019.10.26-08.37.04:071][988]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.37.27:065][741]Cmd: DUPLICATE
+[2019.10.26-08.37.27:066][741]Cmd: ACTOR DUPLICATE
+[2019.10.26-08.37.32:454][366]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.37.35:721][747]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.38.02:014][842]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.38.08:590][623]Cmd: DUPLICATE
+[2019.10.26-08.38.08:590][623]Cmd: ACTOR DUPLICATE
+[2019.10.26-08.38.26:834][773]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.38.31:228][291]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.38.51:968][729]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.38.54:805][ 65]Cmd: DUPLICATE
+[2019.10.26-08.38.54:805][ 65]Cmd: ACTOR DUPLICATE
+[2019.10.26-08.39.00:939][766]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.39.04:271][134]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.39.24:545][458]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.39.28:657][945]LogEditorViewport: Clicking Background
+[2019.10.26-08.39.30:842][201]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x571)
+[2019.10.26-08.39.33:590][511]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x569)
+[2019.10.26-08.39.34:073][566]LogEditorViewport: Clicking Background
+[2019.10.26-08.39.36:344][820]LogEditorViewport: Clicking Background
+[2019.10.26-08.39.36:688][860]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x569)
+[2019.10.26-08.39.39:753][217]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.39.45:359][864]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x569)
+[2019.10.26-08.40.05:961][302]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.40.16:463][555]Cmd: DUPLICATE
+[2019.10.26-08.40.16:463][555]Cmd: ACTOR DUPLICATE
+[2019.10.26-08.40.23:598][388]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.40.28:881][ 20]Cmd: TRANSACTION UNDO
+[2019.10.26-08.40.28:881][ 20]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.26-08.40.42:154][572]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.40.45:325][947]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.41.08:573][666]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.41.15:958][544]Cmd: DUPLICATE
+[2019.10.26-08.41.15:958][544]Cmd: ACTOR DUPLICATE
+[2019.10.26-08.41.25:539][670]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.41.31:913][426]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.41.51:895][769]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.41.55:050][141]Cmd: DUPLICATE
+[2019.10.26-08.41.55:050][141]Cmd: ACTOR DUPLICATE
+[2019.10.26-08.42.03:163][ 88]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.42.06:120][437]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.42.16:060][580]LogEditorViewport: Clicking Background
+[2019.10.26-08.42.36:215][971]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.42.37:633][140]Cmd: DUPLICATE
+[2019.10.26-08.42.37:633][140]Cmd: ACTOR DUPLICATE
+[2019.10.26-08.42.42:394][690]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.42.45:438][ 50]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.43.06:568][522]LogEditorViewport: Clicking Background
+[2019.10.26-08.43.08:587][762]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.43.12:818][263]Cmd: DUPLICATE
+[2019.10.26-08.43.12:818][263]Cmd: ACTOR DUPLICATE
+[2019.10.26-08.43.29:264][203]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.43.33:542][710]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.43.51:038][730]LogEditorViewport: Clicking Background
+[2019.10.26-08.43.56:734][409]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.43.59:257][709]Cmd: DUPLICATE
+[2019.10.26-08.43.59:257][709]Cmd: ACTOR DUPLICATE
+[2019.10.26-08.44.05:001][371]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.44.09:824][923]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.44.14:485][471]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x587)
+[2019.10.26-08.44.34:709][835]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.44.39:788][440]Cmd: DUPLICATE
+[2019.10.26-08.44.39:788][440]Cmd: ACTOR DUPLICATE
+[2019.10.26-08.44.53:840][ 62]LogEditorViewport: Clicking Background
+[2019.10.26-08.44.59:993][794]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.45.01:407][962]Cmd: DUPLICATE
+[2019.10.26-08.45.01:407][962]Cmd: ACTOR DUPLICATE
+[2019.10.26-08.45.04:073][268]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.45.10:273][  4]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.45.30:310][311]LogEditorViewport: Clicking Background
+[2019.10.26-08.45.45:595][141]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.45.47:857][407]Cmd: DUPLICATE
+[2019.10.26-08.45.47:857][407]Cmd: ACTOR DUPLICATE
+[2019.10.26-08.45.54:176][140]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.45.58:807][686]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.46.13:024][324]LogEditorViewport: Clicking Background
+[2019.10.26-08.46.15:249][589]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.46.20:641][234]Cmd: DUPLICATE
+[2019.10.26-08.46.20:641][234]Cmd: ACTOR DUPLICATE
+[2019.10.26-08.46.36:573][104]LogEditorViewport: Clicking Background
+[2019.10.26-08.46.45:398][159]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.46.49:223][616]Cmd: DUPLICATE
+[2019.10.26-08.46.49:223][616]Cmd: ACTOR DUPLICATE
+[2019.10.26-08.47.01:977][106]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.47.05:275][497]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.47.29:271][336]LogEditorViewport: Clicking Background
+[2019.10.26-08.47.31:803][636]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.47.33:482][831]Cmd: DUPLICATE
+[2019.10.26-08.47.33:482][831]Cmd: ACTOR DUPLICATE
+[2019.10.26-08.47.40:817][675]LogEditorViewport: Clicking Background
+[2019.10.26-08.47.41:840][796]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x607)
+[2019.10.26-08.47.56:659][499]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.47.57:623][608]Cmd: DUPLICATE
+[2019.10.26-08.47.57:623][608]Cmd: ACTOR DUPLICATE
+[2019.10.26-08.48.20:349][283]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.48.22:576][545]Cmd: DUPLICATE
+[2019.10.26-08.48.22:576][545]Cmd: ACTOR DUPLICATE
+[2019.10.26-08.48.28:677][256]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.48.32:194][669]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.48.58:202][694]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.48.59:594][851]Cmd: DUPLICATE
+[2019.10.26-08.48.59:594][851]Cmd: ACTOR DUPLICATE
+[2019.10.26-08.49.16:309][803]LogEditorViewport: Clicking Background
+[2019.10.26-08.49.48:021][568]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-08.49.48:119][578]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.26-08.49.48:131][578]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2019.10.26-08.49.48:131][578]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.26-08.49.48:131][578]PIE: New page: PIE session: Labyrinth (Oct 26, 2019, 12:49:48 AM)
+[2019.10.26-08.49.48:132][578]LogPlayLevel: Creating play world package: /Game/HorrorEngine/Maps/UEDPIE_0_Labyrinth
+[2019.10.26-08.49.48:199][578]LogPlayLevel: PIE: StaticDuplicateObject took: (0.067961s)
+[2019.10.26-08.49.48:199][578]LogAIModule: Creating AISystem for world Labyrinth
+[2019.10.26-08.49.48:199][578]LogPlayLevel: PIE: World Init took: (0.000585s)
+[2019.10.26-08.49.48:200][578]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HorrorEngine/Maps/Labyrinth.Labyrinth to /Game/HorrorEngine/Maps/UEDPIE_0_Labyrinth.Labyrinth (0.068801s)
+[2019.10.26-08.49.48:227][578]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2019.10.26-08.49.48:254][578]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.26-08.49.48:262][578]LogInit: FAudioDevice initialized.
+[2019.10.26-08.49.48:293][578]LogLoad: Game class is 'HorrorEngineGameMode_C'
+[2019.10.26-08.49.48:306][578]LogWorld: Bringing World /Game/HorrorEngine/Maps/UEDPIE_0_Labyrinth.Labyrinth up for play (max tick rate 0) at 2019.10.26-04.49.48
+[2019.10.26-08.49.48:308][578]LogWorld: Bringing up level for play took: 0.012832
+[2019.10.26-08.49.48:321][578]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.26-08.49.48:330][578]PIE: Play in editor start time for /Game/HorrorEngine/Maps/UEDPIE_0_Labyrinth 0.486
+[2019.10.26-08.49.48:330][578]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2019.10.26-08.50.01:146][867]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item50
+	HorrorEvents_C /Game/HorrorEngine/Maps/UEDPIE_0_Labyrinth.Labyrinth:PersistentLevel.HorrorEvents_C_1
+	Function /Game/HorrorEngine/Blueprints/Core/HorrorEvents.HorrorEvents_C:ExecuteUbergraph_HorrorEvents:1252
+[2019.10.26-08.50.01:146][867]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item50". Blueprint:  HorrorEvents Function:  Execute Ubergraph Horror Events Graph:  EventGraph Node:  Open/ On
+[2019.10.26-08.50.01:146][867]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item50
+	HorrorEvents_C /Game/HorrorEngine/Maps/UEDPIE_0_Labyrinth.Labyrinth:PersistentLevel.HorrorEvents_C_1
+	Function /Game/HorrorEngine/Blueprints/Core/HorrorEvents.HorrorEvents_C:ExecuteUbergraph_HorrorEvents:1252
+[2019.10.26-08.50.01:146][867]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item50". Blueprint:  HorrorEvents Function:  Execute Ubergraph Horror Events Graph:  EventGraph Node:  Open/ On
+[2019.10.26-08.50.47:741][210]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2019.10.26-08.50.47:741][210]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-08.50.47:819][210]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.26-08.50.47:819][210]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel' has LevelScriptBlueprint '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel.Labyrinth' with GeneratedClass '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth_C' with ClassGeneratedBy '/Game/HorrorEngine/Maps/Labyrinth.Labyrinth:PersistentLevel.Labyrinth'
+[2019.10.26-08.50.47:854][210]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-08.50.47:865][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2019.10.26-08.50.47:874][210]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-08.50.47:913][211]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.10.26-08.50.49:685][399]LogSlate: Window 'Message Log' being destroyed
+[2019.10.26-08.50.49:695][399]LogSlate: Window 'Message Log' being destroyed
+[2019.10.26-08.51.47:784][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2019.10.26-08.51.48:730][336]LogSavePackage: Moving 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/Labyrinth_Auto4B35EFC884F6436512322F885D37855D4.tmp' to 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/Autosaves/Game/HorrorEngine/Maps/Labyrinth_Auto4.umap'
+[2019.10.26-08.51.48:742][336]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/HorrorEngine/Maps/Labyrinth' took 0.984
+[2019.10.26-08.51.48:742][336]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.984
+[2019.10.26-16.51.44:171][322]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-16.51.45:519][481]Cmd: DUPLICATE
+[2019.10.26-16.51.45:520][481]Cmd: ACTOR DUPLICATE
+[2019.10.26-16.51.50:603][ 75]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-16.51.57:053][842]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-16.52.28:589][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-16.52.33:675][627]Cmd: DUPLICATE
+[2019.10.26-16.52.33:675][627]Cmd: ACTOR DUPLICATE
+[2019.10.26-16.52.39:864][340]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-16.52.42:866][684]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-16.53.20:439][125]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-16.53.20:476][125]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2019.10.26-16.53.21:437][125]LogSavePackage: Moving 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/Labyrinth_Auto59A7683D34B2AC0841BAB829D0BEA70F4.tmp' to 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/Autosaves/Game/HorrorEngine/Maps/Labyrinth_Auto5.umap'
+[2019.10.26-16.53.21:450][125]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/HorrorEngine/Maps/Labyrinth' took 1.003
+[2019.10.26-16.53.21:450][125]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.003
+[2019.10.26-16.53.26:258][689]Cmd: DUPLICATE
+[2019.10.26-16.53.26:258][689]Cmd: ACTOR DUPLICATE
+[2019.10.26-16.54.23:751][486]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-16.54.25:040][638]Cmd: DUPLICATE
+[2019.10.26-16.54.25:040][638]Cmd: ACTOR DUPLICATE
+[2019.10.26-16.54.29:538][151]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-16.54.35:132][806]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-16.54.59:875][719]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-16.55.01:554][916]Cmd: DUPLICATE
+[2019.10.26-16.55.01:554][916]Cmd: ACTOR DUPLICATE
+[2019.10.26-16.55.37:829][205]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-16.55.47:292][284]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-16.55.50:832][682]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.10.26-16.55.52:478][843]Cmd: EDIT COPY
+[2019.10.26-16.55.57:987][473]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume3)
+[2019.10.26-16.55.59:136][598]LogEditorViewport: Clicking Background
+[2019.10.26-16.56.00:207][723]Cmd: EDIT PASTE
+[2019.10.26-16.56.03:546][111]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-16.56.51:305][734]LogEditorViewport: Clicking Background
+[2019.10.26-16.56.53:629][  7]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-16.56.53:773][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2019.10.26-16.56.54:726][ 20]LogSavePackage: Moving 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/Labyrinth0A58EC8948ED78E6BA850D84AC3CD2EE.tmp' to 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Content/HorrorEngine/Maps/Labyrinth.umap'
+[2019.10.26-16.56.54:777][ 20]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HorrorEngine/Maps/Labyrinth_BuiltData" FILE="C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Content/HorrorEngine/Maps/Labyrinth_BuiltData.uasset" SILENT=true
+[2019.10.26-16.56.55:320][ 20]LogSavePackage: Moving 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/Labyrinth_BuiltDataDBF01FA741397FE4444C55A1B598E1F2.tmp' to 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Content/HorrorEngine/Maps/Labyrinth_BuiltData.uasset'
