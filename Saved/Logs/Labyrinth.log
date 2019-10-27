@@ -1480,3 +1480,757 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.27-00.57.28:113][808]LogSavePackage: Moving 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/FlippedMaze06B1717041D41DAB828C87B545E89A0B.tmp' to 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Content/HorrorEngine/Maps/FlippedMaze.umap'
 [2019.10.27-00.57.28:144][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HorrorEngine/Maps/FlippedMaze_BuiltData" FILE="C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Content/HorrorEngine/Maps/FlippedMaze_BuiltData.uasset" SILENT=true
 [2019.10.27-00.57.28:920][808]LogSavePackage: Moving 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/FlippedMaze_BuiltData54C64F7845067282841D679639EF8BFD.tmp' to 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Content/HorrorEngine/Maps/FlippedMaze_BuiltData.uasset'
+[2019.10.27-01.02.06:258][847]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-01.03.41:147][112]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-01.03.41:321][132]LogAssetEditorManager: Opening Asset editor for World /Game/HorrorEngine/Maps/FlippedMaze.FlippedMaze
+[2019.10.27-01.03.41:349][132]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2019.10.27-01.03.41:350][132]Cmd: MAP LOAD FILE="C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Content/HorrorEngine/Maps/FlippedMaze.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.27-01.03.41:350][132]LightingResults: New page: Lighting Build
+[2019.10.27-01.03.41:351][132]LoadErrors: New page: Loading map: FlippedMaze.umap
+[2019.10.27-01.03.41:356][132]MapCheck: New page: Map Check
+[2019.10.27-01.03.41:356][132]LightingResults: New page: Lighting Build
+[2019.10.27-01.03.41:389][132]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2019.10.27-01.03.41:754][132]LogAIModule: Creating AISystem for world FlippedMaze
+[2019.10.27-01.03.41:778][132]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.27-01.03.41:809][132]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2019.10.27-01.03.41:832][132]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.27-01.03.41:833][132]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.306ms to complete.
+[2019.10.27-01.03.41:833][132]LogFileHelpers: Loading map 'FlippedMaze' took 0.485
+[2019.10.27-01.03.45:242][467]LogAIModule: Creating AISystem for world Labyrinth
+[2019.10.27-01.03.45:343][467]LogAssetEditorManager: Opening Asset editor for World /Game/HorrorEngine/Maps/Labyrinth.Labyrinth
+[2019.10.27-01.03.45:388][467]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2019.10.27-01.03.45:389][467]Cmd: MAP LOAD FILE="C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Content/HorrorEngine/Maps/Labyrinth.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.27-01.03.45:389][467]LightingResults: New page: Lighting Build
+[2019.10.27-01.03.45:389][467]LoadErrors: New page: Loading map: Labyrinth.umap
+[2019.10.27-01.03.45:393][467]MapCheck: New page: Map Check
+[2019.10.27-01.03.45:393][467]LightingResults: New page: Lighting Build
+[2019.10.27-01.03.45:425][467]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2019.10.27-01.03.45:569][467]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.27-01.03.45:613][467]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2019.10.27-01.03.45:634][467]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.27-01.03.45:635][467]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.344ms to complete.
+[2019.10.27-01.03.45:635][467]LogFileHelpers: Loading map 'Labyrinth' took 0.247
+[2019.10.27-01.04.32:224][993]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-01.04.38:457][737]LogEditorViewport: Clicking Background
+[2019.10.27-01.04.45:213][538]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pillar_50x538)
+[2019.10.27-01.04.47:824][845]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Pillar_50x533)
+[2019.10.27-01.04.48:736][944]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Pillar_50x534)
+[2019.10.27-01.04.49:852][ 73]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Pillar_50x539)
+[2019.10.27-01.04.56:033][803]Cmd: EDIT COPY
+[2019.10.27-01.04.56:427][849]Cmd: EDIT COPY
+[2019.10.27-01.04.56:824][895]Cmd: EDIT COPY
+[2019.10.27-01.04.58:685][114]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-01.04.59:060][136]LogAIModule: Creating AISystem for world FlippedMaze
+[2019.10.27-01.04.59:086][136]LogAssetEditorManager: Opening Asset editor for World /Game/HorrorEngine/Maps/FlippedMaze.FlippedMaze
+[2019.10.27-01.04.59:119][136]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2019.10.27-01.04.59:120][136]Cmd: MAP LOAD FILE="C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Content/HorrorEngine/Maps/FlippedMaze.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.27-01.04.59:120][136]LightingResults: New page: Lighting Build
+[2019.10.27-01.04.59:121][136]LoadErrors: New page: Loading map: FlippedMaze.umap
+[2019.10.27-01.04.59:129][136]MapCheck: New page: Map Check
+[2019.10.27-01.04.59:129][136]LightingResults: New page: Lighting Build
+[2019.10.27-01.04.59:166][136]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2019.10.27-01.04.59:190][136]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.27-01.04.59:223][136]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2019.10.27-01.04.59:244][136]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.27-01.04.59:244][136]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.235ms to complete.
+[2019.10.27-01.04.59:244][136]LogFileHelpers: Loading map 'FlippedMaze' took 0.123
+[2019.10.27-01.05.07:393][ 92]Cmd: EDIT PASTE
+[2019.10.27-01.05.16:743][191]Cmd: TRANSACTION UNDO
+[2019.10.27-01.05.16:743][191]LogEditorTransaction: Undo Move Actors
+[2019.10.27-01.05.17:360][259]Cmd: TRANSACTION UNDO
+[2019.10.27-01.05.17:360][259]LogEditorTransaction: Undo Move Actors
+[2019.10.27-01.05.22:325][848]Cmd: TRANSACTION UNDO
+[2019.10.27-01.05.22:325][848]LogEditorTransaction: Undo Move Actors
+[2019.10.27-01.05.35:856][446]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.27-01.05.36:180][484]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.27-01.05.46:920][751]LogEditorViewport: Clicking Background
+[2019.10.27-01.05.47:636][837]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pillar_50x538)
+[2019.10.27-01.05.50:815][208]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pillar_50x539)
+[2019.10.27-01.05.52:138][363]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Pillar_50x538)
+[2019.10.27-01.05.53:087][472]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Pillar_50x533)
+[2019.10.27-01.05.54:585][648]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Pillar_50x534)
+[2019.10.27-01.06.16:115][209]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x415)
+[2019.10.27-01.06.38:915][707]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pillar_50x538)
+[2019.10.27-01.06.43:303][225]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x423)
+[2019.10.27-01.06.50:492][730]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_400x409)
+[2019.10.27-01.06.51:741][815]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_400x421)
+[2019.10.27-01.07.00:343][406]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-01.07.16:299][396]LogEditorViewport: Clicking Background
+[2019.10.27-01.07.17:097][480]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x402)
+[2019.10.27-01.07.43:939][419]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pillar_50x533)
+[2019.10.27-01.07.45:198][566]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Pillar_50x538)
+[2019.10.27-01.07.46:776][751]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Pillar_50x539)
+[2019.10.27-01.07.48:182][915]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Pillar_50x534)
+[2019.10.27-01.08.16:090][235]Cmd: EDIT COPY
+[2019.10.27-01.08.18:969][574]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-01.08.31:476][ 50]Cmd: EDIT PASTE
+[2019.10.27-01.08.47:311][922]Cmd: EDIT PASTE
+[2019.10.27-01.09.02:128][677]Cmd: EDIT PASTE
+[2019.10.27-01.09.19:319][718]LogEditorViewport: Clicking Background
+[2019.10.27-01.09.22:948][150]Cmd: EDIT PASTE
+[2019.10.27-01.09.39:982][162]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_400x420)
+[2019.10.27-01.09.43:509][465]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Pillar_50x535)
+[2019.10.27-01.09.46:643][834]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Pillar_50x534)
+[2019.10.27-01.09.49:563][179]LogEditorViewport: Clicking Background
+[2019.10.27-01.09.51:720][437]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-01.10.12:294][889]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-01.10.16:410][376]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-01.10.21:544][984]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Pillar_50x534)
+[2019.10.27-01.10.27:264][661]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-01.10.33:331][352]LogEditorViewport: Clicking Background
+[2019.10.27-01.10.36:281][705]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-01.10.37:966][903]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-01.10.39:944][135]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-01.10.44:847][714]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pillar_50x535)
+[2019.10.27-01.10.45:961][841]Cmd: DELETE
+[2019.10.27-01.10.45:961][841]Cmd: ACTOR DELETE
+[2019.10.27-01.10.45:976][841]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.10.46:004][841]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2019.10.27-01.10.46:004][841]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2019.10.27-01.10.47:548][ 26]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-01.11.05:441][137]Cmd: EDIT COPY
+[2019.10.27-01.11.05:823][181]Cmd: EDIT PASTE
+[2019.10.27-01.11.20:746][924]LogEditorViewport: Clicking Background
+[2019.10.27-01.11.27:273][698]Cmd: TRANSACTION UNDO
+[2019.10.27-01.11.27:273][698]LogEditorTransaction: Undo Move Actors
+[2019.10.27-01.11.30:947][123]LogEditorViewport: Clicking Background
+[2019.10.27-01.11.32:590][311]Cmd: EDIT PASTE
+[2019.10.27-01.11.47:672][ 60]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-01.12.03:109][858]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Pillar_50x570)
+[2019.10.27-01.12.04:345][  0]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Pillar_50x569)
+[2019.10.27-01.12.06:903][301]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Pillar_50x535)
+[2019.10.27-01.12.08:145][445]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Pillar_50x553)
+[2019.10.27-01.12.11:741][866]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Pillar_50x536)
+[2019.10.27-01.12.13:742][100]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Pillar_50x539)
+[2019.10.27-01.12.14:697][210]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_400x423)
+[2019.10.27-01.12.18:137][544]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Pillar_50x534)
+[2019.10.27-01.12.23:412][152]Cmd: EDIT COPY
+[2019.10.27-01.12.24:305][254]Cmd: EDIT PASTE
+[2019.10.27-01.12.52:429][368]Cmd: EDIT COPY
+[2019.10.27-01.12.57:955][ 27]Cmd: EDIT COPY
+[2019.10.27-01.12.59:158][167]LogEditorViewport: Clicking Background
+[2019.10.27-01.13.00:192][289]Cmd: EDIT PASTE
+[2019.10.27-01.13.07:775][178]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-01.13.14:766][  7]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pillar_50x637)
+[2019.10.27-01.13.17:030][273]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Pillar_50x638)
+[2019.10.27-01.13.20:788][711]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-01.13.40:142][ 22]Cmd: EDIT COPY
+[2019.10.27-01.13.40:618][ 78]Cmd: EDIT COPY
+[2019.10.27-01.13.40:947][117]Cmd: EDIT PASTE
+[2019.10.27-01.13.56:443][947]Cmd: EDIT COPY
+[2019.10.27-01.13.56:724][980]Cmd: EDIT PASTE
+[2019.10.27-01.14.09:747][518]Cmd: EDIT COPY
+[2019.10.27-01.14.10:409][596]Cmd: EDIT PASTE
+[2019.10.27-01.14.25:987][442]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-01.14.56:616][ 58]Cmd: EDIT COPY
+[2019.10.27-01.14.57:162][118]Cmd: EDIT PASTE
+[2019.10.27-01.14.59:743][417]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-01.15.34:350][526]LogEditorViewport: Clicking Background
+[2019.10.27-01.15.59:362][506]Cmd: EDIT COPY
+[2019.10.27-01.16.18:556][795]LogEditorViewport: Clicking Background
+[2019.10.27-01.16.18:882][832]LogEditorViewport: Clicking Background
+[2019.10.27-01.16.22:275][234]Cmd: EDIT COPY
+[2019.10.27-01.16.23:825][413]LogEditorViewport: Clicking Background
+[2019.10.27-01.16.25:520][614]LogEditorViewport: Clicking Background
+[2019.10.27-01.16.25:898][659]Cmd: EDIT PASTE
+[2019.10.27-01.16.47:070][149]Cmd: DELETE
+[2019.10.27-01.16.47:070][149]Cmd: ACTOR DELETE
+[2019.10.27-01.16.47:087][149]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.16.47:087][149]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.16.47:117][149]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2019.10.27-01.16.47:117][149]LogEditorActor: Deleted 2 Actors (0.046 secs)
+[2019.10.27-01.17.16:857][708]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.27-01.17.16:891][708]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2019.10.27-01.17.18:086][708]LogSavePackage: Moving 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/FlippedMaze_Auto31D3B7F784BE5490D2B67D99FA36544F1.tmp' to 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/Autosaves/Game/HorrorEngine/Maps/FlippedMaze_Auto3.umap'
+[2019.10.27-01.17.18:100][708]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/HorrorEngine/Maps/FlippedMaze' took 1.235
+[2019.10.27-01.17.18:100][708]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.235
+[2019.10.27-01.17.40:798][414]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-01.17.52:016][721]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Pillar_50x647)
+[2019.10.27-01.17.54:244][982]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Pillar_50x649)
+[2019.10.27-01.17.56:362][232]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Pillar_50x634)
+[2019.10.27-01.17.59:517][604]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Pillar_50x636)
+[2019.10.27-01.18.01:054][781]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Pillar_50x622)
+[2019.10.27-01.18.03:766][100]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Pillar_50x624)
+[2019.10.27-01.18.05:106][257]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Pillar_50x626)
+[2019.10.27-01.18.07:157][498]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Pillar_50x628)
+[2019.10.27-01.18.09:411][760]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Pillar_50x630)
+[2019.10.27-01.18.10:383][872]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Pillar_50x632)
+[2019.10.27-01.18.12:810][159]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Pillar_50x617)
+[2019.10.27-01.18.14:581][366]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Pillar_50x619)
+[2019.10.27-01.18.16:778][625]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Pillar_50x605)
+[2019.10.27-01.18.18:052][773]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Pillar_50x607)
+[2019.10.27-01.18.20:047][  6]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_400x590)
+[2019.10.27-01.18.23:021][266]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Pillar_50x609)
+[2019.10.27-01.18.25:282][532]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Pillar_50x611)
+[2019.10.27-01.18.27:394][781]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Pillar_50x613)
+[2019.10.27-01.18.30:529][151]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Pillar_50x615)
+[2019.10.27-01.18.31:910][312]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Pillar_50x600)
+[2019.10.27-01.18.34:798][652]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Pillar_50x602)
+[2019.10.27-01.18.36:316][830]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Pillar_50x588)
+[2019.10.27-01.18.38:693][101]Cmd: TRANSACTION UNDO
+[2019.10.27-01.18.38:693][101]LogEditorTransaction: Undo Rotate Actors
+[2019.10.27-01.18.41:946][480]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Pillar_50x590)
+[2019.10.27-01.18.43:848][701]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Pillar_50x592)
+[2019.10.27-01.18.45:699][918]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Pillar_50x594)
+[2019.10.27-01.18.47:690][152]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Pillar_50x596)
+[2019.10.27-01.18.49:663][382]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Pillar_50x598)
+[2019.10.27-01.18.51:631][613]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Pillar_50x643)
+[2019.10.27-01.18.55:767][ 80]Cmd: EDIT COPY
+[2019.10.27-01.18.56:118][119]Cmd: EDIT COPY
+[2019.10.27-01.18.56:377][148]Cmd: EDIT COPY
+[2019.10.27-01.18.57:180][242]Cmd: EDIT PASTE
+[2019.10.27-01.19.18:641][722]Cmd: EDIT COPY
+[2019.10.27-01.19.19:301][800]Cmd: EDIT PASTE
+[2019.10.27-01.19.33:594][456]Cmd: EDIT COPY
+[2019.10.27-01.19.33:986][502]Cmd: EDIT PASTE
+[2019.10.27-01.19.55:564][999]Cmd: EDIT COPY
+[2019.10.27-01.19.56:018][ 52]Cmd: EDIT PASTE
+[2019.10.27-01.20.11:499][744]Cmd: EDIT COPY
+[2019.10.27-01.20.11:873][787]Cmd: EDIT PASTE
+[2019.10.27-01.20.20:941][820]Cmd: EDIT COPY
+[2019.10.27-01.20.21:591][897]Cmd: EDIT PASTE
+[2019.10.27-01.20.31:710][ 34]Cmd: EDIT COPY
+[2019.10.27-01.20.31:981][ 65]Cmd: EDIT PASTE
+[2019.10.27-01.20.44:063][445]Cmd: EDIT COPY
+[2019.10.27-01.20.44:753][525]Cmd: EDIT PASTE
+[2019.10.27-01.21.13:622][923]Cmd: EDIT COPY
+[2019.10.27-01.21.13:919][957]Cmd: EDIT PASTE
+[2019.10.27-01.21.27:765][562]Cmd: EDIT COPY
+[2019.10.27-01.21.28:070][597]Cmd: EDIT PASTE
+[2019.10.27-01.21.36:139][515]Cmd: EDIT COPY
+[2019.10.27-01.21.36:370][541]Cmd: EDIT PASTE
+[2019.10.27-01.21.45:684][604]Cmd: EDIT PASTE
+[2019.10.27-01.21.57:393][936]Cmd: EDIT PASTE
+[2019.10.27-01.22.12:870][688]Cmd: EDIT PASTE
+[2019.10.27-01.22.21:721][691]Cmd: EDIT COPY
+[2019.10.27-01.22.22:122][738]Cmd: EDIT PASTE
+[2019.10.27-01.22.57:780][862]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.27-01.23.45:873][577]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1296)
+[2019.10.27-01.23.50:403][112]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1299)
+[2019.10.27-01.23.52:595][255]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1296)
+[2019.10.27-01.23.56:133][671]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-01.24.57:396][968]LogEditorViewport: Clicking Background
+[2019.10.27-01.25.00:061][284]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.27-01.25.04:389][754]LogEditorViewport: Clicking Background
+[2019.10.27-01.25.05:313][854]Cmd: EDIT PASTE
+[2019.10.27-01.25.15:414][933]Cmd: EDIT PASTE
+[2019.10.27-01.25.31:723][771]Cmd: EDIT COPY
+[2019.10.27-01.25.32:060][810]Cmd: EDIT PASTE
+[2019.10.27-01.25.47:094][510]LogEditorViewport: Clicking Background
+[2019.10.27-01.25.50:497][846]Cmd: DELETE
+[2019.10.27-01.25.50:497][846]Cmd: ACTOR DELETE
+[2019.10.27-01.25.50:529][846]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.25.50:529][846]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.25.50:529][846]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.25.50:529][846]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.25.50:529][846]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.25.50:530][846]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.25.50:530][846]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.25.50:530][846]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.25.50:530][846]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.25.50:530][846]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.25.50:530][846]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.25.50:531][846]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.25.50:531][846]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.25.50:531][846]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.25.50:531][846]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.25.50:531][846]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.25.50:531][846]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.25.50:532][846]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.25.50:532][846]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.25.50:532][846]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.25.50:532][846]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.25.50:532][846]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.25.50:532][846]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.25.50:533][846]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.25.50:533][846]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.25.50:533][846]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.25.50:533][846]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.25.50:533][846]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.25.50:534][846]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.25.50:534][846]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.25.50:534][846]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.25.50:534][846]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.25.50:534][846]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.25.50:534][846]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.25.50:535][846]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.25.50:535][846]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.25.50:535][846]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.25.50:535][846]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.25.50:535][846]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.25.50:535][846]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.25.50:536][846]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.25.50:536][846]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.25.50:536][846]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.25.50:536][846]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.25.50:536][846]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.25.50:536][846]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.25.50:537][846]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.25.50:567][846]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2019.10.27-01.25.50:567][846]LogEditorActor: Deleted 47 Actors (0.069 secs)
+[2019.10.27-01.25.52:766][ 76]Cmd: DELETE
+[2019.10.27-01.25.52:766][ 76]Cmd: ACTOR DELETE
+[2019.10.27-01.25.52:790][ 76]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.25.52:790][ 76]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.25.52:790][ 76]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.25.52:790][ 76]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.25.52:817][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.10.27-01.25.52:817][ 76]LogEditorActor: Deleted 4 Actors (0.050 secs)
+[2019.10.27-01.25.54:147][205]Cmd: DELETE
+[2019.10.27-01.25.54:147][205]Cmd: ACTOR DELETE
+[2019.10.27-01.25.54:172][205]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.25.54:172][205]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.25.54:204][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.10.27-01.25.54:204][205]LogEditorActor: Deleted 2 Actors (0.056 secs)
+[2019.10.27-01.25.55:350][318]Cmd: DELETE
+[2019.10.27-01.25.55:350][318]Cmd: ACTOR DELETE
+[2019.10.27-01.25.55:374][318]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.25.55:399][318]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2019.10.27-01.25.55:399][318]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2019.10.27-01.25.57:920][576]Cmd: DELETE
+[2019.10.27-01.25.57:921][576]Cmd: ACTOR DELETE
+[2019.10.27-01.25.57:947][576]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.25.57:947][576]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.25.57:948][576]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.25.57:948][576]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.25.57:948][576]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.25.57:948][576]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.25.57:948][576]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.25.57:949][576]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.25.57:949][576]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.25.57:949][576]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.25.57:949][576]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.25.57:976][576]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.10.27-01.25.57:976][576]LogEditorActor: Deleted 11 Actors (0.055 secs)
+[2019.10.27-01.26.01:388][925]Cmd: DELETE
+[2019.10.27-01.26.01:388][925]Cmd: ACTOR DELETE
+[2019.10.27-01.26.01:415][925]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.01:416][925]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.01:416][925]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.01:416][925]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.01:416][925]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.01:416][925]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.01:417][925]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.01:417][925]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.01:417][925]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.01:417][925]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.01:417][925]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.01:418][925]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.01:418][925]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.01:418][925]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.01:418][925]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.01:418][925]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.01:418][925]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.01:419][925]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.01:419][925]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.01:419][925]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.01:447][925]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.10.27-01.26.01:447][925]LogEditorActor: Deleted 20 Actors (0.060 secs)
+[2019.10.27-01.26.04:229][211]Cmd: DELETE
+[2019.10.27-01.26.04:229][211]Cmd: ACTOR DELETE
+[2019.10.27-01.26.04:254][211]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.04:254][211]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.04:254][211]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.04:255][211]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.04:255][211]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.04:255][211]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.04:255][211]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.04:255][211]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.04:256][211]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.04:256][211]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.04:256][211]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.04:256][211]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.04:256][211]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.04:256][211]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.04:257][211]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.04:257][211]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.04:286][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.10.27-01.26.04:286][211]LogEditorActor: Deleted 16 Actors (0.057 secs)
+[2019.10.27-01.26.06:786][469]Cmd: DELETE
+[2019.10.27-01.26.06:786][469]Cmd: ACTOR DELETE
+[2019.10.27-01.26.06:809][469]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.06:841][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.10.27-01.26.06:841][469]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2019.10.27-01.26.09:488][744]Cmd: DELETE
+[2019.10.27-01.26.09:488][744]Cmd: ACTOR DELETE
+[2019.10.27-01.26.09:512][744]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.09:512][744]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.09:513][744]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.09:513][744]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.09:513][744]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.09:513][744]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.09:542][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2019.10.27-01.26.09:542][744]LogEditorActor: Deleted 6 Actors (0.054 secs)
+[2019.10.27-01.26.11:638][962]Cmd: DELETE
+[2019.10.27-01.26.11:638][962]Cmd: ACTOR DELETE
+[2019.10.27-01.26.11:661][962]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.11:661][962]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.11:661][962]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.11:661][962]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.11:662][962]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.11:662][962]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.11:662][962]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.11:662][962]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.11:662][962]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.11:662][962]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.11:689][962]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.10.27-01.26.11:689][962]LogEditorActor: Deleted 10 Actors (0.052 secs)
+[2019.10.27-01.26.14:230][223]Cmd: DELETE
+[2019.10.27-01.26.14:230][223]Cmd: ACTOR DELETE
+[2019.10.27-01.26.14:254][223]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.14:254][223]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.14:255][223]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.14:255][223]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.14:289][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2019.10.27-01.26.14:289][223]LogEditorActor: Deleted 4 Actors (0.059 secs)
+[2019.10.27-01.26.16:375][439]Cmd: DELETE
+[2019.10.27-01.26.16:375][439]Cmd: ACTOR DELETE
+[2019.10.27-01.26.16:398][439]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.16:398][439]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.16:427][439]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2019.10.27-01.26.16:427][439]LogEditorActor: Deleted 2 Actors (0.052 secs)
+[2019.10.27-01.26.18:432][648]Cmd: DELETE
+[2019.10.27-01.26.18:432][648]Cmd: ACTOR DELETE
+[2019.10.27-01.26.18:456][648]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.18:457][648]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.18:457][648]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.18:457][648]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.18:457][648]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.18:458][648]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.18:458][648]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.18:458][648]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.18:458][648]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.18:458][648]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.18:458][648]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.18:459][648]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.18:459][648]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.18:487][648]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.10.27-01.26.18:487][648]LogEditorActor: Deleted 13 Actors (0.055 secs)
+[2019.10.27-01.26.20:377][845]Cmd: DELETE
+[2019.10.27-01.26.20:377][845]Cmd: ACTOR DELETE
+[2019.10.27-01.26.20:401][845]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.20:401][845]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.20:401][845]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.20:401][845]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.20:402][845]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.20:402][845]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.20:402][845]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.20:402][845]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.20:402][845]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.20:402][845]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.20:431][845]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2019.10.27-01.26.20:431][845]LogEditorActor: Deleted 10 Actors (0.054 secs)
+[2019.10.27-01.26.22:469][ 62]Cmd: DELETE
+[2019.10.27-01.26.22:469][ 62]Cmd: ACTOR DELETE
+[2019.10.27-01.26.22:493][ 62]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.22:494][ 62]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.22:494][ 62]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.22:494][ 62]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.22:494][ 62]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.22:523][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.10.27-01.26.22:524][ 62]LogEditorActor: Deleted 5 Actors (0.054 secs)
+[2019.10.27-01.26.24:300][246]Cmd: DELETE
+[2019.10.27-01.26.24:300][246]Cmd: ACTOR DELETE
+[2019.10.27-01.26.24:323][246]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.24:324][246]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.24:324][246]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.24:324][246]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.24:352][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2019.10.27-01.26.24:352][246]LogEditorActor: Deleted 4 Actors (0.052 secs)
+[2019.10.27-01.26.59:608][226]Cmd: DELETE
+[2019.10.27-01.26.59:608][226]Cmd: ACTOR DELETE
+[2019.10.27-01.26.59:633][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.59:633][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.59:633][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.59:633][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.59:634][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.59:634][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.59:634][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.59:634][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.59:634][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.59:634][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.59:635][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.59:635][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.59:635][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.59:635][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.59:635][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.26.59:665][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2019.10.27-01.26.59:666][226]LogEditorActor: Deleted 15 Actors (0.059 secs)
+[2019.10.27-01.27.01:971][490]Cmd: DELETE
+[2019.10.27-01.27.01:971][490]Cmd: ACTOR DELETE
+[2019.10.27-01.27.01:996][490]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.01:996][490]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.01:996][490]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.01:996][490]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.01:997][490]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.01:997][490]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.01:997][490]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.01:997][490]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.01:997][490]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.01:997][490]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.01:998][490]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.01:998][490]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.01:998][490]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.02:026][490]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2019.10.27-01.27.02:026][490]LogEditorActor: Deleted 13 Actors (0.055 secs)
+[2019.10.27-01.27.04:122][730]Cmd: DELETE
+[2019.10.27-01.27.04:122][730]Cmd: ACTOR DELETE
+[2019.10.27-01.27.04:146][730]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.04:147][730]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.04:147][730]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.04:147][730]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.04:147][730]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.04:147][730]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.04:148][730]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.04:148][730]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.04:148][730]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.04:148][730]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.04:148][730]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.04:148][730]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.04:182][730]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.10.27-01.27.04:182][730]LogEditorActor: Deleted 12 Actors (0.061 secs)
+[2019.10.27-01.27.06:376][983]Cmd: DELETE
+[2019.10.27-01.27.06:376][983]Cmd: ACTOR DELETE
+[2019.10.27-01.27.06:403][983]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.06:403][983]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.06:403][983]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.06:403][983]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.06:404][983]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.06:404][983]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.06:404][983]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.06:404][983]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.06:404][983]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.06:404][983]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.06:405][983]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.06:405][983]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.06:405][983]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.06:405][983]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.06:405][983]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.06:405][983]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.06:406][983]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.06:406][983]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.06:406][983]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.06:406][983]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.06:406][983]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.06:406][983]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.06:436][983]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.10.27-01.27.06:436][983]LogEditorActor: Deleted 22 Actors (0.060 secs)
+[2019.10.27-01.27.08:510][216]Cmd: DELETE
+[2019.10.27-01.27.08:511][216]Cmd: ACTOR DELETE
+[2019.10.27-01.27.08:534][216]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.08:534][216]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.08:534][216]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.08:535][216]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.08:535][216]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.08:535][216]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.08:535][216]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.08:535][216]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.08:536][216]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.08:570][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2019.10.27-01.27.08:570][216]LogEditorActor: Deleted 9 Actors (0.059 secs)
+[2019.10.27-01.27.18:078][336]Cmd: DELETE
+[2019.10.27-01.27.18:078][336]Cmd: ACTOR DELETE
+[2019.10.27-01.27.18:101][336]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.18:102][336]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.18:102][336]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.18:102][336]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.18:102][336]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.18:102][336]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.18:103][336]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.18:103][336]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.18:103][336]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.18:103][336]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.18:103][336]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.18:103][336]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.18:104][336]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.18:104][336]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.18:104][336]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.18:104][336]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.18:138][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.10.27-01.27.18:138][336]LogEditorActor: Deleted 16 Actors (0.060 secs)
+[2019.10.27-01.27.28:516][567]Cmd: DELETE
+[2019.10.27-01.27.28:516][567]Cmd: ACTOR DELETE
+[2019.10.27-01.27.28:538][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.28:538][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.28:539][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.28:539][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.28:539][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.28:539][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.28:539][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.28:566][567]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.10.27-01.27.28:566][567]LogEditorActor: Deleted 7 Actors (0.050 secs)
+[2019.10.27-01.27.29:963][725]Cmd: DELETE
+[2019.10.27-01.27.29:963][725]Cmd: ACTOR DELETE
+[2019.10.27-01.27.29:988][725]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.29:988][725]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.29:988][725]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.29:988][725]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.29:989][725]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.29:989][725]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.29:989][725]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.29:989][725]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.29:989][725]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.29:989][725]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.29:990][725]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.29:990][725]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.29:990][725]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.29:990][725]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.29:990][725]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.30:021][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2019.10.27-01.27.30:022][725]LogEditorActor: Deleted 15 Actors (0.058 secs)
+[2019.10.27-01.27.31:561][900]Cmd: DELETE
+[2019.10.27-01.27.31:561][900]Cmd: ACTOR DELETE
+[2019.10.27-01.27.31:583][900]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.31:584][900]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.31:584][900]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.31:584][900]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.31:584][900]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.31:585][900]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.31:616][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.10.27-01.27.31:617][900]LogEditorActor: Deleted 6 Actors (0.055 secs)
+[2019.10.27-01.27.34:666][243]Cmd: DELETE
+[2019.10.27-01.27.34:667][243]Cmd: ACTOR DELETE
+[2019.10.27-01.27.34:689][243]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.34:689][243]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.34:723][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2019.10.27-01.27.34:724][243]LogEditorActor: Deleted 2 Actors (0.056 secs)
+[2019.10.27-01.27.35:754][358]Cmd: DELETE
+[2019.10.27-01.27.35:755][358]Cmd: ACTOR DELETE
+[2019.10.27-01.27.35:775][358]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-01.27.35:802][358]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.10.27-01.27.35:802][358]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2019.10.27-01.27.41:770][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.27-01.27.50:422][905]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-01.28.22:483][637]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-01.29.01:176][950]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.27-01.29.01:215][950]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2019.10.27-01.29.02:695][950]LogSavePackage: Moving 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/FlippedMaze_Auto4D2CB94834CE03A80002A6E85A00361BE.tmp' to 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/Autosaves/Game/HorrorEngine/Maps/FlippedMaze_Auto4.umap'
+[2019.10.27-01.29.02:709][950]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/HorrorEngine/Maps/FlippedMaze' took 1.525
+[2019.10.27-01.29.02:709][950]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.525
+[2019.10.27-01.30.04:177][680]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-01.30.09:813][  0]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-01.30.33:909][380]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.27-01.30.36:433][527]LogEditorViewport: Clicking Background
+[2019.10.27-01.31.14:192][  6]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-01.31.14:358][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2019.10.27-01.31.15:818][ 20]LogSavePackage: Moving 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/FlippedMaze32DBCBD544DB418C0DF3A5A02A66CE99.tmp' to 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Content/HorrorEngine/Maps/FlippedMaze.umap'
+[2019.10.27-01.31.16:069][ 20]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HorrorEngine/Maps/FlippedMaze_BuiltData" FILE="C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Content/HorrorEngine/Maps/FlippedMaze_BuiltData.uasset" SILENT=true
+[2019.10.27-01.31.17:114][ 20]LogSavePackage: Moving 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/FlippedMaze_BuiltData5B71470341BC23E93E256B8D58913B93.tmp' to 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Content/HorrorEngine/Maps/FlippedMaze_BuiltData.uasset'
+[2019.10.27-01.31.25:288][993]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-01.31.25:413][  8]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.27-01.31.25:426][  8]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/HorrorEngine/Maps/FlippedMaze.FlippedMaze:PersistentLevel' has LevelScriptBlueprint '/Game/HorrorEngine/Maps/FlippedMaze.FlippedMaze:PersistentLevel.FlippedMaze' with GeneratedClass '/Game/HorrorEngine/Maps/FlippedMaze.FlippedMaze_C' with ClassGeneratedBy '/Game/HorrorEngine/Maps/FlippedMaze.FlippedMaze:PersistentLevel.FlippedMaze'
+[2019.10.27-01.31.25:426][  8]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.27-01.31.25:426][  8]PIE: New page: PIE session: FlippedMaze (Oct 26, 2019, 5:31:25 PM)
+[2019.10.27-01.31.25:426][  8]LogPlayLevel: Creating play world package: /Game/HorrorEngine/Maps/UEDPIE_0_FlippedMaze
+[2019.10.27-01.31.25:501][  8]LogPlayLevel: PIE: StaticDuplicateObject took: (0.074174s)
+[2019.10.27-01.31.25:502][  8]LogAIModule: Creating AISystem for world FlippedMaze
+[2019.10.27-01.31.25:502][  8]LogPlayLevel: PIE: World Init took: (0.000687s)
+[2019.10.27-01.31.25:502][  8]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HorrorEngine/Maps/FlippedMaze.FlippedMaze to /Game/HorrorEngine/Maps/UEDPIE_0_FlippedMaze.FlippedMaze (0.075692s)
+[2019.10.27-01.31.25:532][  8]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2019.10.27-01.31.25:564][  8]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.27-01.31.25:574][  8]LogInit: FAudioDevice initialized.
+[2019.10.27-01.31.25:604][  8]LogLoad: Game class is 'HorrorEngineGameMode_C'
+[2019.10.27-01.31.25:629][  8]LogWorld: Bringing World /Game/HorrorEngine/Maps/UEDPIE_0_FlippedMaze.FlippedMaze up for play (max tick rate 0) at 2019.10.26-21.31.25
+[2019.10.27-01.31.25:630][  8]LogWorld: Bringing up level for play took: 0.023027
+[2019.10.27-01.31.25:642][  8]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.27-01.31.25:652][  8]PIE: Play in editor start time for /Game/HorrorEngine/Maps/UEDPIE_0_FlippedMaze -0.088
+[2019.10.27-01.31.25:653][  8]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/HorrorEngine/Maps/FlippedMaze.FlippedMaze:PersistentLevel' has LevelScriptBlueprint '/Game/HorrorEngine/Maps/FlippedMaze.FlippedMaze:PersistentLevel.FlippedMaze' with GeneratedClass '/Game/HorrorEngine/Maps/FlippedMaze.FlippedMaze_C' with ClassGeneratedBy '/Game/HorrorEngine/Maps/FlippedMaze.FlippedMaze:PersistentLevel.FlippedMaze'
+[2019.10.27-01.31.30:613][589]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/HorrorEngine/Maps/FlippedMaze.FlippedMaze:PersistentLevel' has LevelScriptBlueprint '/Game/HorrorEngine/Maps/FlippedMaze.FlippedMaze:PersistentLevel.FlippedMaze' with GeneratedClass '/Game/HorrorEngine/Maps/FlippedMaze.FlippedMaze_C' with ClassGeneratedBy '/Game/HorrorEngine/Maps/FlippedMaze.FlippedMaze:PersistentLevel.FlippedMaze'
+[2019.10.27-01.31.30:613][589]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-01.31.30:649][589]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.27-01.31.30:649][589]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/HorrorEngine/Maps/FlippedMaze.FlippedMaze:PersistentLevel' has LevelScriptBlueprint '/Game/HorrorEngine/Maps/FlippedMaze.FlippedMaze:PersistentLevel.FlippedMaze' with GeneratedClass '/Game/HorrorEngine/Maps/FlippedMaze.FlippedMaze_C' with ClassGeneratedBy '/Game/HorrorEngine/Maps/FlippedMaze.FlippedMaze:PersistentLevel.FlippedMaze'
+[2019.10.27-01.31.30:683][589]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-01.31.30:692][589]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2019.10.27-01.31.30:718][590]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.10.27-01.31.37:369][380]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-01.31.37:494][395]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.27-01.31.37:506][395]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/HorrorEngine/Maps/FlippedMaze.FlippedMaze:PersistentLevel' has LevelScriptBlueprint '/Game/HorrorEngine/Maps/FlippedMaze.FlippedMaze:PersistentLevel.FlippedMaze' with GeneratedClass '/Game/HorrorEngine/Maps/FlippedMaze.FlippedMaze_C' with ClassGeneratedBy '/Game/HorrorEngine/Maps/FlippedMaze.FlippedMaze:PersistentLevel.FlippedMaze'
+[2019.10.27-01.31.37:506][395]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.27-01.31.37:506][395]PIE: New page: PIE session: FlippedMaze (Oct 26, 2019, 5:31:37 PM)
+[2019.10.27-01.31.37:506][395]LogPlayLevel: Creating play world package: /Game/HorrorEngine/Maps/UEDPIE_0_FlippedMaze
+[2019.10.27-01.31.37:580][395]LogPlayLevel: PIE: StaticDuplicateObject took: (0.073042s)
+[2019.10.27-01.31.37:580][395]LogAIModule: Creating AISystem for world FlippedMaze
+[2019.10.27-01.31.37:580][395]LogPlayLevel: PIE: World Init took: (0.000546s)
+[2019.10.27-01.31.37:581][395]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HorrorEngine/Maps/FlippedMaze.FlippedMaze to /Game/HorrorEngine/Maps/UEDPIE_0_FlippedMaze.FlippedMaze (0.074025s)
+[2019.10.27-01.31.37:609][395]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2019.10.27-01.31.37:635][395]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.27-01.31.37:642][395]LogInit: FAudioDevice initialized.
+[2019.10.27-01.31.37:669][395]LogLoad: Game class is 'HorrorEngineGameMode_C'
+[2019.10.27-01.31.37:693][395]LogWorld: Bringing World /Game/HorrorEngine/Maps/UEDPIE_0_FlippedMaze.FlippedMaze up for play (max tick rate 0) at 2019.10.26-21.31.37
+[2019.10.27-01.31.37:694][395]LogWorld: Bringing up level for play took: 0.022117
+[2019.10.27-01.31.37:707][395]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.27-01.31.37:712][395]PIE: Play in editor start time for /Game/HorrorEngine/Maps/UEDPIE_0_FlippedMaze -0.029
+[2019.10.27-01.31.37:713][395]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/HorrorEngine/Maps/FlippedMaze.FlippedMaze:PersistentLevel' has LevelScriptBlueprint '/Game/HorrorEngine/Maps/FlippedMaze.FlippedMaze:PersistentLevel.FlippedMaze' with GeneratedClass '/Game/HorrorEngine/Maps/FlippedMaze.FlippedMaze_C' with ClassGeneratedBy '/Game/HorrorEngine/Maps/FlippedMaze.FlippedMaze:PersistentLevel.FlippedMaze'
+[2019.10.27-01.32.14:756][824]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/HorrorEngine/Maps/FlippedMaze.FlippedMaze:PersistentLevel' has LevelScriptBlueprint '/Game/HorrorEngine/Maps/FlippedMaze.FlippedMaze:PersistentLevel.FlippedMaze' with GeneratedClass '/Game/HorrorEngine/Maps/FlippedMaze.FlippedMaze_C' with ClassGeneratedBy '/Game/HorrorEngine/Maps/FlippedMaze.FlippedMaze:PersistentLevel.FlippedMaze'
+[2019.10.27-01.32.14:756][824]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-01.32.14:792][824]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.27-01.32.14:792][824]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/HorrorEngine/Maps/FlippedMaze.FlippedMaze:PersistentLevel' has LevelScriptBlueprint '/Game/HorrorEngine/Maps/FlippedMaze.FlippedMaze:PersistentLevel.FlippedMaze' with GeneratedClass '/Game/HorrorEngine/Maps/FlippedMaze.FlippedMaze_C' with ClassGeneratedBy '/Game/HorrorEngine/Maps/FlippedMaze.FlippedMaze:PersistentLevel.FlippedMaze'
+[2019.10.27-01.32.14:826][824]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-01.32.14:836][824]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2019.10.27-01.32.14:862][825]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.10.27-01.32.59:959][211]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pillar_50x746)
+[2019.10.27-01.33.03:609][631]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pillar_50x746)
+[2019.10.27-01.33.17:067][237]Cmd: SELECT NONE
+[2019.10.27-01.33.17:840][329]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Pillar_50x746)
+[2019.10.27-01.33.17:882][329]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.27-01.33.19:149][475]LogEditorViewport: Clicking Background
+[2019.10.27-01.33.20:752][664]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pillar_50x746)
+[2019.10.27-01.33.24:512][ 83]Cmd: SELECT NONE
+[2019.10.27-01.33.26:620][332]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pillar_50x746)
+[2019.10.27-01.33.29:638][686]Cmd: TRANSACTION UNDO
+[2019.10.27-01.33.29:638][686]LogEditorTransaction: Undo Move Actors
+[2019.10.27-01.33.32:154][976]LogEditorViewport: Clicking Background
+[2019.10.27-01.33.33:058][ 82]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.27-01.33.37:203][569]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-01.33.51:244][155]Cmd: EDIT COPY
+[2019.10.27-01.33.51:655][195]Cmd: EDIT COPY
+[2019.10.27-01.34.22:885][866]LogEditorViewport: Clicking Background
+[2019.10.27-01.34.24:446][ 51]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pillar_50x1007)
+[2019.10.27-01.34.32:426][999]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-01.34.59:490][ 33]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Pillar_50x1007)
+[2019.10.27-01.35.10:641][588]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-01.35.17:591][  6]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-01.35.32:822][928]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-01.35.32:933][935]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.27-01.35.32:946][935]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/HorrorEngine/Maps/FlippedMaze.FlippedMaze:PersistentLevel' has LevelScriptBlueprint '/Game/HorrorEngine/Maps/FlippedMaze.FlippedMaze:PersistentLevel.FlippedMaze' with GeneratedClass '/Game/HorrorEngine/Maps/FlippedMaze.FlippedMaze_C' with ClassGeneratedBy '/Game/HorrorEngine/Maps/FlippedMaze.FlippedMaze:PersistentLevel.FlippedMaze'
+[2019.10.27-01.35.32:946][935]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.27-01.35.32:946][935]PIE: New page: PIE session: FlippedMaze (Oct 26, 2019, 5:35:32 PM)
+[2019.10.27-01.35.32:946][935]LogPlayLevel: Creating play world package: /Game/HorrorEngine/Maps/UEDPIE_0_FlippedMaze
+[2019.10.27-01.35.33:023][935]LogPlayLevel: PIE: StaticDuplicateObject took: (0.076188s)
+[2019.10.27-01.35.33:023][935]LogAIModule: Creating AISystem for world FlippedMaze
+[2019.10.27-01.35.33:023][935]LogPlayLevel: PIE: World Init took: (0.000604s)
+[2019.10.27-01.35.33:024][935]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HorrorEngine/Maps/FlippedMaze.FlippedMaze to /Game/HorrorEngine/Maps/UEDPIE_0_FlippedMaze.FlippedMaze (0.077204s)
+[2019.10.27-01.35.33:057][935]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2019.10.27-01.35.33:086][935]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.27-01.35.33:093][935]LogInit: FAudioDevice initialized.
+[2019.10.27-01.35.33:122][935]LogLoad: Game class is 'HorrorEngineGameMode_C'
+[2019.10.27-01.35.33:146][935]LogWorld: Bringing World /Game/HorrorEngine/Maps/UEDPIE_0_FlippedMaze.FlippedMaze up for play (max tick rate 0) at 2019.10.26-21.35.33
+[2019.10.27-01.35.33:147][935]LogWorld: Bringing up level for play took: 0.022059
+[2019.10.27-01.35.33:160][935]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.27-01.35.33:166][935]PIE: Play in editor start time for /Game/HorrorEngine/Maps/UEDPIE_0_FlippedMaze -0.574
+[2019.10.27-01.35.33:167][935]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/HorrorEngine/Maps/FlippedMaze.FlippedMaze:PersistentLevel' has LevelScriptBlueprint '/Game/HorrorEngine/Maps/FlippedMaze.FlippedMaze:PersistentLevel.FlippedMaze' with GeneratedClass '/Game/HorrorEngine/Maps/FlippedMaze.FlippedMaze_C' with ClassGeneratedBy '/Game/HorrorEngine/Maps/FlippedMaze.FlippedMaze:PersistentLevel.FlippedMaze'
+[2019.10.27-01.36.56:118][856]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/HorrorEngine/Maps/FlippedMaze.FlippedMaze:PersistentLevel' has LevelScriptBlueprint '/Game/HorrorEngine/Maps/FlippedMaze.FlippedMaze:PersistentLevel.FlippedMaze' with GeneratedClass '/Game/HorrorEngine/Maps/FlippedMaze.FlippedMaze_C' with ClassGeneratedBy '/Game/HorrorEngine/Maps/FlippedMaze.FlippedMaze:PersistentLevel.FlippedMaze'
+[2019.10.27-01.36.56:119][856]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-01.36.56:153][856]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.27-01.36.56:153][856]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/HorrorEngine/Maps/FlippedMaze.FlippedMaze:PersistentLevel' has LevelScriptBlueprint '/Game/HorrorEngine/Maps/FlippedMaze.FlippedMaze:PersistentLevel.FlippedMaze' with GeneratedClass '/Game/HorrorEngine/Maps/FlippedMaze.FlippedMaze_C' with ClassGeneratedBy '/Game/HorrorEngine/Maps/FlippedMaze.FlippedMaze:PersistentLevel.FlippedMaze'
+[2019.10.27-01.36.56:192][856]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-01.36.56:200][856]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2019.10.27-01.36.56:231][857]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.10.27-01.36.59:325][220]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.27-01.38.01:319][642]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-01.38.01:472][656]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2019.10.27-01.38.02:957][656]LogSavePackage: Moving 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/FlippedMazeA3BA1A6342365623191924B6F4739111.tmp' to 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Content/HorrorEngine/Maps/FlippedMaze.umap'
+[2019.10.27-01.38.03:044][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HorrorEngine/Maps/FlippedMaze_BuiltData" FILE="C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Content/HorrorEngine/Maps/FlippedMaze_BuiltData.uasset" SILENT=true
+[2019.10.27-01.38.03:784][656]LogSavePackage: Moving 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/FlippedMaze_BuiltDataDBCF57084AF0C25C71C63984C9AB5B38.tmp' to 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Content/HorrorEngine/Maps/FlippedMaze_BuiltData.uasset'
+[2019.10.27-01.48.16:984][ 50]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x1160)
+[2019.10.27-01.48.23:422][813]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-01.48.34:798][167]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor_400x1157)
+[2019.10.27-01.48.37:017][320]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-01.48.42:163][555]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor_400x1155)
+[2019.10.27-01.48.42:287][555]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.27-01.48.47:405][159]LogEditorViewport: Clicking Background
+[2019.10.27-01.49.10:960][976]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-01.49.11:115][990]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2019.10.27-01.49.12:584][990]LogSavePackage: Moving 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/FlippedMazeBAEB525549D1899573E0CFBEDAA8CFD5.tmp' to 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Content/HorrorEngine/Maps/FlippedMaze.umap'
+[2019.10.27-01.49.12:628][990]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HorrorEngine/Maps/FlippedMaze_BuiltData" FILE="C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Content/HorrorEngine/Maps/FlippedMaze_BuiltData.uasset" SILENT=true
+[2019.10.27-01.49.13:412][990]LogSavePackage: Moving 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Saved/FlippedMaze_BuiltDataEA88CE08477971071190DA93C4821972.tmp' to 'C:/Users/Jackson/Documents/Unreal Projects/Labyrinth/Content/HorrorEngine/Maps/FlippedMaze_BuiltData.uasset'
